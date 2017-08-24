@@ -1,0 +1,32 @@
+{
+	"table" : "sChemCategoryCellularLocation",
+
+	"description" : "this table provides a mapping of structure based chemical classes to their cellular locations. ",
+
+	"cellularLocations" : {
+		{
+			"FATTY_ACID" : {
+				"cellular_location" : {
+					"HUMAN" : []
+				}
+			},
+
+			"GLYCEROLIPID" : {
+				"cellular_location" : {
+					"HUMAN" : []
+				}
+			},
+
+			"BILE_ACID" : {
+				"cellular_location" : {
+					"HUMAN" : []
+				}			
+			}
+
+		}
+
+
+
+
+	}
+}
