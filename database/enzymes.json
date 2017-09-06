@@ -1,5 +1,5 @@
 //  
-// Author: Djoumbou Feunang, Yannick
+// Author: Djoumbou Feunang, Yannick (2016)
 //
 //
 
@@ -200,7 +200,7 @@
              "references" : []
         },
                                 "ABKAR1" : {
-                   "name" : "",
+                   "name" : "Alpha,beta-ketoalkene double bond reductase 1",
             "description" : "",
              "biosystems" : {
                    "HUMAN" : {
@@ -209,13 +209,44 @@
                 },
                 "GUTMICRO" : {
                             "uniprot_ids" : [],
-                    "cellular_locations" : []
+                    "cellular_locations" : [
+                {
+                  "Title" : "Purification of an alpha,beta-ketoalkene double bond reductase from Salmonella typhimurium",
+                  "PMID" : "8876969",
+                  "PCMID" : "",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "",
+                  "URL" : ""
+                },
+                 {
+                  "Title" : "Carbon-carbon double-bond reductases in nature",
+                  "PMID" : "24750117",
+                  "PCMID" : "",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "10.3109/03602532.2014.910219",
+                  "URL" : ""
+                }
+                // ,
+                // {
+                //   "Title" : "",
+                //   "PMID" : "",
+                //   "PCMID" : "",
+                //   "ISBN" : "",
+                //   "ISSN" : "",
+                //   "DOI" : "",
+                //   "URL" : ""
+                // }
+
+
+                    ]
                 }
             },
              "references" : []
         },
-                                "ABKAR2" : {
-                   "name" : "",
+                    "ABKAR2" : {
+                   "name" : "Alpha,beta-ketoalkene double bond reductase 2",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -223,10 +254,39 @@
                     "cellular_locations" : []
                 }
             },
-             "references" : []
+             "references" : [
+                {
+                  "Title" : "Metabolism of BYZX in Human Liver Microsomes and Cytosol: Identification of the Metabolites and Metabolic Pathways of BYZX",
+                  "PMID" : "23555822",
+                  "PCMID" : "PMC3612106",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "10.1371/journal.pone.0059882",
+                  "URL" : ""
+                },
+                {
+                  "Title" : "Carbon-carbon double-bond reductases in nature",
+                  "PMID" : "24750117",
+                  "PCMID" : "",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "10.3109/03602532.2014.910219",
+                  "URL" : ""
+                },
+                {
+                  "Title" : "Asymmetric bioreduction of activated C=C bonds using enoate reductases from the old yellow enzyme family",
+                  "PMID" : "17353140",
+                  "PCMID" : "",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "10.1016/j.cbpa.2007.02.025",
+                  "URL" : ""
+                }
+
+             ]
         },
                                   "FMO1" : {
-                   "name" : "",
+                   "name" : "Flavin containing monooxygenase 1",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -237,7 +297,7 @@
              "references" : []
         },
                                   "FMO2" : {
-                   "name" : "",
+                   "name" : "Flavin containing monooxygenase 2",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -248,7 +308,7 @@
              "references" : []
         },
                                   "FMO3" : {
-                   "name" : "",
+                   "name" : "Flavin containing monooxygenase 3",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -336,7 +396,7 @@
         },
 
                           "EC_1_1_1_145" : {
-                   "name" : "3beta-hydroxy-delta5-steroid dehydrogenase",
+                   "name" : "3-beta-hydroxy-delta5-steroid dehydrogenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -362,7 +422,7 @@
              "references" : []
         },
                           "EC_1_1_1_149" : {
-                   "name" : "20alpha-hydroxysteroid dehydrogenase",
+                   "name" : "20-alpha-hydroxysteroid dehydrogenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -396,7 +456,7 @@
              "references" : []
         },
                           "EC_1_1_1_184" : {
-                   "name" : "",
+                   "name" : "Carbonyl reductase (NADPH)",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -425,7 +485,7 @@
              "references" : []
         },
                           "EC_1_1_1_330" : {
-                   "name" : "very-long-chain 3-oxoacyl-CoA reductase",
+                   "name" : "Very-long-chain 3-oxoacyl-CoA reductase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -480,7 +540,7 @@
              "references" : []
         },
                            "EC_1_1_3_20" : {
-                   "name" : "long-chain-alcohol oxidase",
+                   "name" : "Long-chain-alcohol oxidase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -491,21 +551,21 @@
              "references" : []
         },
                             "EC_1_2_1_7" : {
-                   "name" : "benzaldehyde dehydrogenase (NADP+)",
+                   "name" : "Benzaldehyde dehydrogenase (NADP+)",
             "description" : "",
              "biosystems" : {
             },
              "references" : []
         },
                            "EC_1_2_1_28" : {
-                   "name" : "benzaldehyde dehydrogenase (NAD+)",
+                   "name" : "Benzaldehyde dehydrogenase (NAD+)",
             "description" : "",
              "biosystems" : {
             },
              "references" : []
         },
                            "EC_1_2_1_29" : {
-                   "name" : "aryl-aldehyde dehydrogenase",
+                   "name" : "Aryl-aldehyde dehydrogenase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -516,7 +576,7 @@
              "references" : []
         },
                            "EC_1_2_1_30" : {
-                   "name" : "aryl-aldehyde dehydrogenase (NADP(+))",
+                   "name" : "Aryl-aldehyde dehydrogenase (NADP(+))",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -527,7 +587,7 @@
              "references" : []
         },
                            "EC_1_2_1_48" : {
-                   "name" : "long-chain-aldehyde dehydrogenase",
+                   "name" : "Long-chain-aldehyde dehydrogenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -549,7 +609,7 @@
              ]
         },
                            "EC_1_2_1_50" : {
-                   "name" : "long-chain acyl-protein thioester reductase",
+                   "name" : "Long-chain acyl-protein thioester reductase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -560,7 +620,7 @@
              "references" : []
         },
                             "EC_1_2_3_1" : {
-                   "name" : "aldehyde oxidase",
+                   "name" : "Aldehyde oxidase",
             "description" : "",
              "biosystems" : {
                    "HUMAN" : {
@@ -575,7 +635,7 @@
              "references" : []
         },
                             "EC_1_2_3_9" : {
-                   "name" : "",
+                   "name" : "Aryl-aldehyde oxidase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -610,8 +670,19 @@
             },
              "references" : []
         },
+                          "EC_1_3_1_34" : {
+                   "name" : "2,4-dienoyl-CoA reductase (NADPH)",
+            "description" : "",
+             "biosystems" : {
+                // "HUMAN" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
                            "EC_1_3_1_38" : {
-                   "name" : "trans-2-enoyl-CoA reductase (NADPH)",
+                   "name" : "Trans-2-enoyl-CoA reductase (NADPH)",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -639,7 +710,7 @@
              "references" : []
         },
                            "EC_1_3_1_77" : {
-                   "name" : "",
+                   "name" : "Anthocyanidin reductase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -649,8 +720,9 @@
             },
              "references" : []
         },
+
                            "EC_1_3_1_93" : {
-                   "name" : "",
+                   "name" : "Very-long-chain enoyl-CoA reductase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -661,7 +733,7 @@
              "references" : []
         },
                             "EC_1_3_8_1" : {
-                   "name" : "butyryl-CoA dehydrogenase",
+                   "name" : "Butyryl-CoA dehydrogenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -673,7 +745,7 @@
              "references" : []
         },
                             "EC_1_3_8_7" : {
-                   "name" : "medium-chain acyl-CoA dehydrogenase",
+                   "name" : "Medium-chain acyl-CoA dehydrogenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -685,7 +757,7 @@
              "references" : []
         },
                             "EC_1_3_3_6" : {
-                   "name" : "acyl-CoA oxidase",
+                   "name" : "Acyl-CoA oxidase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -699,7 +771,7 @@
              "references" : []
         },
                             "EC_1_3_8_8" : {
-                   "name" : "long-chain acyl-CoA dehydrogenase",
+                   "name" : "Long-chain acyl-CoA dehydrogenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -710,7 +782,7 @@
              "references" : []
         },
                             "EC_1_3_8_9" : {
-                   "name" : "very-long-chain acyl-CoA dehydrogenase",
+                   "name" : "Very-long-chain acyl-CoA dehydrogenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -722,7 +794,7 @@
              "references" : []
         },
                            "EC_1_3_99_4" : {
-                   "name" : "",
+                   "name" : "3-oxosteroid 1-dehydrogenase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -811,6 +883,45 @@
             },
              "references" : []
         },
+                         "EC_1_14_14_14" : {
+                   "name" : "aromatase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P08686"],
+                    "cellular_locations" : ["endoplasmic reticulum","endoplasmic reticulum membrane","membrane"]
+                }
+            },
+             "references" : [
+                {
+                  "Title" : "A review of mechanistic studies on aromatase (CYP19) and 17-hydroxylase-17,20-lyase (CYP17)",
+                  "PMID" : "21094255",
+                  "PCMID" : "",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "10.1016/j.jsbmb.2010.11.003",
+                  "URL" : ""
+                }
+
+              ]
+        },
+
+                         "EC_1_14_14_16" : {
+                   "name" : "Steroid 21-monooxygenase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P11511"],
+                    "cellular_locations" : ["organelle membrane","endoplasmic reticulum membrane",
+                      "mitochondrion","neuronal cell body"]
+                }
+            },
+             "references" : [
+
+
+             ]
+        },
+
                          "EC_1_14_14_19" : {
                    "name" : "Steroid 17-alpha-monooxygenase",
             "description" : "",
@@ -821,8 +932,80 @@
                       "mitochondrion","neuronal cell body"]
                 }
             },
+             "references" : [
+                {
+                  "Title" : "A review of mechanistic studies on aromatase (CYP19) and 17-hydroxylase-17,20-lyase (CYP17)",
+                  "PMID" : "21094255",
+                  "PCMID" : "",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "10.1016/j.jsbmb.2010.11.003",
+                  "URL" : ""
+                },
+                 {
+                  "Title" : "Information on EC 1.14.14.19 - steroid 17alpha-monooxygenase",
+                  "PMID" : "",
+                  "PCMID" : "",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "",
+                  "URL" : "http://www.brenda-enzymes.org/enzyme.php?ecno=1.14.14.19"
+                }
+
+
+
+             ]
+        },
+                         "EC_1_14_14_29" : {
+                   "name" : "25/26-hydroxycholesterol 7α-hydroxylase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["O75881"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane","organelle membrane"]
+                }
+            },
              "references" : []
         },
+                         "EC_1_14_14_32" : {
+                   "name" : "17alpha-hydroxyprogesterone deacetylase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P05093"],
+                    "cellular_locations" : ["axon","endoplasmic reticulum","endoplasmic reticulum membrane",
+                      "mitochondrion","neuronal cell body"]
+                }
+            },
+             "references" : [
+                {
+                  "Title" : "A review of mechanistic studies on aromatase (CYP19) and 17-hydroxylase-17,20-lyase (CYP17)",
+                  "PMID" : "21094255",
+                  "PCMID" : "",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "10.1016/j.jsbmb.2010.11.003",
+                  "URL" : ""
+                },
+                 {
+                  "Title" : "Information on EC 1.14.14.32 - 17alpha-hydroxyprogesterone deacetylase",
+                  "PMID" : "",
+                  "PCMID" : "",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "",
+                  "URL" : "http://www.brenda-enzymes.org/enzyme.php?ecno=1.14.14.32&Suchword=&reference=&UniProtAcc=&organism%5B%5D=Homo+sapiens&show_tm=0"
+                }
+
+
+
+             ]
+        },
+
+
+
+
+
                           "EC_1_14_15_4" : {
                    "name" : "Steroid 11-beta-monooxygenase",
             "description" : "",
@@ -835,7 +1018,7 @@
              "references" : []
         },
                           "EC_1_14_19_5" : {
-                   "name" : "acyl-CoA 11-(Z)-desaturase",
+                   "name" : "Acyl-CoA 11-(Z)-desaturase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -859,7 +1042,7 @@
              "references" : []
         },
                          "EC_1_14_19_18" : {
-                   "name" : "",
+                   "name" : "Sphingolipid 8-(E)-desaturase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -870,7 +1053,7 @@
              "references" : []
         },
                          "EC_1_14_19_19" : {
-                   "name" : "",
+                   "name" : "Sphingolipid 10-desaturase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -904,7 +1087,7 @@
              "references" : []
         },
                             "EC_2_1_1_6" : {
-                   "name" : "catechol O-methyltransferase",
+                   "name" : "Catechol O-methyltransferase",
             "description" : "",
              "biosystems" : {
                    "HUMAN" : {
@@ -921,7 +1104,7 @@
              "references" : []
         },
                             "EC_2_1_1_9" : {
-                   "name" : "thiol S-methyltransferase",
+                   "name" : "Thiol S-methyltransferase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -932,7 +1115,7 @@
              "references" : []
         },
                            "EC_2_1_1_15" : {
-                   "name" : "",
+                   "name" : "Fatty-acid O-methyltransferase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -943,7 +1126,7 @@
              "references" : []
         },
                            "EC_2_1_1_17" : {
-                   "name" : "phosphatidylethanolamine N-methyltransferase",
+                   "name" : "Phosphatidylethanolamine N-methyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -955,7 +1138,7 @@
              "references" : []
         },
                            "EC_2_1_1_42" : {
-                   "name" : "",
+                   "name" : "Flavone 3'-O-methyltransferase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -965,8 +1148,8 @@
             },
              "references" : []
         },
-                           "EC_2_1_1_45" : {
-                   "name" : "Flavone 3'-O-methyltransferase",
+                           "EC_2_1_1_46" : {
+                   "name" : "Isoflavone 4'-O-methyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -977,7 +1160,7 @@
              "references" : []
         },
                            "EC_2_1_1_67" : {
-                   "name" : "thiopurine S-methyltransferase",
+                   "name" : "Thiopurine S-methyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -988,7 +1171,7 @@
              "references" : []
         },
                            "EC_2_1_1_71" : {
-                   "name" : "phosphatidyl-N-methylethanolamine N-methyltransferase",
+                   "name" : "Phosphatidyl-N-methylethanolamine N-methyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1001,7 +1184,7 @@
              "references" : []
         },
                            "EC_2_1_1_96" : {
-                   "name" : "thioether S-methyltransferase",
+                   "name" : "Thioether S-methyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1023,7 +1206,7 @@
              "references" : []
         },
                           "EC_2_1_1_317" : {
-                   "name" : "sphingolipid C9-methyltransferase",
+                   "name" : "Sphingolipid C9-methyltransferase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -1034,7 +1217,7 @@
              "references" : []
         },
                             "EC_2_3_1_5" : {
-                   "name" : "arylamine N-acetyltransferase",
+                   "name" : "Arylamine N-acetyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1045,7 +1228,7 @@
              "references" : []
         },
                            "EC_2_3_1_13" : {
-                   "name" : "glycine N-acyltransferase",
+                   "name" : "Glycine N-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1057,7 +1240,7 @@
              "references" : []
         },
                            "EC_2_3_1_15" : {
-                   "name" : "glycerol-3-phosphate 1-O-acyltransferase",
+                   "name" : "Glycerol-3-phosphate 1-O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1071,7 +1254,7 @@
         },
 
                            "EC_2_3_1_18" : {
-                   "name" : "galactoside O-acetyltransferase",
+                   "name" : "Galactoside O-acetyltransferase",
             "description" : "",
              "biosystems" : {
                 "GUTMICRO" : {
@@ -1084,7 +1267,7 @@
 
 
                            "EC_2_3_1_16" : {
-                   "name" : "acetyl-CoA C-acyltransferase",
+                   "name" : "Acetyl-CoA C-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1099,7 +1282,7 @@
              "references" : []
         },
                            "EC_2_3_1_20" : {
-                   "name" : "diacylglycerol O-acyltransferase",
+                   "name" : "Diacylglycerol O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1139,7 +1322,7 @@
              "references" : []
         },
                            "EC_2_3_1_24" : {
-                   "name" : "sphingosine N-acyltransferase",
+                   "name" : "Sphingosine N-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1152,7 +1335,7 @@
              "references" : []
         },
                            "EC_2_3_1_25" : {
-                   "name" : "plasmalogen synthase",
+                   "name" : "Plasmalogen synthase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -1163,7 +1346,7 @@
              "references" : []
         },
                            "EC_2_3_1_26" : {
-                   "name" : "sterol O-acyltransferase",
+                   "name" : "Sterol O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1175,7 +1358,7 @@
              "references" : []
         },
                            "EC_2_3_1_42" : {
-                   "name" : "glycerone-phosphate O-acyltransferase",
+                   "name" : "Glycerone-phosphate O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1190,7 +1373,7 @@
         },
 
                            "EC_2_3_1_43" : {
-                   "name" : "phosphatidylcholine—sterol O-acyltransferase",
+                   "name" : "Phosphatidylcholine—sterol O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1229,7 +1412,7 @@
              "references" : []
         },
                            "EC_2_3_1_62" : {
-                   "name" : "",
+                   "name" : "2-acylglycerophosphocholine O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -1240,7 +1423,7 @@
              "references" : []
         },
                            "EC_2_3_1_63" : {
-                   "name" : "",
+                   "name" : "1-alkylglycerophosphocholine O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -1273,7 +1456,7 @@
              "references" : []
         },
                            "EC_2_3_1_75" : {
-                   "name" : "",
+                   "name" : "Long-chain-alcohol O-fatty-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1284,7 +1467,7 @@
              "references" : []
         },
                            "EC_2_3_1_76" : {
-                   "name" : "",
+                   "name" : "Retinol O-fatty-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1295,7 +1478,7 @@
              "references" : []
         },
                            "EC_2_3_1_80" : {
-                   "name" : "",
+                   "name" : "Ceramide glucosyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1306,7 +1489,7 @@
              "references" : []
         },
                            "EC_2_3_1_85" : {
-                   "name" : "",
+                   "name" : "Fatty-acid synthase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1317,7 +1500,7 @@
              "references" : []
         },
                            "EC_2_3_1_87" : {
-                   "name" : "",
+                   "name" : "Aralkylamine N-acetyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1328,7 +1511,7 @@
              "references" : []
         },
                            "EC_2_3_1_88" : {
-                   "name" : "",
+                   "name" : "Peptide alpha-N-acetyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1339,7 +1522,7 @@
              "references" : []
         },
                           "EC_2_3_1_102" : {
-                   "name" : "",
+                   "name" : "N6-hydroxylysine N-acetyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1361,7 +1544,7 @@
              "references" : []
         },
                           "EC_2_3_1_118" : {
-                   "name" : "",
+                   "name" : "Flavonol-3-O-β-glucoside O-malonyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1372,7 +1555,7 @@
              "references" : []
         },
                           "EC_2_3_1_121" : {
-                   "name" : "",
+                   "name" : "1-alkenylglycerophosphoethanolamine O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1383,7 +1566,7 @@
              "references" : []
         },
                           "EC_2_3_1_125" : {
-                   "name" : "",
+                   "name" : "1-alkyl-2-acetylglycerol O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1469,7 +1652,53 @@
                     "cellular_locations" : []
                 }
             },
-             "references" : []
+             "references" : [
+                {
+                  "Title" : "Glucuronides from metabolites to medicines: a survey of the in vivo generation, chemical synthesis and properties of glucuronides",
+                  "PMID" : "23648894",
+                  "PCMID" : "",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "10.1039/c3np70003h",
+                  "URL" : ""
+                },
+                {
+                  "Title" : "N-glucuronidation of drugs and other xenobiotics by human and animal UDP-glucuronosyltransferases.",
+                  "PMID" : "21434773",
+                  "PCMID" : "",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "10.3109/00498254.2011.563327",
+                  "URL" : ""
+                },
+                {
+                  "Title" : "Biotransformation and bioactivation reactions of alicyclic amines in drug molecules",
+                  "PMID" : "24909234",
+                  "PCMID" : "",
+                  "ISBN" : "",
+                  "ISSN" : " 0360-2532",
+                  "DOI" : "10.3109/03602532.2014.924962",
+                  "URL" : "http://dx.doi.org/10.3109/03602532.2014.924962"
+                }                
+                                // {
+                //   "Title" : "",
+                //   "PMID" : "",
+                //   "PCMID" : "",
+                //   "ISBN" : "",
+                //   "ISSN" : "",
+                //   "DOI" : "",
+                //   "URL" : ""
+                // }
+                                // {
+                //   "Title" : "",
+                //   "PMID" : "",
+                //   "PCMID" : "",
+                //   "ISBN" : "",
+                //   "ISSN" : "",
+                //   "DOI" : "",
+                //   "URL" : ""
+                // }
+             ]
         },
 
                            "EC_2_4_1_47" : {
@@ -1624,7 +1853,26 @@
                     "cellular_locations" : []
                 }
             },
-             "references" : []
+             "references" : [
+                {
+                  "Title" : "Comparison of tissue distribution and metabolism of 1,2- and 1,4-dibromobenzenes in female rats",
+                  "PMID" : "12608625",
+                  "PCMID" : "",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "",
+                  "URL" : ""
+                },
+                {
+                  "Title" : "toxicological review of dichlorobenzenes - EPA",
+                  "PMID" : "",
+                  "PCMID" : "",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "",
+                  "URL" : "https://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=457549"
+                }
+             ]
         },
                            "EC_2_5_1_26" : {
                    "name" : "",
@@ -1889,7 +2137,7 @@
                   "PCMID" : "",
                   "ISBN" : "",
                   "ISSN" : "",
-                  "DOI" : "10.1021/tx990184z CCC: $19.00",
+                  "DOI" : "10.1021/tx990184z",
                   "URL" : ""
                 }
                 // {
@@ -1898,7 +2146,7 @@
                 //   "PCMID" : "",
                 //   "ISBN" : "",
                 //   "ISSN" : "",
-                //   "DOI" : "10.1021/tx990184z CCC: $19.00",
+                //   "DOI" : "10.1021/tx990184z",
                 //   "URL" : ""
                 // }
              ]
@@ -1969,7 +2217,7 @@
              "references" : []
         },
                             "EC_3_1_1_3" : {
-                   "name" : "",
+                   "name" : "Triacylglycerol lipase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1977,10 +2225,29 @@
                     "cellular_locations" : []
                 }
             },
-             "references" : []
+             "references" : [
+                {
+                  "Title" : "Human Liver Arylacetamide Deacetylase",
+                  "PMID" : "",
+                  "PCMID" : "",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "",
+                  "URL" : "http://www.jbc.org/content/269/34/21650.full.pdf"
+                }
+                // {
+                //   "Title" : "Human Liver Arylacetamide Deacetylase",
+                //   "PMID" : "",
+                //   "PCMID" : "",
+                //   "ISBN" : "",
+                //   "ISSN" : "",
+                //   "DOI" : "",
+                //   "URL" : "http://www.jbc.org/content/269/34/21650.full.pdf"
+                // }
+             ]
         },
                             "EC_3_1_1_4" : {
-                   "name" : "",
+                   "name" : "phospholipase A2",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1997,8 +2264,16 @@
                   "ISSN" : "",
                   "DOI" : "",
                   "URL" : ""
+                },
+                {
+                  "Title" : "Homo sapiens:  calcium-independent cytosolic phospholipase A2",
+                  "PMID" : "",
+                  "PCMID" : "",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "",
+                  "URL" : "https://metacyc.org/META/NEW-IMAGE?type=REACTION&object=RXN-17735"
                 }
-                // ,
                 // {
                 //   "Title" : "",
                 //   "PMID" : "",
@@ -2056,6 +2331,29 @@
              "references" : []
         },
 
+        //                    "EC_3_1_1_25" : {
+        //            "name" : "1,4-lactonase",
+        //     "description" : "",
+        //      "biosystems" : {
+        //         "HUMAN" : {
+        //                     "uniprot_ids" : [],
+        //             "cellular_locations" : []
+        //         }
+        //     },
+        //      "references" : [
+        //       {
+        //         "Title" : "1,4-lactonase (BRENDA)",
+        //         "PMID" : "",
+        //         "PCMID" : "",
+        //         "ISBN" : "",
+        //         "ISSN" : "",
+        //         "DOI" : "",
+        //         "URL" : "http://www.brenda-enzymes.org/enzyme.php?ecno=3.1.1.25&Suchword=&reference=&UniProtAcc=&organism%5B%5D=Homo+sapiens&show_tm=0"
+        //       }
+
+
+        //      ]
+        // },
                            "EC_3_1_1_26" : {
                    "name" : "Galactolipase",
             "description" : "",
@@ -3346,15 +3644,25 @@
              "references" : []
         },
                           "EC_3_2_1_18" : {
-                   "name" : "",
+                   "name" : "exo-alpha-sialidase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
-                            "uniprot_ids" : [],
+                    "uniprot_ids" : ["Q99519", "Q9Y3R4", "Q9UQ49", "Q8WWR8"],
                     "cellular_locations" : []
                 }
             },
-             "references" : []
+             "references" : [
+                {
+                  "Title" : "The sweet spot: defining virus-sialic acid interactions.",
+                  "PMID" : "25263223",
+                  "PCMID" : "PMC4791167",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "10.1038/nrmicro3346",
+                  "URL" : ""
+                }
+             ]
         },
                         "EC_1_14_13_205" : {
                    "name" : "",
@@ -3541,6 +3849,38 @@
             },
              "references" : []
         },
+                 "FLAVONOID_C_GLYCOSIDASE" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "GUTMICRO" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : [
+                {
+                  "Title" : "Deglycosylation of isoflavone C-glycosides by newly isolated human intestinal bacteria.",
+                  "PMID" : "25199800",
+                  "PCMID" : "",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "10.1002/jsfa.6900",
+                  "URL" : ""
+                },
+                {
+                  "Title" : "",
+                  "PMID" : "",
+                  "PCMID" : "",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "",
+                  "URL" : ""
+                }
+
+             ]
+        },
+        
                   "UNSPECIFIED_ENVMICRO" : {
                    "name" : "",
             "description" : "",

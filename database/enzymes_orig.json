@@ -1,0 +1,3018 @@
+{
+          "table" : "enzymes",
+    "description" : "this table provides the list of enzymes, their names, , description, and references",
+        "emzymes" : {
+                                "CYP1A1" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P04798"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane", "intracellular membrane-bounded organelle",
+                      "mitochondrion", "organelle membrane"]
+                }
+            },
+             "references" : {
+
+             }
+        },
+                                "CYP1A2" : {
+                   "name" : "Cytochrome P450 1A2",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P05177"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane", "intracellular membrane-bounded organelle",
+                      "organelle membrane"]
+                }
+            },
+             "references" : []
+        },
+                                "CYP1B1" : {
+                   "name" : "Cytochrome P450 1B1",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["Q16678"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane", "intracellular membrane-bounded organelle",
+                      "mitochondrion", "organelle membrane"]
+                }
+            },
+             "references" : []
+        },
+                                "CYP2A6" : {
+                   "name" : "Cytochrome P450 2A6",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P11509"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane", "intracellular membrane-bounded organelle",
+                      "organelle membrane"]
+                }
+            },
+             "references" : []
+        },
+                               "CYP2A13" : {
+                   "name" : "Cytochrome P450 2A13",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["Q16696"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane","organelle membrane"]
+                }
+            },
+             "references" : []
+        },
+                                "CYP2B1" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                                "CYP2B6" : {
+                   "name" : "Cytochrome P450 2B6",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P20813"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane","organelle membrane"]
+                }
+            },
+             "references" : []
+        },
+                                "CYP2C8" : {
+                   "name" : "Cytochrome P450 2C8",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P10632"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane","organelle membrane"]
+                }
+            },
+             "references" : []
+        },
+                                "CYP2C9" : {
+                   "name" : "Cytochrome P450 2C9",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P11712"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane","intracellular membrane-bounded organelle",
+                      "organelle membrane"]
+                }
+            },
+             "references" : []
+        },
+                               "CYP2C18" : {
+                   "name" : "Cytochrome P450 2C18",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P33260"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane","organelle membrane"]
+                }
+            },
+             "references" : []
+        },
+                               "CYP2C19" : {
+                   "name" : "Cytochrome P450 2C19",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P33261"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane","intracellular membrane-bounded organelle",
+                      "organelle membrane"]
+                }
+            },
+             "references" : []
+        },
+                                "CYP2D6" : {
+                   "name" : "Cytochrome P450 2D6",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P10635"],
+                    "cellular_locations" : ["endoplasmic reticulum","endoplasmic reticulum membrane",
+                      "mitochondrion","organelle membrane"]
+                }
+            },
+             "references" : []
+        },
+                                "CYP2E1" : {
+                   "name" : "Cytochrome P450 2E1",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P05181"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane", "Golgi membrane",
+                      "intrinsic component of endoplasmic reticulum membrane",
+                      "mitochondrion"]
+                }
+            },
+             "references" : []
+        },
+                                "CYP3A4" : {
+                   "name" : "Cytochrome P450 3A4",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P08684"],
+                    "cellular_locations" : ["cytoplasm","endoplasmic reticulum membrane",
+                      "integral component of membrane",
+                      "intracellular membrane-bounded organelle",
+                      "organelle membrane"]
+                }
+            },
+             "references" : []
+        },
+                                "CYP3A5" : {
+                   "name" : "Cytochrome P450 3A5",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P20815"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane",
+                      "organelle membrane",
+                      "intracellular membrane-bounded organelle"]
+                }
+            },
+             "references" : []
+        },
+                                "CYP3A7" : {
+                   "name" : "Cytochrome P450 3A7",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P24462"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane","organelle membrane"]
+                }
+            },
+             "references" : []
+        },
+                                "ABKAR1" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                   "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                },
+                "GUTMICRO" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                                "ABKAR2" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                                  "FMO1" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                                  "FMO2" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                                  "FMO3" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                                 "UDPGT" : {
+                   "name" : "Uridine 5'-diphospho-glucuronosyltransferase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P22310","Q9HAW7","Q9Y4X1","P36537"],
+                    "cellular_locations" : ["endoplasmic reticulum","endoplasmic reticulum membrane",
+                      "integral component of membrane","intracellular membrane-bounded organelle",
+                      "organelle membrane"]
+                }
+            },
+             "references" : []
+        },
+                           "EC_1_1_1_35" : {
+                   "name" : "3-hydroxyacyl-CoA dehydrogenase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["Q08426","Q99714","Q16836"],
+                    "cellular_locations" : ["cytosol","mitochondrion","peroxisomal matrix",
+                      "peroxisome","cytoplasm","mitochondrial matrix",
+                      "mitochondrial ribonuclease P complex", "plasma membrane",
+                      "mitochondrial inner membrane","nucleoplasm"]
+                }
+            },
+             "references" : []
+        },
+                          "EC_1_1_1_211" : {
+                   "name" : "long-chain-(S)-3-hydroxyacyl-CoA:NAD+ oxidoreductase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P40939"],
+                    "cellular_locations" : ["extracellular matrix",
+                      "mitochondrial fatty acid beta-oxidation multienzyme complex",
+                      "mitochondrial inner membrane",
+                      "mitochondrial nucleoid",
+                      "mitochondrion"]
+                }
+            },
+             "references" : []
+        },
+                          "EC_1_1_1_213" : {
+                   "name" : "3alpha-hydroxysteroid:NAD(P)+ 3-oxidoreductase (Re-specific)",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : [
+                {
+                  "Title" : ,
+                  "PMID" : "8172617",
+                  "DOI" : ,
+                  "URL" : ""
+                }
+
+             ]
+        },
+
+                          "EC_1_1_1_145" : {
+                   "name" : "3beta-hydroxy-delta5-steroid dehydrogenase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P14060","P26439"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane","integral component of membrane",
+                      "mitochondrial inner membrane","mitochondrial intermembrane space",
+                      "smooth endoplasmic reticulum membrane"]
+                }
+            },
+             "references" : []
+        },
+                          "EC_1_1_1_146" : {
+                   "name" : "1-beta-hydroxysteroid dehydrogenase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P28845"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane",
+                      "integral component of membrane",
+                      "membrane"]
+                }
+            },
+             "references" : []
+        },
+                          "EC_1_1_1_149" : {
+                   "name" : "20alpha-hydroxysteroid dehydrogenase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["Q04828"],
+                    "cellular_locations" : ["cytosol","extracellular exosome","cytoplasm"]
+                }
+            },
+             "references" : []
+        },
+                          "EC_1_1_1_159" : {
+                   "name" : "7-alpha-hydroxysteroid dehydrogenase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P0AET9","  P0AET8"],
+                    "cellular_locations" : ["cytosol"]
+                }
+            },
+             "references" : []
+        },
+                          "EC_1_1_1_170" : {
+                   "name" : "3-beta-hydroxysteroid-4-alpha-carboxylate 3-dehydrogenase (decarboxylating)",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["Q15738"],
+                    "cellular_locations" : ["endoplasmic reticulum","endoplasmic reticulum membrane",
+                      "integral component of membrane", "lipid particle"]
+                }
+            },
+             "references" : []
+        },
+                          "EC_1_1_1_184" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["Q9BTZ2","P16152","O75828"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane",
+                      "extracellular exosome", "mitochondrion",
+                      "nucleus", "peroxisomal membrane", "peroxisome"
+                    ]
+                }
+            },
+             "references" : []
+        },
+                          "EC_1_1_1_239" : {
+                   "name" : "3-alpha-(17-beta)-hydroxysteroid dehydrogenase (NAD(+))",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P42330","O14756", "Q92506", "P37059"],
+                    "cellular_locations" : [ "early endosome membrane", "endoplasmic reticulum",
+                      "intracellular", "mitochondrial envelope","mitochondrial matrix",
+                      "plasma membrane", "endoplasmic reticulum membrane",
+                      "integral component of membrane"
+                    ]
+                }
+            },
+             "references" : []
+        },
+                          "EC_1_1_1_330" : {
+                   "name" : "very-long-chain 3-oxoacyl-CoA reductase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["Q53GQ0"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane","integral component of membrane",
+                      "proteinaceous extracellular matrix"]
+                }
+            },
+             "references" : []
+        },
+                          "EC_1_1_1_345" : {
+                   "name" : "D-2-hydroxyacid dehydrogenase (NAD+)",
+            "description" : "",
+             "biosystems" : {
+                "GUTMICRO" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : [
+                {
+                  "Title" : "The crystal structure of D-mandelate dehydrogenase reveals its distinct substrate and coenzyme recognition mechanisms from those of 2-ketopantoate reductase",
+                  "PMID" : "23954635",
+                  "DOI" : "10.1016/j.bbrc.2013.08.019",
+                  "URL" : ""
+                }
+             ]
+        },
+                          "EC_1_1_1_357" : {
+                   "name" : "3-alpha-hydroxysteroid 3-dehydrogenase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P52895","P17516","P42330"],
+                    "cellular_locations" : ["cytoplasm","cytoplasm","cytosol","extracellular exosome"]
+                }
+            },
+             "references" : []
+        },
+                           "EC_1_1_3_15" : {
+                   "name" : "(S)-2-hydroxy-acid oxidase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["Q9UJM8","Q9NYQ3"],
+                    "cellular_locations" : ["peroxisomal matrix","peroxisome"]
+                }
+            },
+             "references" : []
+        },
+                           "EC_1_1_3_20" : {
+                   "name" : "long-chain-alcohol oxidase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_1_2_1_7" : {
+                   "name" : "benzaldehyde dehydrogenase (NADP+)",
+            "description" : "",
+             "biosystems" : {
+            },
+             "references" : []
+        },
+                           "EC_1_2_1_28" : {
+                   "name" : "benzaldehyde dehydrogenase (NAD+)",
+            "description" : "",
+             "biosystems" : {
+            },
+             "references" : []
+        },
+                           "EC_1_2_1_29" : {
+                   "name" : "aryl-aldehyde dehydrogenase",
+            "description" : "",
+             "biosystems" : {
+                // "HUMAN" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
+                           "EC_1_2_1_30" : {
+                   "name" : "aryl-aldehyde dehydrogenase (NADP(+))",
+            "description" : "",
+             "biosystems" : {
+                // "HUMAN" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
+                           "EC_1_2_1_48" : {
+                   "name" : "long-chain-aldehyde dehydrogenase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : ["mictochondria"]
+                }
+            },
+             "references" : [
+              {
+                "Title" : "",
+                "PMID" : "",
+                "DOI" : "",
+                "URL" : "https://metacyc.org/META/NEW-IMAGE?type=EC-NUMBER&object=EC-1.2.1.48"
+              }
+
+             ]
+        },
+                           "EC_1_2_1_50" : {
+                   "name" : "long-chain acyl-protein thioester reductase",
+            "description" : "",
+             "biosystems" : {
+                // "HUMAN" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
+                            "EC_1_2_3_1" : {
+                   "name" : "aldehyde oxidase",
+            "description" : "",
+             "biosystems" : {
+                   "HUMAN" : {
+                            "uniprot_ids" : ["Q06278"],
+                    "cellular_locations" : ["cytosol","extracellular exosome","nuclear body"]
+                },
+                // "GUTMICRO" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
+                            "EC_1_2_3_9" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                // "HUMAN" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
+                           "EC_1_2_99_7" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                // "HUMAN" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
+                           "EC_1_3_1_22" : {
+                   "name" : "3-oxo-5-alpha-steroid 4-dehydrogenase (NADP(+))",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P18405","P31213","Q9H8P0"],
+                    "cellular_locations" : ["cell body fiber","endoplasmic reticulum membrane",
+                      "integral component of membrane", "myelin sheath", "neuronal cell body",
+                      "organelle membrane","perinuclear region of cytoplasm",
+                      "endoplasmic reticulum"]
+                }
+            },
+             "references" : []
+        },
+                           "EC_1_3_1_38" : {
+                   "name" : "trans-2-enoyl-CoA reductase (NADPH)",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["Q9BY49"],
+                    "cellular_locations" : ["mitochondrion","peroxisomal membrane",
+                      "peroxisome"]
+                }
+            },
+             "references" : []
+        },
+                           "EC_1_3_1_70" : {
+                   "name" : "Delta(14)-sterol reductase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["O76062"],
+                    "cellular_locations" : ["endoplasmic reticulum", "endoplasmic reticulum membrane",
+                      "integral component of endoplasmic reticulum membrane",
+                      "integral component of plasma membrane",
+                      "intracellular membrane-bounded organelle",
+                      "organelle membrane",
+                      "receptor complex"]
+                }
+            },
+             "references" : []
+        },
+                           "EC_1_3_1_77" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_1_3_1_93" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                // "HUMAN" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
+                            "EC_1_3_8_1" : {
+                   "name" : "butyryl-CoA dehydrogenase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P16219"],
+                    "cellular_locations" : ["mitochondrial matrix","mitochondrion",
+                      "nucleoplasm","nucleus"]
+                }
+            },
+             "references" : []
+        },
+                            "EC_1_3_8_7" : {
+                   "name" : "medium-chain acyl-CoA dehydrogenase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P11310"],
+                    "cellular_locations" : ["axon","extracellular exosome","mitochondrial matrix",
+                      "mitochondrion","nuclear speck","nucleus"]
+                }
+            },
+             "references" : []
+        },
+                            "EC_1_3_3_6" : {
+                   "name" : "acyl-CoA oxidase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["Q15067","O15254"],
+                    "cellular_locations" : ["intracellular membrane-bounded organelle",
+                      "membrane","mitochondrion","nucleolus","nucleoplasm",
+                      "nucleus","peroxisomal matrix","peroxisomal membrane",
+                      "peroxisome","plasma membrane"]
+                }
+            },
+             "references" : []
+        },
+                            "EC_1_3_8_8" : {
+                   "name" : "long-chain acyl-CoA dehydrogenase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P28330"],
+                    "cellular_locations" : ["mitochondrial matrix","mitochondrial membrane"]
+                }
+            },
+             "references" : []
+        },
+                            "EC_1_3_8_9" : {
+                   "name" : "very-long-chain acyl-CoA dehydrogenase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P49748"],
+                    "cellular_locations" : ["cytosol","mitochondrial inner membrane","mitochondrial matrix",
+                      "mitochondrial nucleoid","mitochondrion","nucleolus","nucleus"]
+                }
+            },
+             "references" : []
+        },
+                           "EC_1_3_99_4" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                // "HUMAN" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
+                           "EC_1_3_99_5" : {
+                   "name" : "3-oxo-5-alpha-steroid 4-dehydrogenase (acceptor)",
+            "description" : "",
+             "biosystems" : {
+                // "HUMAN" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
+                           "EC_1_3_99_6" : {
+                   "name" : "3-oxo-5-beta-steroid 4-dehydrogenase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : [
+                {
+                  "Title" : "3-oxo-5-beta-steroid 4-dehydrogenase",
+                  "PMID" : "",
+                  "DOI" : "",
+                  "URL" : "https://metacyc.org/META/NEW-IMAGE?type=EC-NUMBER&object=EC-1.3.99.6"
+                }
+             ]
+        },
+                           "EC_1_5_3_20" : {
+                   "name" : "N-alkylglycine oxidase",
+            "description" : "",
+             "biosystems" : {
+                // "HUMAN" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
+                         "EC_1_14_13_70" : {
+                   "name" : "Sterol 14-alpha-demethylase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["Q16850"],
+                    "cellular_locations" : ["endoplasmic reticulum","endoplasmic reticulum membrane",
+                      "integral component of membrane","membrane","organelle membrane",
+                      "plasma membrane"]
+                }
+            },
+             "references" : []
+        },
+                        "EC_1_14_13_142" : {
+                   "name" : "3-ketosteroid 9-alpha-monooxygenase",
+            "description" : "",
+             "biosystems" : {
+                // "HUMAN" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
+                         "EC_1_14_14_19" : {
+                   "name" : "Steroid 17-alpha-monooxygenase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P05093"],
+                    "cellular_locations" : ["axon","endoplasmic reticulum","endoplasmic reticulum membrane",
+                      "mitochondrion","neuronal cell body"]
+                }
+            },
+             "references" : []
+        },
+                          "EC_1_14_15_4" : {
+                   "name" : "Steroid 11-beta-monooxygenase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P15538"," P19099"],
+                    "cellular_locations" : ["mitochondrial inner membrane","mitochondrion","membrane"]
+                }
+            },
+             "references" : []
+        },
+                          "EC_1_14_19_5" : {
+                   "name" : "acyl-CoA 11-(Z)-desaturase",
+            "description" : "",
+             "biosystems" : {
+                // "HUMAN" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
+                         "EC_1_14_19_17" : {
+                   "name" : "Sphingolipid 4-desaturase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["O15121","Q6QHC5"],
+                    "cellular_locations" : ["endoplasmic reticulum","endoplasmic reticulum membrane",
+                      "integral component of plasma membrane","membrane",
+                      "mitochondrion","plasma membrane","specific granule membrane"]
+                }
+            },
+             "references" : []
+        },
+                         "EC_1_14_19_18" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                // "HUMAN" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
+                         "EC_1_14_19_19" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                // "HUMAN" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
+                         "EC_1_14_19_20" : {
+                   "name" : "Delta(7)-sterol 5(6)-desaturase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["O75845"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane",
+                      "integral component of membrane"]
+                }
+            },
+             "references" : []
+        },
+                         "EC_1_14_19_29" : {
+                   "name" : "Sphingolipid 8-(E/Z)-desaturase",
+            "description" : "",
+             "biosystems" : {
+                // "HUMAN" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
+                            "EC_2_1_1_6" : {
+                   "name" : "catechol O-methyltransferase",
+            "description" : "",
+             "biosystems" : {
+                   "HUMAN" : {
+                            "uniprot_ids" : ["P21964","Q8WZ04"],
+                    "cellular_locations" : ["axon","cell body","cytosol",
+                      "dendritic spine","extracellular exosome","integral component of membrane",
+                      "membrane","mitochondrion","plasma membrane","postsynaptic membrane"]
+                },
+                "GUTMICRO" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_2_1_1_9" : {
+                   "name" : "thiol S-methyltransferase",
+            "description" : "",
+             "biosystems" : {
+                // "HUMAN" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
+                           "EC_2_1_1_15" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                // "HUMAN" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
+                           "EC_2_1_1_17" : {
+                   "name" : "phosphatidylethanolamine N-methyltransferase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["Q9UBM1"],
+                    "cellular_locations" : ["brush border membrane","endoplasmic reticulum membrane",
+                      "integral component of membrane","mitochondrial membrane","sarcolemma"]
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_1_1_42" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                // "HUMAN" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
+                           "EC_2_1_1_45" : {
+                   "name" : "Flavone 3'-O-methyltransferase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_1_1_67" : {
+                   "name" : "thiopurine S-methyltransferase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P51580"],
+                    "cellular_locations" : ["cytosol","extracellular exosome"]
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_1_1_71" : {
+                   "name" : "phosphatidyl-N-methylethanolamine N-methyltransferase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["Q9UBM1"],
+                    "cellular_locations" : ["brush border membrane","endoplasmic reticulum membrane",
+                      "integral component of membrane","mitochondrial membrane",
+                      "sarcolemma"]
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_1_1_96" : {
+                   "name" : "thioether S-methyltransferase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["O95050"],
+                    "cellular_locations" : ["cytosol"]
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_1_1_97" : {
+                   "name" : "3-hydroxyanthranilate 4-C-methyltransferase",
+            "description" : "",
+             "biosystems" : {
+                // "HUMAN" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
+                          "EC_2_1_1_317" : {
+                   "name" : "sphingolipid C9-methyltransferase",
+            "description" : "",
+             "biosystems" : {
+                // "HUMAN" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
+                            "EC_2_3_1_5" : {
+                   "name" : "arylamine N-acetyltransferase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P18440","P11245"],
+                    "cellular_locations" : ["cytosol","plasma membrane"]
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_13" : {
+                   "name" : "glycine N-acyltransferase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["Q8WU03","Q6IB77"],
+                    "cellular_locations" : ["endoplasmic reticulum","mitochondrion","extracellular exosome",
+                      "mitochondrial matrix","mitochondrion"]
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_15" : {
+                   "name" : "glycerol-3-phosphate 1-O-acyltransferase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["Q53EU6","Q6NUI2","Q9HCL2","Q86UL3"],
+                    "cellular_locations" : ["endoplasmic reticulum","endoplasmic reticulum membrane",
+                      "integral component of membrane","mitochondrial outer membrane",
+                      "mitochondrion","plasma membrane","membrane"]
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_16" : {
+                   "name" : "acetyl-CoA C-acyltransferase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P42765","P55084","P09110"],
+                    "cellular_locations" : ["extracellular exosome","mitochondrial inner membrane",
+                      "mitochondrial matrix","mitochondrion",
+                      "endoplasmic reticulum","mitochondrial envelope","mitochondrial nucleoid",
+                      "extracellular region","intracellular membrane-bounded organelle",
+                      "membrane","peroxisomal matrix","peroxisome","specific granule lumen"]
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_20" : {
+                   "name" : "diacylglycerol O-acyltransferase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["O75907","Q86VF5","Q96PD7"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane","integral component of membrane",
+                      "plasma membrane","specific granule membrane","endoplasmic reticulum",
+                      "integral component of endoplasmic reticulum membrane",
+                      "lipid particle","mitochondrion","perinuclear region of cytoplasm"]
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_22" : {
+                   "name" : "2-acylglycerol O-acyltransferase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["Q96PD6","Q3SYC2","Q86VF5"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane","integral component of membrane",
+                      "endoplasmic reticulum"]
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_23" : {
+                   "name" : "1-acylglycerophosphocholine O-acyltransferase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["Q6P1A2","Q8NF37","Q643R3","Q7L5N7"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane","integral component of membrane",
+                      "membrane","azurophil granule membrane","endoplasmic reticulum","endoplasmic reticulum membrane",
+                      "Golgi apparatus","Golgi membrane","integral component of membrane","lipid particle","membrane",
+                      "plasma membrane"]
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_24" : {
+                   "name" : "sphingosine N-acyltransferase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["Q8IU89","Q8N5B7"],
+                    "cellular_locations" : ["endoplasmic reticulum","endoplasmic reticulum membrane",
+                      "integral component of membrane","nuclear membrane"]
+                }
+
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_25" : {
+                   "name" : "plasmalogen synthase",
+            "description" : "",
+             "biosystems" : {
+                // "HUMAN" : {
+                //             "uniprot_ids" : [],
+                //     "cellular_locations" : []
+                // }
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_26" : {
+                   "name" : "sterol O-acyltransferase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P35610","O75908"],
+                    "cellular_locations" : ["endoplasmic reticulum","endoplasmic reticulum membrane",
+                      "integral component of membrane","membrane"]
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_42" : {
+                   "name" : "glycerone-phosphate O-acyltransferase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["O15228"],
+                    "cellular_locations" : [ "membrane", "mitochondrion",
+                      "peroxisomal matrix", "peroxisomal membrane",
+                      "peroxisome"
+                    ]
+                }
+            },
+             "references" : []
+        },
+
+                           "EC_2_3_1_43" : {
+                   "name" : "phosphatidylcholine—sterol O-acyltransferase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P04180"],
+                    "cellular_locations" : ["extracellular exosome","extracellular region",
+                      "extracellular space","high-density lipoprotein particle"]
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_51" : {
+                   "name" : "1-acylglycerol-3-phosphate O-acyltransferase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["Q8WTS1","Q53EU6","Q6ZWT7","Q99943","O15120","Q9NRZ5",
+                              "Q6UWP7","Q7L5N7","Q9NRZ7","Q9NUQ2"],
+                    "cellular_locations" : ["cytosol","lipid particle","endoplasmic reticulum",
+                      "endoplasmic reticulum membrane","integral component of membrane",
+                      "membrane","plasma membrane","specific granule membrane",
+                      "cytosol","Golgi membrane","Golgi stack","nuclear envelope",
+                      "mitochondrial outer membrane","mitochondrion"]
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_52" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_62" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_63" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_65" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_67" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_75" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_76" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_80" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_85" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_87" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_3_1_88" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_3_1_102" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_3_1_116" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_3_1_118" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_3_1_121" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_3_1_125" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_3_1_135" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_3_1_152" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_3_1_153" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_3_1_171" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_3_1_199" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_3_1_215" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_4_1_47" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_4_1_62" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_4_1_80" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_4_1_83" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_4_1_92" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_4_1_117" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_4_1_157" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_4_1_159" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_4_1_173" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_4_1_198" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_4_1_274" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_4_99_9" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_5_1_18" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_5_1_26" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_6_1_57" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_7_1_60" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_7_1_67" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_7_1_68" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_7_1_94" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_7_1_107" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_7_1_137" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_7_1_138" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_7_1_149" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_7_1_150" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_7_1_153" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_7_1_154" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_7_7_41" : {
+                   "name" : "phosphatidate cytidylyltransferase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["O95674","Q96BW9","Q92903"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane","integral component of membrane",
+                      "membrane","mitochondrial inner membrane", "extrinsic component of mitochondrial inner membrane",
+                      "endoplasmic reticulum"
+                    ]
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_7_7_43" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                             "EC_2_7_8_1" : {
+                   "name" : "diacylglycerol ethanolaminephosphotransferase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+
+                            "EC_2_7_8_2" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_2_7_8_5" : {
+                   "name" : "CDP-diacylglycerol--glycerol-3-phosphate 1-phosphatidyltransferase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["Q32NB8"],
+                    "cellular_locations" : [""]
+                }
+            },
+             "references" : []
+        },
+
+                           "EC_2_7_8_11" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_7_8_27" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_7_8_29" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_7_8_41" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_2_8_2_1" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_2_8_2_2" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_8_2_11" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_1_1_2" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_1_1_3" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_1_1_4" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_1_1_5" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_1_1_8" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_1_13" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_1_23" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_1_32" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_1_34" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_1_47" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_1_81" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_1_2_2" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_1_2_6" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_1_3_1" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_1_3_2" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_1_3_4" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_1_3_5" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_1_3_6" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_3_27" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_3_29" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_3_36" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_3_64" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_3_66" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_3_67" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_3_78" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_3_81" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_3_86" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_3_95" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_1_4_4" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_4_11" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_4_12" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_4_16" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_4_17" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_4_39" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_4_41" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_4_42" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_4_43" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_4_44" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_4_50" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_4_54" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_1_6_1" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_1_6_2" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_1_6_8" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_1_8_1" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_2_1_22" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_2_1_23" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_2_1_45" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_2_1_46" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_2_1_62" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_3_2_1_147" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_2_2_8" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_3_2_2" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_3_2_5" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_4_37" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_4_46" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_3_3_2" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_3_3_5" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_5_1_14" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_5_1_15" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_5_1_17" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_5_1_23" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_5_1_55" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_5_1_60" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_5_1_89" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_3_5_1_114" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_6_1_6" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_6_1_7" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_6_1_9" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_6_1_15" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+
+                           "EC_3_6_1_19" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_6_1_20" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_7_1_5" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_4_1_1_65" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_4_2_1_17" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_4_2_1_134" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_4_3_2_5" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_5_3_3_1" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_6_2_1_3" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_6_2_1_20" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                             "EC_3_7_1_" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                             "EC_3_3_2_" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                             "EC_5_3_2_" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_4_1_37" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_4_1_65" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_2_4_1_79" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_4_1_149" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_2_4_1_228" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_2_1_21" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                          "EC_1_1_1_101" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_2_1_18" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                        "EC_1_14_13_205" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                        "EC_1_14_18_5" : {
+                   "name" : "Sphingolipid C4-monooxygenase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["Q6QHC5"],
+                    "cellular_locations" : ["endoplasmic reticulum membrane","integral component of membrane"]
+                }
+            },
+             "references" : []
+        },
+
+                           "EC_3_1_1_64" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+           "UDP_GLUCURONOSYLTRANSFERASE" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                   "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                },
+                "GUTMICRO" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                      "SULFOTRANSFERASE" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                   "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                },
+                "GUTMICRO" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                     "ACETYLTRANSFERASE" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                  "UNSPECIFIED_GUTMICRO" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "GUTMICRO" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_1_6_99_1" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "GUTMICRO" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                            "EC_3_1_1_1" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "GUTMICRO" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "EC_3_1_1_20" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "GUTMICRO" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                         "DECARBOXYLASE" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "GUTMICRO" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                           "DEMETHYLASE" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "GUTMICRO" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                         "DEHYDROXYLASE" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "GUTMICRO" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                             "LACTONASE" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "GUTMICRO" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+        "HYDROXYCINNAMATE_DECARBOXYLASE" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "GUTMICRO" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                "VINYL_PHENOL_REDUCTASE" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "GUTMICRO" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+                  "UNSPECIFIED_ENVMICRO" : {
+                   "name" : "",
+            "description" : "",
+             "biosystems" : {
+                "ENVMICRO" : {
+                            "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        }
+    }
+}

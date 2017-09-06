@@ -1,5 +1,5 @@
 //  
-// Author: Djoumbou Feunang, Yannick - 2017
+// Author: Djoumbou Feunang, Yannick (2016)
 //
 //
 
@@ -156,7 +156,7 @@
 			"HUMAN" : {
 
 				"enzymes": [
-					"EC_1_1_1_101", // ADDED BECAUSE OF EVIDENCE IN CYC (NOT KEGG)
+					"EC_1_1_1_101", // ADDED BECAUSE OF EVIDENCE IN CYC AND (ALSO KEGG - might not be in the pathway image but it is link to this pathway in KEGG - http://www.genome.jp/dbget-bin/get_linkdb?-t+pathway+ec:1.1.1.101)
 					"EC_2_3_1_23", "EC_2_3_1_67",
 					"EC_2_4_1_47",
 					"EC_2_5_1_26", 
@@ -197,7 +197,8 @@
 					"EC_3_1_6_8",
 					"EC_3_2_1_18", "EC_3_2_1_45", "EC_3_2_1_46",
 					"EC_3_5_1_23",
-					"EC_2_4_1_228"
+					"EC_2_4_1_228",
+					"EC_2_3_1_24"
 
 
 					// Glycosphingolipid biosynthesis - ADD these
