@@ -1648,7 +1648,7 @@
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
-                            "uniprot_ids" : [],
+                            "uniprot_ids" : ["P22310","Q9HAW7","Q9Y4X1","P36537","Q9HAW8","P35503","P19224","O60656","P06133"," Q6NUS8"," Q3SY77","O75310","P54855"," O75795","P22309","P35504"," Q9HAW9"," Q6UWM9"," P16662"," Q9BY64"],
                     "cellular_locations" : []
                 }
             },
@@ -1849,7 +1849,7 @@
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
-                            "uniprot_ids" : [],
+                            "uniprot_ids" : ["Q16772","Q7RTV2","P0CG30","P10620","P09210","Q9Y2Q3","P09488"," P78417"," Q9H4Y5","P30711","O14880","P0CG29","P08263","O15217","P46439","P09211","O60760","O43708","Q99735"],
                     "cellular_locations" : []
                 }
             },
@@ -2126,7 +2126,7 @@
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
-                            "uniprot_ids" : [],
+                            "uniprot_ids" : ["P50226","P0DMM9","P50225","P0DMN0"],
                     "cellular_locations" : []
                 }
             },
@@ -2156,7 +2156,7 @@
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
-                            "uniprot_ids" : [],
+                            "uniprot_ids" : ["Q6IMI6","O00204"],
                     "cellular_locations" : []
                 }
             },
