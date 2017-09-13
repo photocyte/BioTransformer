@@ -3621,6 +3621,18 @@
             },
              "references" : []
         },
+                          "EC_1_1_1_100" : {
+                   "name" : "3-oxoacyl-[acyl-carrier-protein] reductase",
+            "description" : "",
+             "biosystems" : {
+                "HUMAN" : {
+                            "uniprot_ids" : ["P49327"],
+                    "cellular_locations" : []
+                }
+            },
+             "references" : []
+        },
+
                           "EC_1_1_1_101" : {
                    "name" : "",
             "description" : "",
@@ -3699,7 +3711,7 @@
              "references" : []
         },
            "UDP_GLUCURONOSYLTRANSFERASE" : {
-                   "name" : "",
+                   "name" : "Bacterial UDP-glucuronosyltransferase",
             "description" : "",
              "biosystems" : {
                    "HUMAN" : {
@@ -3806,7 +3818,7 @@
              "references" : []
         },
                          "DEHYDROXYLASE" : {
-                   "name" : "",
+                   "name" : "Bacterial dehydroxylase",
             "description" : "",
              "biosystems" : {
                 "GUTMICRO" : {
@@ -3817,7 +3829,7 @@
              "references" : []
         },
                              "LACTONASE" : {
-                   "name" : "",
+                   "name" : "Bacterial lactonase",
             "description" : "",
              "biosystems" : {
                 "GUTMICRO" : {
@@ -3828,7 +3840,8 @@
              "references" : []
         },
         "HYDROXYCINNAMATE_DECARBOXYLASE" : {
-                   "name" : "",
+          // EC 4.1.1.
+                   "name" : "4-Hydroxycinnamate decarboxylase",
             "description" : "",
              "biosystems" : {
                 "GUTMICRO" : {
@@ -3836,10 +3849,31 @@
                     "cellular_locations" : []
                 }
             },
-             "references" : []
+             "references" : [
+                {
+                  "Title" : "Microbial metabolism of dietary components to bioactive metabolites: opportunities for new therapeutic interventions.",
+                  "PMID" : "",
+                  "PCMID" : "PMC4840492",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "10.1186/s13073-016-0296-x",
+                  "URL" : ""
+                },
+                {
+                  "Title" : "Biotransformation of caffeoyl quinic acids from green coffee extracts by Lactobacillus johnsonii NCC 533.",
+                  "PMID" : "",
+                  "PCMID" : "PMC3679781",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "10.1186/2191-0855-3-28",
+                  "URL" : ""
+                }
+ 
+
+             ]
         },
                 "VINYL_PHENOL_REDUCTASE" : {
-                   "name" : "",
+                   "name" : "Vinyl phenol reductase",
             "description" : "",
              "biosystems" : {
                 "GUTMICRO" : {
@@ -3847,10 +3881,20 @@
                     "cellular_locations" : []
                 }
             },
-             "references" : []
+             "references" : [
+                {
+                  "Title" : "Microbial metabolism of dietary components to bioactive metabolites: opportunities for new therapeutic interventions.",
+                  "PMID" : "",
+                  "PCMID" : "PMC4840492",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "10.1186/s13073-016-0296-x",
+                  "URL" : ""
+                }
+             ]
         },
                  "FLAVONOID_C_GLYCOSIDASE" : {
-                   "name" : "",
+                   "name" : "Bacterial C-glycosidase",
             "description" : "",
              "biosystems" : {
                 "GUTMICRO" : {
@@ -3869,14 +3913,23 @@
                   "URL" : ""
                 },
                 {
-                  "Title" : "",
-                  "PMID" : "",
+                  "Title" : "Intestinal bacterial metabolism of flavonoids and its relation to some biological activities.",
+                  "PMID" : "9875509",
                   "PCMID" : "",
                   "ISBN" : "",
                   "ISSN" : "",
                   "DOI" : "",
                   "URL" : ""
                 }
+                // {
+                //   "Title" : "",
+                //   "PMID" : "",
+                //   "PCMID" : "",
+                //   "ISBN" : "",
+                //   "ISSN" : "",
+                //   "DOI" : "",
+                //   "URL" : ""
+                // }
 
              ]
         },
