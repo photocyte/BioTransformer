@@ -1,7 +1,7 @@
 # BioTransformer's README
 
 **********************************************************************************
-This is version 1.0.0 of BioTransformer. BioTransformer is a software tool that 
+This is version 1.0.1 of BioTransformer. BioTransformer is a software tool that 
 predicts small molecule metabolism in mammals, their gut microbiota, 
 as well as the soil/aquatic microbiota.
 Please make sure to download the folder database and supportfiles, and save them 
