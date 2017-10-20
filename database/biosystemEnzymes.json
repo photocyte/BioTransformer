@@ -100,6 +100,7 @@
 			"EC_3_1_1_1",
 
 			// Tannase or tannin acyl hydrolase
+			// Bacillus subtilis
 			"EC_3_1_1_20",
 
 
@@ -115,6 +116,7 @@
 			"EC_3_2_1_31",
 
 			// *** The human intestine Bacteroid JY-6 and Fusabacterium K-60 have been shown to produce alpha-L-rhamnosidase
+			// https://www.researchgate.net/publication/316545447_a_-L-RHAMNOSIDASE_SOURCES_PRODUCTION_PURIFICATION_AND_CHARACTERIZATION_OF_THE_DEBITTERING_ENZYME
 			"EC_3_2_1_40",
 
 

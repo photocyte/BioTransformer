@@ -3749,7 +3749,28 @@
                     "cellular_locations" : []
                 }
             },
-             "references" : []
+             "references" : [
+                {
+                  "Title" : "Biotransformation of l-Cysteine S-Conjugates andN-Acetyl-l-CysteineS-Conjugates of the Sevoflurane Degradation Product Fluoromethyl-2,2-Difluoro-1-(trifluoromethyl)vinyl Ether (Compound A) in Human Kidney in Vitro: Interindividual Variability inN-Acetylation, N-Deacetylation, and beta-Lyase-Catalyzed Metabolism",
+                  "PMID" : "11792683",
+                  "PCMID" : "",
+                  "ISBN" : "",
+                  "ISSN" : "",
+                  "DOI" : "https://doi.org/10.1124/dmd.30.2.148",
+                  "URL" : ""
+                }
+                // {
+                //   "Title" : "",
+                //   "PMID" : "",
+                //   "PCMID" : "",
+                //   "ISBN" : "",
+                //   "ISSN" : "",
+                //   "DOI" : "",
+                //   "URL" : ""
+                // }
+
+
+             ]
         },
                   "UNSPECIFIED_GUTMICRO" : {
                    "name" : "",

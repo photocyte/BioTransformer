@@ -1,0 +1,39 @@
+I) Installing new version of Java
+	1) sudo apt-get update
+	2) sudo apt-get install default-jre	
+	
+	
+	
+	
+II) Managing scrrens on linux
+
+	1) Start a screen : scrren -R #{screen name}
+	2) prints a list of all active (attached or detached) screens : screen -list 
+	3) killling a screen on unix: screen -X -S SCREENID kill
+
+
+
+
+gce-biotransformer-1	 104.154.89.241
+gce-biotransformer-2	 35.184.116.178
+
+
+EC_3_1_1_20 : C0HJL9
+EC 3.2.1.20 : P21517
+EC 3.2.1.21 : P33363
+EC 3.2.1.23 : O07684; O07685
+EC 3.2.1.31 : P05804
+EC 3.2.1.40 : alpha-L-rhamnosidase (Fusabacterium K-60, and Lactobacillus plantarum fromt he gut)
+EC 3.2.1.147 : unknown gut bacterial thioglucosidase
+EC 1.6.99.1 : P54550
+
+FLAVONOID_C_GLYCOSIDASE : unspecified gut bacterial C-C lyase
+	Ref: Deglycosylation of isoflavone C-glycosides by newly isolated human intestinal bacteria.
+DECARBOXYLASE : unspecified gut bacterial decarboxylase (EC 4.1.1._)
+	Ref: 
+DEMETHYLASE : unspecified bacterial demethylase
+DEHYDROXYLASE : unspecified bacterial aryl demethylase  (No EC or uniprot)
+LACTONASE : unspecified bacterial lactonase  (No EC or uniprot)
+
+HYDROXYCINNAMATE_DECARBOXYLASE	: 4-Hydroxycinnamate decarboxylase from (Klebsiella oxytoca) (No EC or uniprot)
+	Ref: DOI:10.1186/s13073-016-0296-x
