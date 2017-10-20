@@ -1,7 +1,7 @@
 # BioTransformer's README
 
 **********************************************************************************
-This is version 1.0.0 of BioTransformer. BioTransformer is a software tool that 
+This is version 1.0.1 of BioTransformer. BioTransformer is a software tool that 
 predicts small molecule metabolism in mammals, their gut microbiota, 
 as well as the soil/aquatic microbiota.
 Please make sure to download the folder database and supportfiles, and save them 
@@ -42,6 +42,6 @@ To report issues, provide feedback, or ask questions, please send an
 e-mail the following address: djoumbou@ualberta.ca
 
 E.g.: To predict the biotransformation of a molecule from an SDF input using the human super transformer, use
-java -jar biotransformer-1-0-0.jar -b superbio -f sdf -i #{input file name} -o #{output folder}.
+java -jar biotransformer-1-0-1.jar -b superbio -f sdf -i #{input file name} -o #{output folder}.
 
 To report issues, provide feedback, or ask questions, please send an e-mail the following address: djoumbou@ualberta.ca
