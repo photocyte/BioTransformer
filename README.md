@@ -11,10 +11,10 @@ in the same folder as the .jar file.
 Usage:
 
  -b,--btType <BioTransformer Type>   The type of description: Type of
-                                     biotransformer - EC-based, CYP450,
-                                     Phase II, Human gut microbial,
-                                     Environmental microbial, or human
-                                     super transformer.
+                                     biotransformer - EC-based (ecbased), CYP450 (cyp450),
+                                     Phase II (phaseII), Human gut microbial (gutmicro),
+                                     Environmental microbial (envmicro), or human
+                                     super transformer (superbio).
                                      
  -f,--format <Input format>          The format of the input: SMILES
                                      (smi), MDL Mol file (mol), or
