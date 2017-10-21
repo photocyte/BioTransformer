@@ -2153,7 +2153,7 @@
         },
                             "EC_2_8_2_2" : {
                    "name" : "Alcohol sulfotransferase",
-            "description" : "",
+            "description" : "Primary and secondary alcohols, including aliphatic alcohols, ascorbate, chloramphenicol, ephedrine and hydroxysteroids, but not phenolic steroids, can act as acceptors (See http://enzyme.expasy.org/EC/2.8.2.2)",
              "biosystems" : {
                 "HUMAN" : {
                             "uniprot_ids" : ["Q6IMI6","O00204"],
