@@ -8,7 +8,7 @@
     "description" : "this table provides the list of enzymes, their names, , description, and references",
         "enzymes" : {
                                 "CYP1A1" : {
-                   "name" : "Cytochrome P450 1A1",
+                   "acceptedName" : "Cytochrome P450 1A1",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -22,7 +22,7 @@
              }
         },
                                 "CYP1A2" : {
-                   "name" : "Cytochrome P450 1A2",
+                   "acceptedName" : "Cytochrome P450 1A2",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -34,7 +34,7 @@
              "references" : []
         },
                                 "CYP1B1" : {
-                   "name" : "Cytochrome P450 1B1",
+                   "acceptedName" : "Cytochrome P450 1B1",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -46,7 +46,7 @@
              "references" : []
         },
                                 "CYP2A6" : {
-                   "name" : "Cytochrome P450 2A6",
+                   "acceptedName" : "Cytochrome P450 2A6",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -58,7 +58,7 @@
              "references" : []
         },
                                "CYP2A13" : {
-                   "name" : "Cytochrome P450 2A13",
+                   "acceptedName" : "Cytochrome P450 2A13",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -69,7 +69,7 @@
              "references" : []
         },
                                 "CYP2B1" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -80,7 +80,7 @@
              "references" : []
         },
                                 "CYP2B6" : {
-                   "name" : "Cytochrome P450 2B6",
+                   "acceptedName" : "Cytochrome P450 2B6",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -91,7 +91,7 @@
              "references" : []
         },
                                 "CYP2C8" : {
-                   "name" : "Cytochrome P450 2C8",
+                   "acceptedName" : "Cytochrome P450 2C8",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -102,7 +102,7 @@
              "references" : []
         },
                                 "CYP2C9" : {
-                   "name" : "Cytochrome P450 2C9",
+                   "acceptedName" : "Cytochrome P450 2C9",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -114,7 +114,7 @@
              "references" : []
         },
                                "CYP2C18" : {
-                   "name" : "Cytochrome P450 2C18",
+                   "acceptedName" : "Cytochrome P450 2C18",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -125,7 +125,7 @@
              "references" : []
         },
                                "CYP2C19" : {
-                   "name" : "Cytochrome P450 2C19",
+                   "acceptedName" : "Cytochrome P450 2C19",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -137,7 +137,7 @@
              "references" : []
         },
                                 "CYP2D6" : {
-                   "name" : "Cytochrome P450 2D6",
+                   "acceptedName" : "Cytochrome P450 2D6",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -149,7 +149,7 @@
              "references" : []
         },
                                 "CYP2E1" : {
-                   "name" : "Cytochrome P450 2E1",
+                   "acceptedName" : "Cytochrome P450 2E1",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -162,7 +162,7 @@
              "references" : []
         },
                                 "CYP3A4" : {
-                   "name" : "Cytochrome P450 3A4",
+                   "acceptedName" : "Cytochrome P450 3A4",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -176,7 +176,7 @@
              "references" : []
         },
                                 "CYP3A5" : {
-                   "name" : "Cytochrome P450 3A5",
+                   "acceptedName" : "Cytochrome P450 3A5",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -189,7 +189,7 @@
              "references" : []
         },
                                 "CYP3A7" : {
-                   "name" : "Cytochrome P450 3A7",
+                   "acceptedName" : "Cytochrome P450 3A7",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -200,7 +200,7 @@
              "references" : []
         },
                                 "ABKAR1" : {
-                   "name" : "Alpha,beta-ketoalkene double bond reductase 1",
+                   "acceptedName" : "Alpha,beta-ketoalkene double bond reductase 1",
             "description" : "",
              "biosystems" : {
                    "HUMAN" : {
@@ -246,7 +246,7 @@
              "references" : []
         },
                     "ABKAR2" : {
-                   "name" : "Alpha,beta-ketoalkene double bond reductase 2",
+                   "acceptedName" : "Alpha,beta-ketoalkene double bond reductase 2",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -286,7 +286,7 @@
              ]
         },
                                   "FMO1" : {
-                   "name" : "Flavin containing monooxygenase 1",
+                   "acceptedName" : "Flavin containing monooxygenase 1",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -297,7 +297,7 @@
              "references" : []
         },
                                   "FMO2" : {
-                   "name" : "Flavin containing monooxygenase 2",
+                   "acceptedName" : "Flavin containing monooxygenase 2",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -308,7 +308,7 @@
              "references" : []
         },
                                   "FMO3" : {
-                   "name" : "Flavin containing monooxygenase 3",
+                   "acceptedName" : "Flavin containing monooxygenase 3",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -319,7 +319,7 @@
              "references" : []
         },
                                  "UDPGT" : {
-                   "name" : "Uridine 5'-diphospho-glucuronosyltransferase",
+                   "acceptedName" : "Uridine 5'-diphospho-glucuronosyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -332,7 +332,7 @@
              "references" : []
         },
                           "EC_1_1_1_1" : {
-                   "name" : "Alcohol dehydrogenase",
+                   "acceptedName" : "Alcohol dehydrogenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -344,7 +344,7 @@
         },
 
                            "EC_1_1_1_35" : {
-                   "name" : "3-hydroxyacyl-CoA dehydrogenase",
+                   "acceptedName" : "3-hydroxyacyl-CoA dehydrogenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -358,7 +358,7 @@
              "references" : []
         },
                           "EC_1_1_1_211" : {
-                   "name" : "long-chain-(S)-3-hydroxyacyl-CoA:NAD+ oxidoreductase",
+                   "acceptedName" : "long-chain-(S)-3-hydroxyacyl-CoA:NAD+ oxidoreductase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -373,7 +373,7 @@
              "references" : []
         },
                           "EC_1_1_1_213" : {
-                   "name" : "3alpha-hydroxysteroid:NAD(P)+ 3-oxidoreductase (Re-specific)",
+                   "acceptedName" : "3alpha-hydroxysteroid:NAD(P)+ 3-oxidoreductase (Re-specific)",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -396,7 +396,7 @@
         },
 
                           "EC_1_1_1_145" : {
-                   "name" : "3-beta-hydroxy-delta5-steroid dehydrogenase",
+                   "acceptedName" : "3-beta-hydroxy-delta5-steroid dehydrogenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -409,7 +409,7 @@
              "references" : []
         },
                           "EC_1_1_1_146" : {
-                   "name" : "1-beta-hydroxysteroid dehydrogenase",
+                   "acceptedName" : "1-beta-hydroxysteroid dehydrogenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -422,7 +422,7 @@
              "references" : []
         },
                           "EC_1_1_1_149" : {
-                   "name" : "20-alpha-hydroxysteroid dehydrogenase",
+                   "acceptedName" : "20-alpha-hydroxysteroid dehydrogenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -433,7 +433,7 @@
              "references" : []
         },
                           "EC_1_1_1_159" : {
-                   "name" : "7-alpha-hydroxysteroid dehydrogenase",
+                   "acceptedName" : "7-alpha-hydroxysteroid dehydrogenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -444,7 +444,7 @@
              "references" : []
         },
                           "EC_1_1_1_170" : {
-                   "name" : "3-beta-hydroxysteroid-4-alpha-carboxylate 3-dehydrogenase (decarboxylating)",
+                   "acceptedName" : "3-beta-hydroxysteroid-4-alpha-carboxylate 3-dehydrogenase (decarboxylating)",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -456,7 +456,7 @@
              "references" : []
         },
                           "EC_1_1_1_184" : {
-                   "name" : "Carbonyl reductase (NADPH)",
+                   "acceptedName" : "Carbonyl reductase (NADPH)",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -470,7 +470,7 @@
              "references" : []
         },
                           "EC_1_1_1_239" : {
-                   "name" : "3-alpha-(17-beta)-hydroxysteroid dehydrogenase (NAD(+))",
+                   "acceptedName" : "3-alpha-(17-beta)-hydroxysteroid dehydrogenase (NAD(+))",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -485,7 +485,7 @@
              "references" : []
         },
                           "EC_1_1_1_330" : {
-                   "name" : "Very-long-chain 3-oxoacyl-CoA reductase",
+                   "acceptedName" : "Very-long-chain 3-oxoacyl-CoA reductase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -497,7 +497,7 @@
              "references" : []
         },
                           "EC_1_1_1_345" : {
-                   "name" : "D-2-hydroxyacid dehydrogenase (NAD+)",
+                   "acceptedName" : "D-2-hydroxyacid dehydrogenase (NAD+)",
             "description" : "",
              "biosystems" : {
                 "GUTMICRO" : {
@@ -518,7 +518,7 @@
              ]
         },
                           "EC_1_1_1_357" : {
-                   "name" : "3-alpha-hydroxysteroid 3-dehydrogenase",
+                   "acceptedName" : "3-alpha-hydroxysteroid 3-dehydrogenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -529,7 +529,7 @@
              "references" : []
         },
                            "EC_1_1_3_15" : {
-                   "name" : "(S)-2-hydroxy-acid oxidase",
+                   "acceptedName" : "(S)-2-hydroxy-acid oxidase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -540,7 +540,7 @@
              "references" : []
         },
                            "EC_1_1_3_20" : {
-                   "name" : "Long-chain-alcohol oxidase",
+                   "acceptedName" : "Long-chain-alcohol oxidase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -551,21 +551,21 @@
              "references" : []
         },
                             "EC_1_2_1_7" : {
-                   "name" : "Benzaldehyde dehydrogenase (NADP+)",
+                   "acceptedName" : "Benzaldehyde dehydrogenase (NADP+)",
             "description" : "",
              "biosystems" : {
             },
              "references" : []
         },
                            "EC_1_2_1_28" : {
-                   "name" : "Benzaldehyde dehydrogenase (NAD+)",
+                   "acceptedName" : "Benzaldehyde dehydrogenase (NAD+)",
             "description" : "",
              "biosystems" : {
             },
              "references" : []
         },
                            "EC_1_2_1_29" : {
-                   "name" : "Aryl-aldehyde dehydrogenase",
+                   "acceptedName" : "Aryl-aldehyde dehydrogenase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -576,7 +576,7 @@
              "references" : []
         },
                            "EC_1_2_1_30" : {
-                   "name" : "Aryl-aldehyde dehydrogenase (NADP(+))",
+                   "acceptedName" : "Aryl-aldehyde dehydrogenase (NADP(+))",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -587,7 +587,7 @@
              "references" : []
         },
                            "EC_1_2_1_48" : {
-                   "name" : "Long-chain-aldehyde dehydrogenase",
+                   "acceptedName" : "Long-chain-aldehyde dehydrogenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -609,7 +609,7 @@
              ]
         },
                            "EC_1_2_1_50" : {
-                   "name" : "Long-chain acyl-protein thioester reductase",
+                   "acceptedName" : "Long-chain acyl-protein thioester reductase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -620,7 +620,7 @@
              "references" : []
         },
                             "EC_1_2_3_1" : {
-                   "name" : "Aldehyde oxidase",
+                   "acceptedName" : "Aldehyde oxidase",
             "description" : "",
              "biosystems" : {
                    "HUMAN" : {
@@ -635,7 +635,7 @@
              "references" : []
         },
                             "EC_1_2_3_9" : {
-                   "name" : "Aryl-aldehyde oxidase",
+                   "acceptedName" : "Aryl-aldehyde oxidase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -646,7 +646,7 @@
              "references" : []
         },
                            "EC_1_2_99_7" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -657,7 +657,7 @@
              "references" : []
         },
                            "EC_1_3_1_22" : {
-                   "name" : "3-oxo-5-alpha-steroid 4-dehydrogenase (NADP(+))",
+                   "acceptedName" : "3-oxo-5-alpha-steroid 4-dehydrogenase (NADP(+))",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -671,7 +671,7 @@
              "references" : []
         },
                           "EC_1_3_1_34" : {
-                   "name" : "2,4-dienoyl-CoA reductase (NADPH)",
+                   "acceptedName" : "2,4-dienoyl-CoA reductase (NADPH)",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -682,7 +682,7 @@
              "references" : []
         },
                            "EC_1_3_1_38" : {
-                   "name" : "Trans-2-enoyl-CoA reductase (NADPH)",
+                   "acceptedName" : "Trans-2-enoyl-CoA reductase (NADPH)",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -694,7 +694,7 @@
              "references" : []
         },
                            "EC_1_3_1_70" : {
-                   "name" : "Delta(14)-sterol reductase",
+                   "acceptedName" : "Delta(14)-sterol reductase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -710,7 +710,7 @@
              "references" : []
         },
                            "EC_1_3_1_77" : {
-                   "name" : "Anthocyanidin reductase",
+                   "acceptedName" : "Anthocyanidin reductase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -722,7 +722,7 @@
         },
 
                            "EC_1_3_1_93" : {
-                   "name" : "Very-long-chain enoyl-CoA reductase",
+                   "acceptedName" : "Very-long-chain enoyl-CoA reductase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -733,7 +733,7 @@
              "references" : []
         },
                             "EC_1_3_8_1" : {
-                   "name" : "Butyryl-CoA dehydrogenase",
+                   "acceptedName" : "Butyryl-CoA dehydrogenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -745,7 +745,7 @@
              "references" : []
         },
                             "EC_1_3_8_7" : {
-                   "name" : "Medium-chain acyl-CoA dehydrogenase",
+                   "acceptedName" : "Medium-chain acyl-CoA dehydrogenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -757,7 +757,7 @@
              "references" : []
         },
                             "EC_1_3_3_6" : {
-                   "name" : "Acyl-CoA oxidase",
+                   "acceptedName" : "Acyl-CoA oxidase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -771,7 +771,7 @@
              "references" : []
         },
                             "EC_1_3_8_8" : {
-                   "name" : "Long-chain acyl-CoA dehydrogenase",
+                   "acceptedName" : "Long-chain acyl-CoA dehydrogenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -782,7 +782,7 @@
              "references" : []
         },
                             "EC_1_3_8_9" : {
-                   "name" : "Very-long-chain acyl-CoA dehydrogenase",
+                   "acceptedName" : "Very-long-chain acyl-CoA dehydrogenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -794,7 +794,7 @@
              "references" : []
         },
                            "EC_1_3_99_4" : {
-                   "name" : "3-oxosteroid 1-dehydrogenase",
+                   "acceptedName" : "3-oxosteroid 1-dehydrogenase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -805,7 +805,7 @@
              "references" : []
         },
                            "EC_1_3_99_5" : {
-                   "name" : "3-oxo-5-alpha-steroid 4-dehydrogenase (acceptor)",
+                   "acceptedName" : "3-oxo-5-alpha-steroid 4-dehydrogenase (acceptor)",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -816,7 +816,7 @@
              "references" : []
         },
                            "EC_1_3_99_6" : {
-                   "name" : "3-oxo-5-beta-steroid 4-dehydrogenase",
+                   "acceptedName" : "3-oxo-5-beta-steroid 4-dehydrogenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -837,7 +837,7 @@
              ]
         },
                            "EC_1_5_3_20" : {
-                   "name" : "N-alkylglycine oxidase",
+                   "acceptedName" : "N-alkylglycine oxidase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -848,7 +848,7 @@
              "references" : []
         },
                             "EC_1_6_5_2" : {
-                   "name" : "NAD(P)H:quinone oxidoreductase",
+                   "acceptedName" : "NAD(P)H:quinone oxidoreductase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -860,7 +860,7 @@
         },
 
                          "EC_1_14_13_70" : {
-                   "name" : "Sterol 14-alpha-demethylase",
+                   "acceptedName" : "Sterol 14-alpha-demethylase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -873,7 +873,7 @@
              "references" : []
         },
                         "EC_1_14_13_142" : {
-                   "name" : "3-ketosteroid 9-alpha-monooxygenase",
+                   "acceptedName" : "3-ketosteroid 9-alpha-monooxygenase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -884,7 +884,7 @@
              "references" : []
         },
                          "EC_1_14_14_14" : {
-                   "name" : "aromatase",
+                   "acceptedName" : "aromatase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -907,7 +907,7 @@
         },
 
                          "EC_1_14_14_16" : {
-                   "name" : "Steroid 21-monooxygenase",
+                   "acceptedName" : "Steroid 21-monooxygenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -923,7 +923,7 @@
         },
 
                          "EC_1_14_14_19" : {
-                   "name" : "Steroid 17-alpha-monooxygenase",
+                   "acceptedName" : "Steroid 17-alpha-monooxygenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -957,7 +957,7 @@
              ]
         },
                          "EC_1_14_14_29" : {
-                   "name" : "25/26-hydroxycholesterol 7α-hydroxylase",
+                   "acceptedName" : "25/26-hydroxycholesterol 7α-hydroxylase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -968,7 +968,7 @@
              "references" : []
         },
                          "EC_1_14_14_32" : {
-                   "name" : "17alpha-hydroxyprogesterone deacetylase",
+                   "acceptedName" : "17alpha-hydroxyprogesterone deacetylase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1007,7 +1007,7 @@
 
 
                           "EC_1_14_15_4" : {
-                   "name" : "Steroid 11-beta-monooxygenase",
+                   "acceptedName" : "Steroid 11-beta-monooxygenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1018,7 +1018,7 @@
              "references" : []
         },
                           "EC_1_14_19_5" : {
-                   "name" : "Acyl-CoA 11-(Z)-desaturase",
+                   "acceptedName" : "Acyl-CoA 11-(Z)-desaturase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -1029,7 +1029,7 @@
              "references" : []
         },
                          "EC_1_14_19_17" : {
-                   "name" : "Sphingolipid 4-desaturase",
+                   "acceptedName" : "Sphingolipid 4-desaturase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1042,7 +1042,7 @@
              "references" : []
         },
                          "EC_1_14_19_18" : {
-                   "name" : "Sphingolipid 8-(E)-desaturase",
+                   "acceptedName" : "Sphingolipid 8-(E)-desaturase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -1053,7 +1053,7 @@
              "references" : []
         },
                          "EC_1_14_19_19" : {
-                   "name" : "Sphingolipid 10-desaturase",
+                   "acceptedName" : "Sphingolipid 10-desaturase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -1064,7 +1064,7 @@
              "references" : []
         },
                          "EC_1_14_19_20" : {
-                   "name" : "Delta(7)-sterol 5(6)-desaturase",
+                   "acceptedName" : "Delta(7)-sterol 5(6)-desaturase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1076,7 +1076,7 @@
              "references" : []
         },
                          "EC_1_14_19_29" : {
-                   "name" : "Sphingolipid 8-(E/Z)-desaturase",
+                   "acceptedName" : "Sphingolipid 8-(E/Z)-desaturase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -1087,7 +1087,7 @@
              "references" : []
         },
                             "EC_2_1_1_6" : {
-                   "name" : "Catechol O-methyltransferase",
+                   "acceptedName" : "Catechol O-methyltransferase",
             "description" : "",
              "biosystems" : {
                    "HUMAN" : {
@@ -1104,7 +1104,7 @@
              "references" : []
         },
                             "EC_2_1_1_9" : {
-                   "name" : "Thiol S-methyltransferase",
+                   "acceptedName" : "Thiol S-methyltransferase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -1115,7 +1115,7 @@
              "references" : []
         },
                            "EC_2_1_1_15" : {
-                   "name" : "Fatty-acid O-methyltransferase",
+                   "acceptedName" : "Fatty-acid O-methyltransferase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -1126,7 +1126,7 @@
              "references" : []
         },
                            "EC_2_1_1_17" : {
-                   "name" : "Phosphatidylethanolamine N-methyltransferase",
+                   "acceptedName" : "Phosphatidylethanolamine N-methyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1138,7 +1138,7 @@
              "references" : []
         },
                            "EC_2_1_1_42" : {
-                   "name" : "Flavone 3'-O-methyltransferase",
+                   "acceptedName" : "Flavone 3'-O-methyltransferase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -1149,7 +1149,7 @@
              "references" : []
         },
                            "EC_2_1_1_46" : {
-                   "name" : "Isoflavone 4'-O-methyltransferase",
+                   "acceptedName" : "Isoflavone 4'-O-methyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1160,7 +1160,7 @@
              "references" : []
         },
                            "EC_2_1_1_67" : {
-                   "name" : "Thiopurine S-methyltransferase",
+                   "acceptedName" : "Thiopurine S-methyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1171,7 +1171,7 @@
              "references" : []
         },
                            "EC_2_1_1_71" : {
-                   "name" : "Phosphatidyl-N-methylethanolamine N-methyltransferase",
+                   "acceptedName" : "Phosphatidyl-N-methylethanolamine N-methyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1184,7 +1184,7 @@
              "references" : []
         },
                            "EC_2_1_1_96" : {
-                   "name" : "Thioether S-methyltransferase",
+                   "acceptedName" : "Thioether S-methyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1195,7 +1195,7 @@
              "references" : []
         },
                            "EC_2_1_1_97" : {
-                   "name" : "3-hydroxyanthranilate 4-C-methyltransferase",
+                   "acceptedName" : "3-hydroxyanthranilate 4-C-methyltransferase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -1206,7 +1206,7 @@
              "references" : []
         },
                           "EC_2_1_1_317" : {
-                   "name" : "Sphingolipid C9-methyltransferase",
+                   "acceptedName" : "Sphingolipid C9-methyltransferase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -1217,7 +1217,7 @@
              "references" : []
         },
                             "EC_2_3_1_5" : {
-                   "name" : "Arylamine N-acetyltransferase",
+                   "acceptedName" : "Arylamine N-acetyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1228,7 +1228,7 @@
              "references" : []
         },
                            "EC_2_3_1_13" : {
-                   "name" : "Glycine N-acyltransferase",
+                   "acceptedName" : "Glycine N-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1240,7 +1240,7 @@
              "references" : []
         },
                            "EC_2_3_1_15" : {
-                   "name" : "Glycerol-3-phosphate 1-O-acyltransferase",
+                   "acceptedName" : "Glycerol-3-phosphate 1-O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1254,7 +1254,7 @@
         },
 
                            "EC_2_3_1_18" : {
-                   "name" : "Galactoside O-acetyltransferase",
+                   "acceptedName" : "Galactoside O-acetyltransferase",
             "description" : "",
              "biosystems" : {
                 "GUTMICRO" : {
@@ -1267,7 +1267,7 @@
 
 
                            "EC_2_3_1_16" : {
-                   "name" : "Acetyl-CoA C-acyltransferase",
+                   "acceptedName" : "Acetyl-CoA C-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1282,7 +1282,7 @@
              "references" : []
         },
                            "EC_2_3_1_20" : {
-                   "name" : "Diacylglycerol O-acyltransferase",
+                   "acceptedName" : "Diacylglycerol O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1296,7 +1296,7 @@
              "references" : []
         },
                            "EC_2_3_1_22" : {
-                   "name" : "2-acylglycerol O-acyltransferase",
+                   "acceptedName" : "2-acylglycerol O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1308,7 +1308,7 @@
              "references" : []
         },
                            "EC_2_3_1_23" : {
-                   "name" : "1-acylglycerophosphocholine O-acyltransferase",
+                   "acceptedName" : "1-acylglycerophosphocholine O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1322,7 +1322,7 @@
              "references" : []
         },
                            "EC_2_3_1_24" : {
-                   "name" : "Sphingosine N-acyltransferase",
+                   "acceptedName" : "Sphingosine N-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1335,7 +1335,7 @@
              "references" : []
         },
                            "EC_2_3_1_25" : {
-                   "name" : "Plasmalogen synthase",
+                   "acceptedName" : "Plasmalogen synthase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -1346,7 +1346,7 @@
              "references" : []
         },
                            "EC_2_3_1_26" : {
-                   "name" : "Sterol O-acyltransferase",
+                   "acceptedName" : "Sterol O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1358,7 +1358,7 @@
              "references" : []
         },
                            "EC_2_3_1_42" : {
-                   "name" : "Glycerone-phosphate O-acyltransferase",
+                   "acceptedName" : "Glycerone-phosphate O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1373,7 +1373,7 @@
         },
 
                            "EC_2_3_1_43" : {
-                   "name" : "Phosphatidylcholine—sterol O-acyltransferase",
+                   "acceptedName" : "Phosphatidylcholine—sterol O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1385,7 +1385,7 @@
              "references" : []
         },
                            "EC_2_3_1_51" : {
-                   "name" : "1-acylglycerol-3-phosphate O-acyltransferase",
+                   "acceptedName" : "1-acylglycerol-3-phosphate O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1401,7 +1401,7 @@
              "references" : []
         },
                            "EC_2_3_1_52" : {
-                   "name" : "2-acylglycerol-3-phosphate O-acyltransferase",
+                   "acceptedName" : "2-acylglycerol-3-phosphate O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -1412,7 +1412,7 @@
              "references" : []
         },
                            "EC_2_3_1_62" : {
-                   "name" : "2-acylglycerophosphocholine O-acyltransferase",
+                   "acceptedName" : "2-acylglycerophosphocholine O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -1423,7 +1423,7 @@
              "references" : []
         },
                            "EC_2_3_1_63" : {
-                   "name" : "1-alkylglycerophosphocholine O-acyltransferase",
+            "acceptedName" : "1-alkylglycerophosphocholine O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -1434,7 +1434,7 @@
              "references" : []
         },
                            "EC_2_3_1_65" : {
-                   "name" : "Bile acid-CoA:amino acid N-acyltransferase",
+                   "acceptedName" : "Bile acid-CoA:amino acid N-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1445,7 +1445,7 @@
              "references" : []
         },
                            "EC_2_3_1_67" : {
-                   "name" : "1-alkylglycerophosphocholine O-acetyltransferase",
+                   "acceptedName" : "1-alkylglycerophosphocholine O-acetyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1456,7 +1456,7 @@
              "references" : []
         },
                            "EC_2_3_1_75" : {
-                   "name" : "Long-chain-alcohol O-fatty-acyltransferase",
+                   "acceptedName" : "Long-chain-alcohol O-fatty-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1467,7 +1467,7 @@
              "references" : []
         },
                            "EC_2_3_1_76" : {
-                   "name" : "Retinol O-fatty-acyltransferase",
+                   "acceptedName" : "Retinol O-fatty-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1478,7 +1478,7 @@
              "references" : []
         },
                            "EC_2_3_1_80" : {
-                   "name" : "Ceramide glucosyltransferase",
+                   "acceptedName" : "Ceramide glucosyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1489,7 +1489,7 @@
              "references" : []
         },
                            "EC_2_3_1_85" : {
-                   "name" : "Fatty-acid synthase",
+                   "acceptedName" : "Fatty-acid synthase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1500,7 +1500,7 @@
              "references" : []
         },
                            "EC_2_3_1_87" : {
-                   "name" : "Aralkylamine N-acetyltransferase",
+                   "acceptedName" : "Aralkylamine N-acetyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1511,7 +1511,7 @@
              "references" : []
         },
                            "EC_2_3_1_88" : {
-                   "name" : "Peptide alpha-N-acetyltransferase",
+                   "acceptedName" : "Peptide alpha-N-acetyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1522,7 +1522,7 @@
              "references" : []
         },
                           "EC_2_3_1_102" : {
-                   "name" : "N6-hydroxylysine N-acetyltransferase",
+                   "acceptedName" : "N6-hydroxylysine N-acetyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1533,7 +1533,7 @@
              "references" : []
         },
                           "EC_2_3_1_116" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1544,7 +1544,7 @@
              "references" : []
         },
                           "EC_2_3_1_118" : {
-                   "name" : "Flavonol-3-O-β-glucoside O-malonyltransferase",
+                   "acceptedName" : "Flavonol-3-O-β-glucoside O-malonyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1555,7 +1555,7 @@
              "references" : []
         },
                           "EC_2_3_1_121" : {
-                   "name" : "1-alkenylglycerophosphoethanolamine O-acyltransferase",
+                   "acceptedName" : "1-alkenylglycerophosphoethanolamine O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1566,7 +1566,7 @@
              "references" : []
         },
                           "EC_2_3_1_125" : {
-                   "name" : "1-alkyl-2-acetylglycerol O-acyltransferase",
+                   "acceptedName" : "1-alkyl-2-acetylglycerol O-acyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1577,7 +1577,7 @@
              "references" : []
         },
                           "EC_2_3_1_135" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1588,7 +1588,7 @@
              "references" : []
         },
                           "EC_2_3_1_152" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1599,7 +1599,7 @@
              "references" : []
         },
                           "EC_2_3_1_153" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1610,7 +1610,7 @@
              "references" : []
         },
                           "EC_2_3_1_171" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1621,7 +1621,7 @@
              "references" : []
         },
                           "EC_2_3_1_199" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1632,7 +1632,7 @@
              "references" : []
         },
                           "EC_2_3_1_215" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1644,7 +1644,7 @@
         },
 
                            "EC_2_4_1_17" : {
-                   "name" : "UDP-glucuronosyltransferase",
+                   "acceptedName" : "UDP-glucuronosyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1702,7 +1702,7 @@
         },
 
                            "EC_2_4_1_47" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1713,7 +1713,7 @@
              "references" : []
         },
                            "EC_2_4_1_62" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1724,7 +1724,7 @@
              "references" : []
         },
                            "EC_2_4_1_80" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1735,7 +1735,7 @@
              "references" : []
         },
                            "EC_2_4_1_83" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1746,7 +1746,7 @@
              "references" : []
         },
                            "EC_2_4_1_92" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1757,7 +1757,7 @@
              "references" : []
         },
                           "EC_2_4_1_117" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1768,7 +1768,7 @@
              "references" : []
         },
                           "EC_2_4_1_157" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1779,7 +1779,7 @@
              "references" : []
         },
                           "EC_2_4_1_159" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1790,7 +1790,7 @@
              "references" : []
         },
                           "EC_2_4_1_173" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1801,7 +1801,7 @@
              "references" : []
         },
                           "EC_2_4_1_198" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1812,7 +1812,7 @@
              "references" : []
         },
                           "EC_2_4_1_274" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1823,7 +1823,7 @@
              "references" : []
         },
                            "EC_2_4_99_1" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1834,7 +1834,7 @@
              "references" : []
         },
                            "EC_2_4_99_9" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1845,7 +1845,7 @@
              "references" : []
         },
                            "EC_2_5_1_18" : {
-                   "name" : "Glutathione transferase",
+                   "acceptedName" : "Glutathione transferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1875,7 +1875,7 @@
              ]
         },
                            "EC_2_5_1_26" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1886,7 +1886,7 @@
              "references" : []
         },
                            "EC_2_6_1_57" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1897,7 +1897,7 @@
              "references" : []
         },
                            "EC_2_7_1_60" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1908,7 +1908,7 @@
              "references" : []
         },
                            "EC_2_7_1_67" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1919,7 +1919,7 @@
              "references" : []
         },
                            "EC_2_7_1_68" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1930,7 +1930,7 @@
              "references" : []
         },
                            "EC_2_7_1_94" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1941,7 +1941,7 @@
              "references" : []
         },
                           "EC_2_7_1_107" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1952,7 +1952,7 @@
              "references" : []
         },
                           "EC_2_7_1_137" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1963,7 +1963,7 @@
              "references" : []
         },
                           "EC_2_7_1_138" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1974,7 +1974,7 @@
              "references" : []
         },
                           "EC_2_7_1_149" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1985,7 +1985,7 @@
              "references" : []
         },
                           "EC_2_7_1_150" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -1996,7 +1996,7 @@
              "references" : []
         },
                           "EC_2_7_1_153" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2007,7 +2007,7 @@
              "references" : []
         },
                           "EC_2_7_1_154" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2018,7 +2018,7 @@
              "references" : []
         },
                            "EC_2_7_7_41" : {
-                   "name" : "phosphatidate cytidylyltransferase",
+                   "acceptedName" : "phosphatidate cytidylyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2032,7 +2032,7 @@
              "references" : []
         },
                            "EC_2_7_7_43" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2043,7 +2043,7 @@
              "references" : []
         },
                              "EC_2_7_8_1" : {
-                   "name" : "diacylglycerol ethanolaminephosphotransferase",
+                   "acceptedName" : "diacylglycerol ethanolaminephosphotransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2055,7 +2055,7 @@
         },
 
                             "EC_2_7_8_2" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2066,7 +2066,7 @@
              "references" : []
         },
                             "EC_2_7_8_5" : {
-                   "name" : "CDP-diacylglycerol--glycerol-3-phosphate 1-phosphatidyltransferase",
+                   "acceptedName" : "CDP-diacylglycerol--glycerol-3-phosphate 1-phosphatidyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2078,7 +2078,7 @@
         },
 
                            "EC_2_7_8_11" : {
-                   "name" : "",
+                   "acceptedName" : "CDP-diacylglycerol—inositol 3-phosphatidyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2089,7 +2089,7 @@
              "references" : []
         },
                            "EC_2_7_8_27" : {
-                   "name" : "",
+                   "acceptedName" : "sphingomyelin synthase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2100,7 +2100,7 @@
              "references" : []
         },
                            "EC_2_7_8_29" : {
-                   "name" : "",
+                   "acceptedName" : "L-serine-phosphatidylethanolamine phosphatidyltransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2111,7 +2111,7 @@
              "references" : []
         },
                            "EC_2_7_8_41" : {
-                   "name" : "",
+                   "acceptedName" : "cardiolipin synthase (CMP-forming)",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2122,7 +2122,7 @@
              "references" : []
         },
                             "EC_2_8_2_1" : {
-                   "name" : "Aryl sulfotransferase",
+                   "acceptedName" : "Aryl sulfotransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2152,7 +2152,7 @@
              ]
         },
                             "EC_2_8_2_2" : {
-                   "name" : "Alcohol sulfotransferase",
+                   "acceptedName" : "Alcohol sulfotransferase",
             "description" : "Primary and secondary alcohols, including aliphatic alcohols, ascorbate, chloramphenicol, ephedrine and hydroxysteroids, but not phenolic steroids, can act as acceptors (See http://enzyme.expasy.org/EC/2.8.2.2)",
              "biosystems" : {
                 "HUMAN" : {
@@ -2163,7 +2163,7 @@
              "references" : []
         },
                            "EC_2_8_2_11" : {
-                   "name" : "Galactosylceramide sulfotransferase",
+                   "acceptedName" : "Galactosylceramide sulfotransferase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2174,7 +2174,7 @@
              "references" : []
         },
                             "EC_3_1_1_X" : {
-                   "name" : "Sn1-specific diacylglycerol lipase beta",
+                   "acceptedName" : "Sn1-specific diacylglycerol lipase beta",
             "description" : "Catalyzes the hydrolysis of diacylglycerol (DAG) to 2-arachidonoyl-glycerol (2-AG), the most abundant endocannabinoid in tissues. Required for axonal growth during development and for retrograde synaptic signaling at mature synapses",
              "biosystems" : {
                 "HUMAN" : {
@@ -2206,7 +2206,7 @@
         },
 
                             "EC_3_1_1_2" : {
-                   "name" : "Serum paraoxonase/arylesterase 1",
+                   "acceptedName" : "Serum paraoxonase/arylesterase 1",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2217,7 +2217,7 @@
              "references" : []
         },
                             "EC_3_1_1_3" : {
-                   "name" : "Triacylglycerol lipase",
+                   "acceptedName" : "Triacylglycerol lipase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2247,7 +2247,7 @@
              ]
         },
                             "EC_3_1_1_4" : {
-                   "name" : "phospholipase A2",
+                   "acceptedName" : "phospholipase A2",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2287,7 +2287,7 @@
              ]
         },
                             "EC_3_1_1_5" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2298,7 +2298,7 @@
              "references" : []
         },
                             "EC_3_1_1_8" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2309,7 +2309,7 @@
              "references" : []
         },
                            "EC_3_1_1_13" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2320,7 +2320,7 @@
              "references" : []
         },
                            "EC_3_1_1_23" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2332,7 +2332,7 @@
         },
 
         //                    "EC_3_1_1_25" : {
-        //            "name" : "1,4-lactonase",
+        //            "acceptedName" : "1,4-lactonase",
         //     "description" : "",
         //      "biosystems" : {
         //         "HUMAN" : {
@@ -2355,7 +2355,7 @@
         //      ]
         // },
                            "EC_3_1_1_26" : {
-                   "name" : "Galactolipase",
+                   "acceptedName" : "Galactolipase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2368,7 +2368,7 @@
 
 
                            "EC_3_1_1_32" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2379,7 +2379,7 @@
              "references" : []
         },
                            "EC_3_1_1_34" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2390,7 +2390,7 @@
              "references" : []
         },
                            "EC_3_1_1_47" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2401,7 +2401,7 @@
              "references" : []
         },
                            "EC_3_1_1_81" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2412,7 +2412,7 @@
              "references" : []
         },
                             "EC_3_1_2_2" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2423,7 +2423,7 @@
              "references" : []
         },
                             "EC_3_1_2_6" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2434,7 +2434,7 @@
              "references" : []
         },
                             "EC_3_1_3_1" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2445,7 +2445,7 @@
              "references" : []
         },
                             "EC_3_1_3_2" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2456,7 +2456,7 @@
              "references" : []
         },
                             "EC_3_1_3_4" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2467,7 +2467,7 @@
              "references" : []
         },
                             "EC_3_1_3_5" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2478,7 +2478,7 @@
              "references" : []
         },
                             "EC_3_1_3_6" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2489,7 +2489,7 @@
              "references" : []
         },
                            "EC_3_1_3_27" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2500,7 +2500,7 @@
              "references" : []
         },
                            "EC_3_1_3_29" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2511,7 +2511,7 @@
              "references" : []
         },
                            "EC_3_1_3_36" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2522,7 +2522,7 @@
              "references" : []
         },
                            "EC_3_1_3_64" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2533,7 +2533,7 @@
              "references" : []
         },
                            "EC_3_1_3_66" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2544,7 +2544,7 @@
              "references" : []
         },
                            "EC_3_1_3_67" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2555,7 +2555,7 @@
              "references" : []
         },
                            "EC_3_1_3_78" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2566,7 +2566,7 @@
              "references" : []
         },
                            "EC_3_1_3_81" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2577,7 +2577,7 @@
              "references" : []
         },
                            "EC_3_1_3_86" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2588,7 +2588,7 @@
              "references" : []
         },
                            "EC_3_1_3_95" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2599,7 +2599,7 @@
              "references" : []
         },
                             "EC_3_1_4_4" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2610,7 +2610,7 @@
              "references" : []
         },
                            "EC_3_1_4_11" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2621,7 +2621,7 @@
              "references" : []
         },
                            "EC_3_1_4_12" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2632,7 +2632,7 @@
              "references" : []
         },
                            "EC_3_1_4_16" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2643,7 +2643,7 @@
              "references" : []
         },
                            "EC_3_1_4_17" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2654,7 +2654,7 @@
              "references" : []
         },
                            "EC_3_1_4_39" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2665,7 +2665,7 @@
              "references" : []
         },
                            "EC_3_1_4_41" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2676,7 +2676,7 @@
              "references" : []
         },
                            "EC_3_1_4_42" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2687,7 +2687,7 @@
              "references" : []
         },
                            "EC_3_1_4_43" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2698,7 +2698,7 @@
              "references" : []
         },
                            "EC_3_1_4_44" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2709,7 +2709,7 @@
              "references" : []
         },
                            "EC_3_1_4_50" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2720,7 +2720,7 @@
              "references" : []
         },
                            "EC_3_1_4_54" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2731,7 +2731,7 @@
              "references" : []
         },
                             "EC_3_1_6_1" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2742,7 +2742,7 @@
              "references" : []
         },
                             "EC_3_1_6_2" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2753,7 +2753,7 @@
              "references" : []
         },
                             "EC_3_1_6_8" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2764,7 +2764,7 @@
              "references" : []
         },
                             "EC_3_1_8_1" : {
-                   "name" : "aryldialkylphosphatase",
+                   "acceptedName" : "aryldialkylphosphatase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2777,7 +2777,7 @@
 
         
                                    "EC_3_2_1_X" : {
-                   "name" : "Glycosidase",
+                   "acceptedName" : "Glycosidase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2789,7 +2789,7 @@
         },
         
                            "EC_3_2_1_20" : {
-                   "name" : "Alpha-glucosidase",
+                   "acceptedName" : "Alpha-glucosidase",
             "description" : "Hydrolysis of terminal, non-reducing (1->4)-linked alpha-D-glucose residues with release of alpha-D-glucose",
              "biosystems" : {
                 "HUMAN" : {
@@ -2845,7 +2845,7 @@
         },
 
                            "EC_3_2_1_21" : {
-                   "name" : "Beta-glucosidase",
+                   "acceptedName" : "Beta-glucosidase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2861,7 +2861,7 @@
              "references" : []
         },
                            "EC_3_2_1_22" : {
-                   "name" : "Alpha-galactosidase",
+                   "acceptedName" : "Alpha-galactosidase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2885,7 +2885,7 @@
              ]
         },
                            "EC_3_2_1_23" : {
-                   "name" : "Beta-galactosidase",
+                   "acceptedName" : "Beta-galactosidase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2902,7 +2902,7 @@
         },
  
                            "EC_3_2_1_24" : {
-                   "name" : "Alpha-mannosidase",
+                   "acceptedName" : "Alpha-mannosidase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2918,7 +2918,7 @@
         },
 
                            "EC_3_2_1_31" : {
-                   "name" : "Beta-glucuronidase",
+                   "acceptedName" : "Beta-glucuronidase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2937,7 +2937,7 @@
         },
 
                            "EC_3_2_1_40" : {
-                   "name" : "Alpha-L-rhamnosidase",
+                   "acceptedName" : "Alpha-L-rhamnosidase",
             "description" : "",
              "biosystems" : {
                 "GUTMICRO" : {
@@ -2962,7 +2962,7 @@
         },
 
                            "EC_3_2_1_45" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2973,7 +2973,7 @@
              "references" : []
         },
                            "EC_3_2_1_46" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2984,7 +2984,7 @@
              "references" : []
         },
                            "EC_3_2_1_50" : {
-                   "name" : "Alpha-N-acetylglucosaminidase",
+                   "acceptedName" : "Alpha-N-acetylglucosaminidase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -2995,7 +2995,7 @@
              "references" : []
         },
                            "EC_3_2_1_52" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3007,7 +3007,7 @@
         },        
 
                            "EC_3_2_1_62" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3018,7 +3018,7 @@
              "references" : []
         },
                           "EC_3_2_1_147" : {
-                   "name" : "Thioglucosidase",
+                   "acceptedName" : "Thioglucosidase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3033,7 +3033,7 @@
              "references" : []
         },
                             "EC_3_2_2_8" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3044,7 +3044,7 @@
              "references" : []
         },
                             "EC_3_3_2_2" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3055,7 +3055,7 @@
              "references" : []
         },
                             "EC_3_3_2_5" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3066,7 +3066,7 @@
              "references" : []
         },
                            "EC_3_1_4_37" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3077,7 +3077,7 @@
              "references" : []
         },
                            "EC_3_1_4_46" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3088,7 +3088,7 @@
              "references" : []
         },
                             "EC_3_3_3_2" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3099,7 +3099,7 @@
              "references" : []
         },
                             "EC_3_3_3_5" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3110,7 +3110,7 @@
              "references" : []
         },
                            "EC_3_5_1_14" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3121,7 +3121,7 @@
              "references" : []
         },
                            "EC_3_5_1_15" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3132,7 +3132,7 @@
              "references" : []
         },
                            "EC_3_5_1_17" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3143,7 +3143,7 @@
              "references" : []
         },
                            "EC_3_5_1_23" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3154,7 +3154,7 @@
              "references" : []
         },
                            "EC_3_5_1_55" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3165,7 +3165,7 @@
              "references" : []
         },
                            "EC_3_5_1_60" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3176,7 +3176,7 @@
              "references" : []
         },
                            "EC_3_5_1_89" : {
-                   "name" : "N-acetylglucosaminylphosphatidylinositol deacetylase",
+                   "acceptedName" : "N-acetylglucosaminylphosphatidylinositol deacetylase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3187,7 +3187,7 @@
              "references" : []
         },
                           "EC_3_5_1_114" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3198,7 +3198,7 @@
              "references" : []
         },
                           "EC_3_5_2_X" : {
-                   "name" : "Cyclic amide hydrolase",
+                   "acceptedName" : "Cyclic amide hydrolase",
             "description" : "This a superenzyme, modelled based on the following EC classes (3.5.2.2, 3.5.2.3, 3.5.2.7, 3.5.2.9, 3.5.2.10).",
              "biosystems" : {
                 "HUMAN" : {
@@ -3209,7 +3209,7 @@
              "references" : []
         },
                             "EC_3_6_1_6" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3220,7 +3220,7 @@
              "references" : []
         },
                             "EC_3_6_1_7" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3231,7 +3231,7 @@
              "references" : []
         },
                             "EC_3_6_1_9" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3242,7 +3242,7 @@
              "references" : []
         },
                            "EC_3_6_1_15" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3254,7 +3254,7 @@
         },
 
                            "EC_3_6_1_19" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3265,7 +3265,7 @@
              "references" : []
         },
                            "EC_3_6_1_20" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3276,7 +3276,7 @@
              "references" : []
         },
                             "EC_3_7_1_4" : {
-                   "name" : "phloretin hydrolase",
+                   "acceptedName" : "phloretin hydrolase",
             "description" : "",
              "biosystems" : {
                 "GUTMICRO" : {
@@ -3289,7 +3289,7 @@
 
 
                             "EC_3_7_1_5" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3300,7 +3300,7 @@
              "references" : []
         },
                            "EC_4_1_1_65" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3311,7 +3311,7 @@
              "references" : []
         },
                            "EC_4_2_1_17" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3322,7 +3322,7 @@
              "references" : []
         },
                           "EC_4_2_1_134" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3333,7 +3333,7 @@
              "references" : []
         },
                             "EC_4_3_2_5" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3345,7 +3345,7 @@
         },
 
                             "EC_4_99_1_M4" : {
-                   "name" : "THIOHYDROXIMATE_O_SULFOHYDROLASE",
+                   "acceptedName" : "THIOHYDROXIMATE_O_SULFOHYDROLASE",
             "description" : "",
              "biosystems" : {
                 // "HUMAN" : {
@@ -3357,7 +3357,7 @@
         },
 
                             "EC_5_3_3_1" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3368,7 +3368,7 @@
              "references" : []
         },
                             "EC_6_2_1_3" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3379,7 +3379,7 @@
              "references" : []
         },
                            "EC_6_2_1_20" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3390,7 +3390,7 @@
              "references" : []
         },
                              "EC_3_7_1_" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3401,7 +3401,7 @@
              "references" : []
         },
                              "EC_3_3_2_" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3412,7 +3412,7 @@
              "references" : []
         },
                              "EC_5_3_2_" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3423,7 +3423,7 @@
              "references" : []
         },
                            "EC_2_4_1_37" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3434,7 +3434,7 @@
              "references" : []
         },
                           "EC_2_4_1_38" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3445,7 +3445,7 @@
              "references" : []
         },
                                   "EC_2_4_1_40" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3457,7 +3457,7 @@
         },
 
                            "EC_2_4_1_65" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3468,7 +3468,7 @@
              "references" : []
         },
                                   "EC_2_4_1_69" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3479,7 +3479,7 @@
              "references" : []
         },
                            "EC_2_4_1_79" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3490,7 +3490,7 @@
              "references" : []
         },
                             "EC_2_4_1_86" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3501,7 +3501,7 @@
              "references" : []
         },
                              "EC_2_4_1_87" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3512,7 +3512,7 @@
              "references" : []
         },
                             "EC_2_4_1_88" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3523,7 +3523,7 @@
              "references" : []
         },
                             "EC_2_4_1_90" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3534,7 +3534,7 @@
              "references" : []
         },
                           "EC_2_4_1_149" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3545,7 +3545,7 @@
              "references" : []
         },
                             "EC_2_4_1_152" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3556,7 +3556,7 @@
              "references" : []
         },
                             "EC_2_4_1_206" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3567,7 +3567,7 @@
              "references" : []
         },
                           "EC_2_4_1_228" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3578,7 +3578,7 @@
              "references" : []
         },
                            "EC_2_4_99_2" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3589,7 +3589,7 @@
              "references" : []
         },
                             "EC_2_4_99_6" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3600,7 +3600,7 @@
              "references" : []
         },
                            "EC_2_4_99_8" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3611,7 +3611,7 @@
              "references" : []
         }, 
                            "EC_3_2_1_21" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3622,7 +3622,7 @@
              "references" : []
         },
                           "EC_1_1_1_100" : {
-                   "name" : "3-oxoacyl-[acyl-carrier-protein] reductase",
+                   "acceptedName" : "3-oxoacyl-[acyl-carrier-protein] reductase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3634,7 +3634,7 @@
         },
 
                           "EC_1_1_1_101" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3645,7 +3645,7 @@
              "references" : []
         },
                           "EC_1_1_1_102" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3656,7 +3656,7 @@
              "references" : []
         },
                           "EC_3_2_1_18" : {
-                   "name" : "exo-alpha-sialidase",
+                   "acceptedName" : "exo-alpha-sialidase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3677,7 +3677,7 @@
              ]
         },
                         "EC_1_14_13_205" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3688,7 +3688,7 @@
              "references" : []
         },
                         "EC_1_14_18_5" : {
-                   "name" : "Sphingolipid C4-monooxygenase",
+                   "acceptedName" : "Sphingolipid C4-monooxygenase",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3700,7 +3700,7 @@
         },
 
                            "EC_3_1_1_64" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3711,7 +3711,7 @@
              "references" : []
         },
            "UDP_GLUCURONOSYLTRANSFERASE" : {
-                   "name" : "Bacterial UDP-glucuronosyltransferase",
+                   "acceptedName" : "Bacterial UDP-glucuronosyltransferase",
             "description" : "",
              "biosystems" : {
                    "HUMAN" : {
@@ -3726,7 +3726,7 @@
              "references" : []
         },
                       "SULFOTRANSFERASE" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                    "HUMAN" : {
@@ -3741,7 +3741,7 @@
              "references" : []
         },
                      "ACETYLTRANSFERASE" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "HUMAN" : {
@@ -3773,7 +3773,7 @@
              ]
         },
                   "UNSPECIFIED_GUTMICRO" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "GUTMICRO" : {
@@ -3784,7 +3784,7 @@
              "references" : []
         },
                            "EC_1_6_99_1" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "GUTMICRO" : {
@@ -3795,7 +3795,7 @@
              "references" : []
         },
                             "EC_3_1_1_1" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "GUTMICRO" : {
@@ -3806,7 +3806,7 @@
              "references" : []
         },
                            "EC_3_1_1_20" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "GUTMICRO" : {
@@ -3817,7 +3817,7 @@
              "references" : []
         },
                          "DECARBOXYLASE" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "GUTMICRO" : {
@@ -3828,7 +3828,7 @@
              "references" : []
         },
                            "DEMETHYLASE" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "GUTMICRO" : {
@@ -3839,7 +3839,7 @@
              "references" : []
         },
                          "DEHYDROXYLASE" : {
-                   "name" : "Bacterial dehydroxylase",
+                   "acceptedName" : "Bacterial dehydroxylase",
             "description" : "",
              "biosystems" : {
                 "GUTMICRO" : {
@@ -3850,7 +3850,7 @@
              "references" : []
         },
                              "LACTONASE" : {
-                   "name" : "Bacterial lactonase",
+                   "acceptedName" : "Bacterial lactonase",
             "description" : "",
              "biosystems" : {
                 "GUTMICRO" : {
@@ -3862,7 +3862,7 @@
         },
         "HYDROXYCINNAMATE_DECARBOXYLASE" : {
           // EC 4.1.1.
-                   "name" : "4-Hydroxycinnamate decarboxylase",
+                   "acceptedName" : "4-Hydroxycinnamate decarboxylase",
             "description" : "",
              "biosystems" : {
                 "GUTMICRO" : {
@@ -3894,7 +3894,7 @@
              ]
         },
                 "VINYL_PHENOL_REDUCTASE" : {
-                   "name" : "Vinyl phenol reductase",
+                   "acceptedName" : "Vinyl phenol reductase",
             "description" : "",
              "biosystems" : {
                 "GUTMICRO" : {
@@ -3915,7 +3915,7 @@
              ]
         },
                  "FLAVONOID_C_GLYCOSIDASE" : {
-                   "name" : "Bacterial C-glycosidase",
+                   "acceptedName" : "Bacterial C-glycosidase",
             "description" : "",
              "biosystems" : {
                 "GUTMICRO" : {
@@ -3956,7 +3956,7 @@
         },
         
                   "UNSPECIFIED_ENVMICRO" : {
-                   "name" : "",
+                   "acceptedName" : "",
             "description" : "",
              "biosystems" : {
                 "ENVMICRO" : {
