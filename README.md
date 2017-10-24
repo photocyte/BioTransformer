@@ -46,13 +46,13 @@ microbiota, as well as the soil/aquatic microbiota.
                                      Phase II, and Environmental microbial
                                      biotransformers.
                                      
-* While the superbio option runs a set number of transformation steps in a
+(*) While the superbio option runs a set number of transformation steps in a
 pre-defined order (e.g. deconjugation first, then Oxidation/reduction,
 etc.), the allHuman option predicts all possible metabolites from any
 applicable reaction(Oxidation, reduction, (de-)conjudation) at each step.
 
 
-** For the environmental microbial biodegradation, all reactions (aerobic and anaerobic) 
+(**) For the environmental microbial biodegradation, all reactions (aerobic and anaerobic) 
 are reported, and not only the aerobic biotransformations (as per default in the EAWAG BBD/PPS system).
 
 
