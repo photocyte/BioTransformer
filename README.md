@@ -20,9 +20,8 @@ microbiota, as well as the soil/aquatic microbiota.
                                      biotransformer - EC-based  (ecbased),
                                      CYP450 (cyp450), Phase II (phaseII),
                                      Human gut microbial (hgut),
-                                     Environmental microbial (envimicro),
-                                     human super transformer* (superbio,
-                                     or allHuman).
+                                     human super transformer** (superbio,
+                                     or allHuman), Environmental microbial (envimicro)*.
                                      
  -f,--format <Input format>          The format of the input: SMILES
                                      (smi), MDL Mol file (mol), or
@@ -51,6 +50,10 @@ microbiota, as well as the soil/aquatic microbiota.
 pre-defined order (e.g. deconjugation first, then Oxidation/reduction,
 etc.), the allHuman option predicts all possible metabolites from any
 applicable reaction(Oxidation, reduction, (de-)conjudation) at each step.
+
+
+** For the environmental microbial biodegradation, all reactions (aerobic and anaerobic) 
+are reported, and not only the aerobic biotransformations (as per default in the EAWAG BBD/PPS system).
 
 
 E.g.: To predict the biotransformation of a molecule from an SDF input using the human super transformer, use
