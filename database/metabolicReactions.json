@@ -10215,9 +10215,11 @@
         },
                 "HYDROXYLATION_OF_ALIPHATIC_NON_TERMINAL_CARBON_ADJACENT_TO_AROMATIC_RING" : {
                 "commonName" : "Hydroxylation of non-terminal aliphatic carbon adjacent to aromatic ring",
-                    "smirks" : "[H:4][C;X4R0:3](!@-[#6;a:1])(!@-[#6;X4R0:2])[#6,#1;A;R0:5]>>[H:4][#8][C;X4R0:3](!@-[#6;a:1])(!@-[#6;X4R0:2])[#6,#1;A;R0:5]",
+                    "smirks" : "[H:1][C;X4R0:2](!@-[#6;a:3])([#6,#1;A;R0:5])!@-[*:4]>>[H:1][#8][C;X4R0:2](!@-[#6;a:3])([#6,#1;A;R0:5])!@-[*:4]",
+                    // "smirks" : "[H:4][C;X4R0:3](!@-[#6;a:1])(!@-[#6;X4R0:2])[#6,#1;A;R0:5]>>[H:4][#8][C;X4R0:3](!@-[#6;a:1])(!@-[#6;X4R0:2])[#6,#1;A;R0:5]",
                     "smarts" : [
-                      "[H][C;X4R0](!@-[#6;a])(!@-[#6;X4R0])[#6,#1;A;R0]"
+                      "[H][C;X4R0](!@-[#6;a])([#6,#1;A;R0])!@-*"
+                      // "[H][C;X4R0](!@-[#6;a])(!@-[#6;X4R0])[#6,#1;A;R0]"
             ],
             "negativeSmarts" : [],
                    "btmrID" : "BTMR1080"
