@@ -1940,7 +1940,7 @@
                 "btenz_id" : "BTE0114"
         },
                           "EC_2_3_1_116" : {
-            "acceptedName" : "",
+            "acceptedName" : "Flavonol-3-O-beta-glucoside O-malonyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -1952,7 +1952,7 @@
                 "btenz_id" : "BTE0115"
         },
                           "EC_2_3_1_118" : {
-            "acceptedName" : "Flavonol-3-O-β-glucoside O-malonyltransferase",
+            "acceptedName" : "N-hydroxyarylamine O-acetyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -1964,7 +1964,7 @@
                 "btenz_id" : "BTE0116"
         },
                           "EC_2_3_1_121" : {
-            "acceptedName" : "1-alkenylglycerophosphoethanolamine O-acyltransferase",
+            "acceptedName" : "1-Alkenylglycerophosphoethanolamine O-acyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -1976,7 +1976,7 @@
                 "btenz_id" : "BTE0117"
         },
                           "EC_2_3_1_125" : {
-            "acceptedName" : "1-alkyl-2-acetylglycerol O-acyltransferase",
+            "acceptedName" : "1-Alkyl-2-acetylglycerol O-acyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -1988,7 +1988,7 @@
                 "btenz_id" : "BTE0118"
         },
                           "EC_2_3_1_135" : {
-            "acceptedName" : "",
+            "acceptedName" : "Phosphatidylcholine—retinol O-acyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2000,7 +2000,7 @@
                 "btenz_id" : "BTE0119"
         },
                           "EC_2_3_1_152" : {
-            "acceptedName" : "",
+            "acceptedName" : "Alcohol O-cinnamoyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2012,7 +2012,7 @@
                 "btenz_id" : "BTE0120"
         },
                           "EC_2_3_1_153" : {
-            "acceptedName" : "",
+            "acceptedName" : "Anthocyanin 5-(6'''-hydroxycinnamoyltransferase)",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2024,7 +2024,7 @@
                 "btenz_id" : "BTE0121"
         },
                           "EC_2_3_1_171" : {
-            "acceptedName" : "",
+            "acceptedName" : "Anthocyanin 6''-O-malonyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2036,7 +2036,7 @@
                 "btenz_id" : "BTE0122"
         },
                           "EC_2_3_1_199" : {
-            "acceptedName" : "",
+            "acceptedName" : "Anthocyanidin 3-O-glucoside 6''-O-acyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2121,7 +2121,7 @@
                 "btenz_id" : "BTE0125"
         },
                            "EC_2_4_1_47" : {
-            "acceptedName" : "",
+            "acceptedName" : "N-acylsphingosine galactosyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2133,7 +2133,7 @@
                 "btenz_id" : "BTE0126"
         },
                            "EC_2_4_1_62" : {
-            "acceptedName" : "",
+            "acceptedName" : "Ganglioside galactosyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2145,7 +2145,7 @@
                 "btenz_id" : "BTE0127"
         },
                            "EC_2_4_1_80" : {
-            "acceptedName" : "",
+            "acceptedName" : "Ceramide glucosyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2157,7 +2157,7 @@
                 "btenz_id" : "BTE0128"
         },
                            "EC_2_4_1_83" : {
-            "acceptedName" : "",
+            "acceptedName" : "Dolichyl-phosphate beta-D-mannosyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2169,7 +2169,7 @@
                 "btenz_id" : "BTE0129"
         },
                            "EC_2_4_1_92" : {
-            "acceptedName" : "",
+            "acceptedName" : "(N-acetylneuraminyl)-galactosylglucosylceramide N-acetylgalactosaminyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2181,7 +2181,7 @@
                 "btenz_id" : "BTE0130"
         },
                           "EC_2_4_1_117" : {
-            "acceptedName" : "",
+            "acceptedName" : "Dolichyl-phosphate beta-glucosyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2193,7 +2193,7 @@
                 "btenz_id" : "BTE0131"
         },
                           "EC_2_4_1_157" : {
-            "acceptedName" : "",
+            "acceptedName" : "1,2-Diacylglycerol 3-glucosyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2205,7 +2205,7 @@
                 "btenz_id" : "BTE0132"
         },
                           "EC_2_4_1_159" : {
-            "acceptedName" : "",
+            "acceptedName" : "Flavonol-3-O-glucoside L-rhamnosyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2217,7 +2217,7 @@
                 "btenz_id" : "BTE0133"
         },
                           "EC_2_4_1_173" : {
-            "acceptedName" : "",
+            "acceptedName" : "Sterol 3beta-glucosyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2229,7 +2229,7 @@
                 "btenz_id" : "BTE0134"
         },
                           "EC_2_4_1_198" : {
-            "acceptedName" : "",
+            "acceptedName" : "Phosphatidylinositol N-acetylglucosaminyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2241,7 +2241,7 @@
                 "btenz_id" : "BTE0135"
         },
                           "EC_2_4_1_274" : {
-            "acceptedName" : "",
+            "acceptedName" : "Glucosylceramide beta-1,4-galactosyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2253,7 +2253,7 @@
                 "btenz_id" : "BTE0136"
         },
                            "EC_2_4_99_1" : {
-            "acceptedName" : "",
+            "acceptedName" : "beta-Galactoside alpha-(2,6)-sialyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2265,7 +2265,7 @@
                 "btenz_id" : "BTE0137"
         },
                            "EC_2_4_99_9" : {
-            "acceptedName" : "",
+            "acceptedName" : "Lactosylceramide alpha-2,3-sialyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2323,12 +2323,30 @@
                      "ISSN" : "",
                       "DOI" : "",
                       "URL" : "https://ofmpub.epa.gov/eims/eimscomm.getfile?p_download_id=457549"
+                },
+                                      {
+                    "Title" : "Glutathione S-transferase conjugation of organophosphorus pesticides yields S-phospho-, S-aryl-, and S-alkylglutathione derivatives",
+                     "PMID" : "17645302",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "10.1021/tx700133c",
+                      "URL" : ""
+                },
+                                                      {
+                    "Title" : "Prediction of Substrates for Glutathione Transferases by Covalent Docking",
+                     "PMID" : "24802635",
+                    "PCMID" : "PMC4068255",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "10.1021/ci5001554",
+                      "URL" : ""
                 }
             ],
                 "btenz_id" : "BTE0139"
         },
                            "EC_2_5_1_26" : {
-            "acceptedName" : "",
+            "acceptedName" : "Alkylglycerone-phosphate synthase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2340,7 +2358,7 @@
                 "btenz_id" : "BTE0140"
         },
                            "EC_2_6_1_57" : {
-            "acceptedName" : "",
+            "acceptedName" : "Aromatic-amino-acid transaminase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2352,7 +2370,7 @@
                 "btenz_id" : "BTE0141"
         },
                            "EC_2_7_1_60" : {
-            "acceptedName" : "",
+            "acceptedName" : "N-acylmannosamine kinase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2364,7 +2382,7 @@
                 "btenz_id" : "BTE0142"
         },
                            "EC_2_7_1_67" : {
-            "acceptedName" : "",
+            "acceptedName" : "1-Phosphatidylinositol 4-kinase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2376,7 +2394,7 @@
                 "btenz_id" : "BTE0143"
         },
                            "EC_2_7_1_68" : {
-            "acceptedName" : "",
+            "acceptedName" : "1-Phosphatidylinositol-4-phosphate 5-kinase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2388,7 +2406,7 @@
                 "btenz_id" : "BTE0144"
         },
                            "EC_2_7_1_94" : {
-            "acceptedName" : "",
+            "acceptedName" : "Acylglycerol kinase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2400,7 +2418,7 @@
                 "btenz_id" : "BTE0145"
         },
                           "EC_2_7_1_107" : {
-            "acceptedName" : "",
+            "acceptedName" : "Diacylglycerol kinase (ATP)",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2412,7 +2430,7 @@
                 "btenz_id" : "BTE0146"
         },
                           "EC_2_7_1_137" : {
-            "acceptedName" : "",
+            "acceptedName" : "Phosphatidylinositol 3-kinase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2424,7 +2442,7 @@
                 "btenz_id" : "BTE0147"
         },
                           "EC_2_7_1_138" : {
-            "acceptedName" : "",
+            "acceptedName" : "Ceramide kinase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2436,7 +2454,7 @@
                 "btenz_id" : "BTE0148"
         },
                           "EC_2_7_1_149" : {
-            "acceptedName" : "",
+            "acceptedName" : "1-Phosphatidylinositol-5-phosphate 4-kinase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2448,7 +2466,7 @@
                 "btenz_id" : "BTE0149"
         },
                           "EC_2_7_1_150" : {
-            "acceptedName" : "",
+            "acceptedName" : "1-Phosphatidylinositol-3-phosphate 5-kinase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2460,7 +2478,7 @@
                 "btenz_id" : "BTE0150"
         },
                           "EC_2_7_1_153" : {
-            "acceptedName" : "",
+            "acceptedName" : "Phosphatidylinositol-4,5-bisphosphate 3-kinase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2472,7 +2490,7 @@
                 "btenz_id" : "BTE0151"
         },
                           "EC_2_7_1_154" : {
-            "acceptedName" : "",
+            "acceptedName" : "Phosphatidylinositol-4-phosphate 3-kinase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2764,7 +2782,7 @@
                 "btenz_id" : "BTE0168"
         },
                             "EC_3_1_1_5" : {
-            "acceptedName" : "",
+            "acceptedName" : "Lysophospholipase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2776,7 +2794,7 @@
                 "btenz_id" : "BTE0169"
         },
                             "EC_3_1_1_8" : {
-            "acceptedName" : "",
+            "acceptedName" : "Cholinesterase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2788,7 +2806,7 @@
                 "btenz_id" : "BTE0170"
         },
                            "EC_3_1_1_13" : {
-            "acceptedName" : "",
+            "acceptedName" : "Sterol esterase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2800,7 +2818,7 @@
                 "btenz_id" : "BTE0171"
         },
                            "EC_3_1_1_23" : {
-            "acceptedName" : "",
+            "acceptedName" : "Acylglycerol lipase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2829,7 +2847,7 @@
                 "btenz_id" : "BTE0173"
         },
                            "EC_3_1_1_32" : {
-            "acceptedName" : "",
+            "acceptedName" : "Phospholipase A1",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2841,7 +2859,7 @@
                 "btenz_id" : "BTE0174"
         },
                            "EC_3_1_1_34" : {
-            "acceptedName" : "",
+            "acceptedName" : "Lipoprotein lipase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2853,7 +2871,7 @@
                 "btenz_id" : "BTE0175"
         },
                            "EC_3_1_1_47" : {
-            "acceptedName" : "",
+            "acceptedName" : "1-Alkyl-2-acetylglycerophosphocholine esterase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2865,7 +2883,7 @@
                 "btenz_id" : "BTE0176"
         },
                            "EC_3_1_1_81" : {
-            "acceptedName" : "",
+            "acceptedName" : "Quorum-quenching N-acyl-homoserine lactonase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2877,7 +2895,7 @@
                 "btenz_id" : "BTE0177"
         },
                             "EC_3_1_2_2" : {
-            "acceptedName" : "",
+            "acceptedName" : "Palmitoyl-CoA hydrolase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2889,7 +2907,7 @@
                 "btenz_id" : "BTE0178"
         },
                             "EC_3_1_2_6" : {
-            "acceptedName" : "",
+            "acceptedName" : "Hydroxyacylglutathione hydrolase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2901,7 +2919,7 @@
                 "btenz_id" : "BTE0179"
         },
                             "EC_3_1_3_1" : {
-            "acceptedName" : "",
+            "acceptedName" : "Alkaline phosphatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2913,7 +2931,7 @@
                 "btenz_id" : "BTE0180"
         },
                             "EC_3_1_3_2" : {
-            "acceptedName" : "",
+            "acceptedName" : "Acid phosphatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2925,7 +2943,7 @@
                 "btenz_id" : "BTE0181"
         },
                             "EC_3_1_3_4" : {
-            "acceptedName" : "",
+            "acceptedName" : "Phosphatidate phosphatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2937,7 +2955,7 @@
                 "btenz_id" : "BTE0182"
         },
                             "EC_3_1_3_5" : {
-            "acceptedName" : "",
+            "acceptedName" : "5p-Nucleotidase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2949,7 +2967,7 @@
                 "btenz_id" : "BTE0183"
         },
                             "EC_3_1_3_6" : {
-            "acceptedName" : "",
+            "acceptedName" : "3p-Nucleotidase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2961,7 +2979,7 @@
                 "btenz_id" : "BTE0184"
         },
                            "EC_3_1_3_27" : {
-            "acceptedName" : "",
+            "acceptedName" : "Phosphatidylglycerophosphatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2973,7 +2991,7 @@
                 "btenz_id" : "BTE0185"
         },
                            "EC_3_1_3_29" : {
-            "acceptedName" : "",
+            "acceptedName" : "N-acylneuraminate-9-phosphatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2985,7 +3003,7 @@
                 "btenz_id" : "BTE0186"
         },
                            "EC_3_1_3_36" : {
-            "acceptedName" : "",
+            "acceptedName" : "Phosphoinositide 5-phosphatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -2997,7 +3015,7 @@
                 "btenz_id" : "BTE0187"
         },
                            "EC_3_1_3_64" : {
-            "acceptedName" : "",
+            "acceptedName" : "Phosphatidylinositol-3-phosphatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3009,7 +3027,7 @@
                 "btenz_id" : "BTE0188"
         },
                            "EC_3_1_3_66" : {
-            "acceptedName" : "",
+            "acceptedName" : "Phosphatidylinositol-3,4-bisphosphate 4-phosphatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3021,7 +3039,7 @@
                 "btenz_id" : "BTE0189"
         },
                            "EC_3_1_3_67" : {
-            "acceptedName" : "",
+            "acceptedName" : "Phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3033,7 +3051,7 @@
                 "btenz_id" : "BTE0190"
         },
                            "EC_3_1_3_78" : {
-            "acceptedName" : "",
+            "acceptedName" : "Phosphatidylinositol-4,5-bisphosphate 4-phosphatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3045,7 +3063,7 @@
                 "btenz_id" : "BTE0191"
         },
                            "EC_3_1_3_81" : {
-            "acceptedName" : "",
+            "acceptedName" : "Diacylglycerol diphosphate phosphatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3057,7 +3075,7 @@
                 "btenz_id" : "BTE0192"
         },
                            "EC_3_1_3_86" : {
-            "acceptedName" : "",
+            "acceptedName" : "Phosphatidylinositol-3,4,5-trisphosphate 5-phosphatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3069,7 +3087,7 @@
                 "btenz_id" : "BTE0193"
         },
                            "EC_3_1_3_95" : {
-            "acceptedName" : "",
+            "acceptedName" : "Phosphatidylinositol-3,5-bisphosphate 3-phosphatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3081,7 +3099,7 @@
                 "btenz_id" : "BTE0194"
         },
                             "EC_3_1_4_4" : {
-            "acceptedName" : "",
+            "acceptedName" : "Phospholipase D",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3093,7 +3111,7 @@
                 "btenz_id" : "BTE0195"
         },
                            "EC_3_1_4_11" : {
-            "acceptedName" : "",
+            "acceptedName" : "Phosphoinositide phospholipase C",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3105,7 +3123,7 @@
                 "btenz_id" : "BTE0196"
         },
                            "EC_3_1_4_12" : {
-            "acceptedName" : "",
+            "acceptedName" : "Sphingomyelin phosphodiesterase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3117,7 +3135,7 @@
                 "btenz_id" : "BTE0197"
         },
                            "EC_3_1_4_16" : {
-            "acceptedName" : "",
+            "acceptedName" : "2p,3p-cyclic-nucleotide 2p-phosphodiesterase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3129,7 +3147,7 @@
                 "btenz_id" : "BTE0198"
         },
                            "EC_3_1_4_17" : {
-            "acceptedName" : "",
+            "acceptedName" : "3p,5p-cyclic-nucleotide phosphodiesterase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3141,7 +3159,7 @@
                 "btenz_id" : "BTE0199"
         },
                            "EC_3_1_4_39" : {
-            "acceptedName" : "",
+            "acceptedName" : "Alkylglycerophosphoethanolamine phosphodiesterase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3153,7 +3171,7 @@
                 "btenz_id" : "BTE0200"
         },
                            "EC_3_1_4_41" : {
-            "acceptedName" : "",
+            "acceptedName" : "Sphingomyelin phosphodiesterase D",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3165,7 +3183,7 @@
                 "btenz_id" : "BTE0201"
         },
                            "EC_3_1_4_42" : {
-            "acceptedName" : "",
+            "acceptedName" : "Glycerol-1,2-cyclic-phosphate 2-phosphodiesterase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3177,7 +3195,7 @@
                 "btenz_id" : "BTE0202"
         },
                            "EC_3_1_4_43" : {
-            "acceptedName" : "",
+            "acceptedName" : "Glycerophosphoinositol inositolphosphodiesterase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3189,7 +3207,7 @@
                 "btenz_id" : "BTE0203"
         },
                            "EC_3_1_4_44" : {
-            "acceptedName" : "",
+            "acceptedName" : "Glycerophosphoinositol glycerophosphodiesterase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3201,7 +3219,7 @@
                 "btenz_id" : "BTE0204"
         },
                            "EC_3_1_4_50" : {
-            "acceptedName" : "",
+            "acceptedName" : "Glycosylphosphatidylinositol phospholipase D",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3213,7 +3231,7 @@
                 "btenz_id" : "BTE0205"
         },
                            "EC_3_1_4_54" : {
-            "acceptedName" : "",
+            "acceptedName" : "N-acetylphosphatidylethanolamine-hydrolysing phospholipase D",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3225,7 +3243,7 @@
                 "btenz_id" : "BTE0206"
         },
                             "EC_3_1_6_1" : {
-            "acceptedName" : "",
+            "acceptedName" : "Arylsulfatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3237,7 +3255,7 @@
                 "btenz_id" : "BTE0207"
         },
                             "EC_3_1_6_2" : {
-            "acceptedName" : "",
+            "acceptedName" : "Steryl-sulfatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3249,7 +3267,7 @@
                 "btenz_id" : "BTE0208"
         },
                             "EC_3_1_6_8" : {
-            "acceptedName" : "",
+            "acceptedName" : "Cerebroside-sulfatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3261,7 +3279,7 @@
                 "btenz_id" : "BTE0209"
         },
                             "EC_3_1_8_1" : {
-            "acceptedName" : "aryldialkylphosphatase",
+            "acceptedName" : "Aryldialkylphosphatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3517,7 +3535,7 @@
                 "btenz_id" : "BTE0221"
         },
                            "EC_3_2_1_52" : {
-            "acceptedName" : "",
+            "acceptedName" : "beta-N-acetylhexosaminidase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3529,7 +3547,7 @@
                 "btenz_id" : "BTE0222"
         },
                            "EC_3_2_1_62" : {
-            "acceptedName" : "",
+            "acceptedName" : "Glycosylceramidase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3541,7 +3559,7 @@
                 "btenz_id" : "BTE0223"
         },
                           "EC_3_2_1_147" : {
-            "acceptedName" : "Thioglucosidase",
+            "acceptedName" : "Unspecified bacterial thioglucosidase",
              "description" : "",
               "biosystems" : {
                    "HUMAN" : {
@@ -3557,7 +3575,7 @@
                 "btenz_id" : "BTE0224"
         },
                             "EC_3_2_2_8" : {
-            "acceptedName" : "",
+            "acceptedName" : "Ribosylpyrimidine nucleosidase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3569,7 +3587,7 @@
                 "btenz_id" : "BTE0225"
         },
                             "EC_3_3_2_2" : {
-            "acceptedName" : "",
+            "acceptedName" : "Lysoplasmalogenase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3581,7 +3599,7 @@
                 "btenz_id" : "BTE0226"
         },
                             "EC_3_3_2_5" : {
-            "acceptedName" : "",
+            "acceptedName" : "Alkenylglycerophosphoethanolamine hydrolase,",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3593,7 +3611,7 @@
                 "btenz_id" : "BTE0227"
         },
                            "EC_3_1_4_37" : {
-            "acceptedName" : "",
+            "acceptedName" : "2p,3p-cyclic-nucleotide 3p-phosphodiesterase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3605,7 +3623,7 @@
                 "btenz_id" : "BTE0228"
         },
                            "EC_3_1_4_46" : {
-            "acceptedName" : "",
+            "acceptedName" : "Glycerophosphodiester phosphodiesterase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3641,7 +3659,7 @@
                 "btenz_id" : "BTE0231"
         },
                            "EC_3_5_1_14" : {
-            "acceptedName" : "",
+            "acceptedName" : "N-acyl-aliphatic-L-amino acid amidohydrolase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3653,7 +3671,7 @@
                 "btenz_id" : "BTE0232"
         },
                            "EC_3_5_1_15" : {
-            "acceptedName" : "",
+            "acceptedName" : "Aspartoacylase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3665,7 +3683,7 @@
                 "btenz_id" : "BTE0233"
         },
                            "EC_3_5_1_17" : {
-            "acceptedName" : "",
+            "acceptedName" : "Acyl-lysine deacylase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3677,7 +3695,7 @@
                 "btenz_id" : "BTE0234"
         },
                            "EC_3_5_1_23" : {
-            "acceptedName" : "",
+            "acceptedName" : "Ceramidase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3689,7 +3707,7 @@
                 "btenz_id" : "BTE0235"
         },
                            "EC_3_5_1_55" : {
-            "acceptedName" : "",
+            "acceptedName" : "Long-chain-fatty-acyl-glutamate deacylase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3701,7 +3719,7 @@
                 "btenz_id" : "BTE0236"
         },
                            "EC_3_5_1_60" : {
-            "acceptedName" : "",
+            "acceptedName" : "N-(long-chain-acyl)ethanolamine deacylase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3725,7 +3743,7 @@
                 "btenz_id" : "BTE0238"
         },
                           "EC_3_5_1_114" : {
-            "acceptedName" : "",
+            "acceptedName" : "N-acyl-aromatic-L-amino acid amidohydrolase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3749,7 +3767,7 @@
                 "btenz_id" : "BTE0240"
         },
                             "EC_3_6_1_6" : {
-            "acceptedName" : "",
+            "acceptedName" : "Nucleoside diphosphate phosphatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3761,7 +3779,7 @@
                 "btenz_id" : "BTE0241"
         },
                             "EC_3_6_1_7" : {
-            "acceptedName" : "",
+            "acceptedName" : "Acylphosphatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3773,7 +3791,7 @@
                 "btenz_id" : "BTE0242"
         },
                             "EC_3_6_1_9" : {
-            "acceptedName" : "",
+            "acceptedName" : "Nucleotide diphosphatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3785,7 +3803,7 @@
                 "btenz_id" : "BTE0243"
         },
                            "EC_3_6_1_15" : {
-            "acceptedName" : "",
+            "acceptedName" : "Nucleoside-triphosphate phosphatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3797,7 +3815,7 @@
                 "btenz_id" : "BTE0244"
         },
                            "EC_3_6_1_19" : {
-            "acceptedName" : "",
+            "acceptedName" : "Nucleoside-triphosphate diphosphatase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3809,7 +3827,7 @@
                 "btenz_id" : "BTE0245"
         },
                            "EC_3_6_1_20" : {
-            "acceptedName" : "",
+            "acceptedName" : "5p-Acylphosphoadenosine hydrolase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3835,7 +3853,7 @@
                 "btenz_id" : "BTE0247"
         },
                             "EC_3_7_1_5" : {
-            "acceptedName" : "",
+            "acceptedName" : "Acylpyruvate hydrolase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3847,7 +3865,7 @@
                 "btenz_id" : "BTE0248"
         },
                            "EC_4_1_1_65" : {
-            "acceptedName" : "",
+            "acceptedName" : "Phosphatidylserine decarboxylase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3859,7 +3877,7 @@
                 "btenz_id" : "BTE0249"
         },
                            "EC_4_2_1_17" : {
-            "acceptedName" : "",
+            "acceptedName" : "Enoyl-CoA hydratase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3871,7 +3889,7 @@
                 "btenz_id" : "BTE0250"
         },
                           "EC_4_2_1_134" : {
-            "acceptedName" : "",
+            "acceptedName" : "Very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3883,7 +3901,7 @@
                 "btenz_id" : "BTE0251"
         },
                             "EC_4_3_2_5" : {
-            "acceptedName" : "",
+            "acceptedName" : "Peptidylamidoglycolate lyase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3895,14 +3913,25 @@
                 "btenz_id" : "BTE0252"
         },
                           "EC_4_99_1_M4" : {
-            "acceptedName" : "THIOHYDROXIMATE_O_SULFOHYDROLASE",
+            "acceptedName" : "Thiohydroximate O-sulfohydrolase",
              "description" : "",
               "biosystems" : {},
-              "references" : [],
+              "references" : [
+                      {
+                    "Title" : "EC 4.99.1.M4 -- nitrile-specifier protein",
+                     "PMID" : "",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "",
+                      "URL" : "https://metacyc.org/META/NEW-IMAGE?type=EC-NUMBER&object=EC-4.99.1.M4"
+                }
+
+              ],
                 "btenz_id" : "BTE0253"
         },
                             "EC_5_3_3_1" : {
-            "acceptedName" : "",
+            "acceptedName" : "Steroid-delta-isomerase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3914,7 +3943,7 @@
                 "btenz_id" : "BTE0254"
         },
                             "EC_6_2_1_3" : {
-            "acceptedName" : "",
+            "acceptedName" : "Long-chain-fatty-acid—CoA ligase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3926,7 +3955,7 @@
                 "btenz_id" : "BTE0255"
         },
                            "EC_6_2_1_20" : {
-            "acceptedName" : "",
+            "acceptedName" : "Long-chain-fatty-acid—[acyl-carrier-protein] ligase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3938,7 +3967,7 @@
                 "btenz_id" : "BTE0256"
         },
                              "EC_3_7_1_" : {
-            "acceptedName" : "",
+            "acceptedName" : "Ketone specific hydrolase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3950,7 +3979,7 @@
                 "btenz_id" : "BTE0257"
         },
                              "EC_3_3_2_" : {
-            "acceptedName" : "",
+            "acceptedName" : "Ether hydrolase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3962,7 +3991,7 @@
                 "btenz_id" : "BTE0258"
         },
                              "EC_5_3_2_" : {
-            "acceptedName" : "",
+            "acceptedName" : "Keto/enol-converting hydrolase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3974,7 +4003,7 @@
                 "btenz_id" : "BTE0259"
         },
                            "EC_2_4_1_37" : {
-            "acceptedName" : "",
+            "acceptedName" : "Fucosylgalactoside 3-alpha-galactosyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3986,7 +4015,7 @@
                 "btenz_id" : "BTE0260"
         },
                            "EC_2_4_1_38" : {
-            "acceptedName" : "",
+            "acceptedName" : "beta-N-acetylglucosaminyl-glycopeptide beta-1,4-galactosyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -3998,7 +4027,7 @@
                 "btenz_id" : "BTE0261"
         },
                            "EC_2_4_1_40" : {
-            "acceptedName" : "",
+            "acceptedName" : "Glycoprotein-fucosylgalactoside alpha-N-acetylgalactosaminyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -4010,7 +4039,7 @@
                 "btenz_id" : "BTE0262"
         },
                            "EC_2_4_1_65" : {
-            "acceptedName" : "",
+            "acceptedName" : "3-galactosyl-N-acetylglucosaminide 4-alpha-L-fucosyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -4022,7 +4051,7 @@
                 "btenz_id" : "BTE0263"
         },
                            "EC_2_4_1_69" : {
-            "acceptedName" : "",
+            "acceptedName" : "Type 1 galactoside alpha-(1,2)-fucosyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -4034,7 +4063,7 @@
                 "btenz_id" : "BTE0264"
         },
                            "EC_2_4_1_79" : {
-            "acceptedName" : "",
+            "acceptedName" : "Globotriaosylceramide 3-beta-N-acetylgalactosaminyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -4046,7 +4075,7 @@
                 "btenz_id" : "BTE0265"
         },
                            "EC_2_4_1_86" : {
-            "acceptedName" : "",
+            "acceptedName" : "N-acetyl-beta-D-glucosaminide beta-(1,3)-galactosyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -4058,7 +4087,7 @@
                 "btenz_id" : "BTE0266"
         },
                            "EC_2_4_1_87" : {
-            "acceptedName" : "",
+            "acceptedName" : "N-acetyllactosaminide 3-alpha-galactosyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -4070,7 +4099,7 @@
                 "btenz_id" : "BTE0267"
         },
                            "EC_2_4_1_88" : {
-            "acceptedName" : "",
+            "acceptedName" : "Globoside alpha-N-acetylgalactosaminyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -4082,7 +4111,7 @@
                 "btenz_id" : "BTE0268"
         },
                            "EC_2_4_1_90" : {
-            "acceptedName" : "",
+            "acceptedName" : "N-acetyllactosamine synthase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -4094,7 +4123,7 @@
                 "btenz_id" : "BTE0269"
         },
                           "EC_2_4_1_149" : {
-            "acceptedName" : "",
+            "acceptedName" : "N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -4106,7 +4135,7 @@
                 "btenz_id" : "BTE0270"
         },
                           "EC_2_4_1_152" : {
-            "acceptedName" : "",
+            "acceptedName" : "4-Galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -4118,7 +4147,7 @@
                 "btenz_id" : "BTE0271"
         },
                           "EC_2_4_1_206" : {
-            "acceptedName" : "",
+            "acceptedName" : "Lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -4130,7 +4159,7 @@
                 "btenz_id" : "BTE0272"
         },
                           "EC_2_4_1_228" : {
-            "acceptedName" : "",
+            "acceptedName" : "Lactosylceramide 4-alpha-galactosyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -4142,7 +4171,7 @@
                 "btenz_id" : "BTE0273"
         },
                            "EC_2_4_99_2" : {
-            "acceptedName" : "",
+            "acceptedName" : "beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide alpha-2,3-sialyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -4154,7 +4183,7 @@
                 "btenz_id" : "BTE0274"
         },
                            "EC_2_4_99_6" : {
-            "acceptedName" : "",
+            "acceptedName" : "N-acetyllactosaminide alpha-2,3-sialyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -4166,7 +4195,7 @@
                 "btenz_id" : "BTE0275"
         },
                            "EC_2_4_99_8" : {
-            "acceptedName" : "",
+            "acceptedName" : "Alpha-N-acetylneuraminate alpha-2,8-sialyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -4192,7 +4221,7 @@
                 "btenz_id" : "BTE0277"
         },
                           "EC_1_1_1_101" : {
-            "acceptedName" : "",
+            "acceptedName" : "Acylglycerone-phosphate reductase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -4204,7 +4233,7 @@
                 "btenz_id" : "BTE0278"
         },
                           "EC_1_1_1_102" : {
-            "acceptedName" : "",
+            "acceptedName" : "3-Dehydrosphinganine reductase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -4216,7 +4245,7 @@
                 "btenz_id" : "BTE0279"
         },
                            "EC_3_2_1_18" : {
-            "acceptedName" : "exo-alpha-sialidase",
+            "acceptedName" : "Exo-alpha-sialidase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -4272,7 +4301,7 @@
                 "btenz_id" : "BTE0282"
         },
                            "EC_3_1_1_64" : {
-            "acceptedName" : "",
+            "acceptedName" : "Retinoid isomerohydrolase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -4300,7 +4329,7 @@
                 "btenz_id" : "BTE0284"
         },
                       "SULFOTRANSFERASE" : {
-            "acceptedName" : "",
+            "acceptedName" : "Sulfotransferase",
              "description" : "",
               "biosystems" : {
                    "HUMAN" : {
@@ -4316,7 +4345,7 @@
                 "btenz_id" : "BTE0285"
         },
                      "ACETYLTRANSFERASE" : {
-            "acceptedName" : "",
+            "acceptedName" : "Acetyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -4338,7 +4367,7 @@
                 "btenz_id" : "BTE0286"
         },
                   "UNSPECIFIED_GUTMICRO" : {
-            "acceptedName" : "",
+            "acceptedName" : "Unspecified gut bacterial enzyme",
              "description" : "",
               "biosystems" : {
                 "GUTMICRO" : {
@@ -4350,7 +4379,7 @@
                 "btenz_id" : "BTE0287"
         },
                            "EC_1_6_99_1" : {
-            "acceptedName" : "",
+            "acceptedName" : "NADPH dehydrogenase",
              "description" : "",
               "biosystems" : {
                 "GUTMICRO" : {
@@ -4362,7 +4391,7 @@
                 "btenz_id" : "BTE0288"
         },
                             "EC_3_1_1_1" : {
-            "acceptedName" : "",
+            "acceptedName" : "Carboxylesterase",
              "description" : "",
               "biosystems" : {
                 "GUTMICRO" : {
@@ -4374,7 +4403,7 @@
                 "btenz_id" : "BTE0289"
         },
                            "EC_3_1_1_20" : {
-            "acceptedName" : "",
+            "acceptedName" : "Tannase",
              "description" : "",
               "biosystems" : {
                 "GUTMICRO" : {
@@ -4386,7 +4415,7 @@
                 "btenz_id" : "BTE0290"
         },
                          "DECARBOXYLASE" : {
-            "acceptedName" : "",
+            "acceptedName" : "Unspecified bacterial decarboxylase",
              "description" : "",
               "biosystems" : {
                 "GUTMICRO" : {
@@ -4398,7 +4427,7 @@
                 "btenz_id" : "BTE0291"
         },
                            "DEMETHYLASE" : {
-            "acceptedName" : "",
+            "acceptedName" : "Unspecified bacterial demethylase",
              "description" : "",
               "biosystems" : {
                 "GUTMICRO" : {
@@ -4410,7 +4439,7 @@
                 "btenz_id" : "BTE0292"
         },
                          "DEHYDROXYLASE" : {
-            "acceptedName" : "Bacterial dehydroxylase",
+            "acceptedName" : "Unspecified bacterial dehydroxylase",
              "description" : "",
               "biosystems" : {
                 "GUTMICRO" : {
@@ -4422,7 +4451,7 @@
                 "btenz_id" : "BTE0293"
         },
                              "LACTONASE" : {
-            "acceptedName" : "Bacterial lactonase",
+            "acceptedName" : "Unspecified bacterial lactonase",
              "description" : "",
               "biosystems" : {
                 "GUTMICRO" : {
@@ -4487,7 +4516,7 @@
                 "btenz_id" : "BTE0296"
         },
                "FLAVONOID_C_GLYCOSIDASE" : {
-            "acceptedName" : "Bacterial C-glycosidase",
+            "acceptedName" : "Unspecified bacterial C-C lyase",
              "description" : "",
               "biosystems" : {
                 "GUTMICRO" : {
@@ -4518,7 +4547,7 @@
                 "btenz_id" : "BTE0297"
         },
                   "UNSPECIFIED_ENVMICRO" : {
-            "acceptedName" : "",
+            "acceptedName" : "Unspecified environmental bacterial enzyme",
              "description" : "",
               "biosystems" : {
                 "ENVMICRO" : {
