@@ -69,7 +69,7 @@ java -jar biotransformer-1-0-2.jar -b superbio -f sdf -i #{input file name} -o #
 
 2) To predict the 2-step biotransformation of Thymol (a monoterpene) using the human super transformer (option allHuman) using the SMILES input, run
 
-java -jar biotransformer-1-0-2.jar -b allHuman -f smiles -i "CC(C)C1=CC=C(C)C=C1O" -o #{output file name} -s 2
+java -jar biotransformer-1-0-2.jar -b allHuman -f smiles -i "CC(C)C1=CC=C(C)C=C1O" -o #{replace with output file name} -s 2
 
 Currently, the outputfile is SDF per default.
 
