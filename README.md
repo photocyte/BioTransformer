@@ -67,9 +67,9 @@ java -jar biotransformer-1-0-2.jar -b superbio -f sdf -i #{input file name} -o #
       
       - For each of the query molecule in the input file, an outputfile will be created with the list of corresponding metabolites.
 
-2) To predict the 2-step biotransformation of 17-ethinylestradiol using the human super transformer (option allHuman) using the SMILES input, run
+2) To predict the 2-step biotransformation of Thymol (a monoterpene) using the human super transformer (option allHuman) using the SMILES input, run
 
-java -jar biotransformer-1-0-2.jar -b allHuman -f smiles -i "C[C@]12CC[C@H]3[C@@H](CCC4=CC(O)=CC=C34)[C@@H]1CC[C@@]2(O)C#C" -o #{output file name} -s 2
+java -jar biotransformer-1-0-2.jar -b allHuman -f smiles -i "CC(C)C1=CC=C(C)C=C1O" -o #{output file name} -s 2
 
 Currently, the outputfile is SDF per default.
 
