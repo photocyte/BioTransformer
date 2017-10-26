@@ -62,10 +62,13 @@ Examples:
 *********
 
 1) To predict the biotransformation of a molecule from an SDF input using the human super transformer (option superbio), run
+
 java -jar biotransformer-1-0-2.jar -b superbio -f sdf -i #{input file name} -o #{output folder}.
+      
       - For each of the query molecule in the input file, an outputfile will be created with the list of corresponding metabolites.
 
 2) To predict the 2-step biotransformation of 17-ethinylestradiol using the human super transformer (option allHuman) using the SMILES input, run
+
 java -jar biotransformer-1-0-2.jar -b allHuman -f smiles -i "C[C@]12CC[C@H]3[C@@H](CCC4=CC(O)=CC=C34)[C@@H]1CC[C@@]2(O)C#C" -o #{output file name} -s 2
 
 Currently, the outputfile is SDF per default.
