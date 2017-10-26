@@ -1,12 +1,13 @@
 # BioTransformer's README
 
-**********************************************************************************
+***************************************************************************************************
 This is version 1.0.2 of BioTransformer. BioTransformer is a software tool that 
 predicts small molecule metabolism in mammals, their gut microbiota, 
 as well as the soil/aquatic microbiota.
 Please make sure to download the folder database and supportfiles, and save them 
 in the same folder as the .jar file.
-**********************************************************************************
+Cite: Djoumbou Feunang, Yannick; Cheminformatics Tools for Enabling Metabolomics; 2017; PhD Thesis
+***************************************************************************************************
 
 usage:
 java -jar biotransformer-1.0.2 -b <BioTransformer Type> -f <Input format>
@@ -46,18 +47,28 @@ microbiota, as well as the soil/aquatic microbiota.
                                      Phase II, and Environmental microbial
                                      biotransformers.
                                      
-(*) While the superbio option runs a set number of transformation steps in a
+(* ) While the 'superbio' option runs a set number of transformation steps in a
 pre-defined order (e.g. deconjugation first, then Oxidation/reduction,
-etc.), the allHuman option predicts all possible metabolites from any
+etc.), the 'allHuman' option predicts all possible metabolites from any
 applicable reaction(Oxidation, reduction, (de-)conjudation) at each step.
 
 
-(**) For the environmental microbial biodegradation, all reactions (aerobic and anaerobic) 
+(** ) For the environmental microbial biodegradation, all reactions (aerobic and anaerobic) 
 are reported, and not only the aerobic biotransformations (as per default in the EAWAG BBD/PPS system).
 
 
-E.g.: To predict the biotransformation of a molecule from an SDF input using the human super transformer, use
+*********
+Examples:
+*********
+
+1) To predict the biotransformation of a molecule from an SDF input using the human super transformer (option superbio), run
 java -jar biotransformer-1-0-2.jar -b superbio -f sdf -i #{input file name} -o #{output folder}.
+      - For each of the query molecule in the input file, an outputfile will be created with the list of corresponding metabolites.
+
+2) To predict the 2-step biotransformation of 17-ethinylestradiol using the human super transformer (option allHuman) using the SMILES input, run
+java -jar biotransformer-1-0-2.jar -b allHuman -f smiles -i "C[C@]12CC[C@H]3[C@@H](CCC4=CC(O)=CC=C34)[C@@H]1CC[C@@]2(O)C#C" -o #{output file name} -s 2
+
+Currently, the outputfile is SDF per default.
 
 
 To report issues, provide feedback, or ask questions, please send an
