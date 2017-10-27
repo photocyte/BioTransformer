@@ -17,6 +17,8 @@ This is the version 1.0.2 of BioTransformer. BioTransformer is a software
 tool that predicts small molecule metabolism in mammals, their gut
 microbiota, as well as the soil/aquatic microbiota.
 
+ -a,--annotate                       Search PuChem for each product, and
+                                     annotate with CID and synonyms
  -b,--btType <BioTransformer Type>   The type of description: Type of
                                      biotransformer - EC-based  (ecbased),
                                      CYP450 (cyp450), Phase II (phaseII),
@@ -61,9 +63,9 @@ are reported, and not only the aerobic biotransformations (as per default in the
 Examples:
 *********
 
-1) To predict the biotransformation of a molecule from an SDF input using the human super transformer (option superbio), run
+1) To predict the biotransformation of a molecule from an SDF input using the human super transformer (option superbio) and annotate the metabolites with names and database IDs (from PubChem), run
 
-java -jar biotransformer-1-0-2.jar -b superbio -f sdf -i #{input file name} -o #{output folder}.
+java -jar biotransformer-1-0-2.jar -b superbio -f sdf -i #{input file name} -o #{output folder} -a.
       
       - For each of the query molecule in the input file, an outputfile will be created with the list of corresponding metabolites.
 
