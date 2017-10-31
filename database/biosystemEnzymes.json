@@ -134,6 +134,10 @@
 			// Old Yellow Enzyme
 			"EC_1_6_99_1",
 
+			// Ecoli http://www.uniprot.org/uniprot/P17117
+			// Enzymatic reduction of nitro compounds to amines with nitroreductases
+			// "NFSA"
+
 			"FLAVONOID_C_GLYCOSIDASE",
 
 			"DECARBOXYLASE",
@@ -189,6 +193,8 @@
 
 			// "C_GLYCOSIDASE"
 
+			// NITROREDUCTASE, AZOREDUCTASES
+			// REF: Identification of Enterococcus faecalis enzymes with azoreductases and/or nitroreductase activity (https://doi.org/10.1186/s12866-017-1033-3)
 		],
 
 		"ENVMICRO" : ["UNSPECIFIED_ENVMICRO"]

@@ -1399,7 +1399,7 @@
             "negativeSmarts" : [],
                     "btmrID" : "BTMR0151"
         },
-                                                        "SULFOXIDE_REDUCTION_TO_THIOETHER" : {
+                                                        "SULFOXIDE_REDUCTION_TO_THIOETHER_PATTERN1" : {
                 "commonName" : "Reduction of sulfoxide to thioether",
                     "smirks" : "[#6:2]-[S;X3:1](=[OX1])-[#6:3]>>[#6:2]-[S;X2:1]-[#6:3]",
                     "smarts" : [
@@ -1648,10 +1648,12 @@
                     "btmrID" : "BTMR0172"
         },
                                                                 "PYRIDINE_GLUCURONIDATION" : {
-                "commonName" : "N-glucuronidation of pyridine",
-                    "smirks" : "[H][#7;X3:1]=,:1[#6;R1:2]=,:[#6:3][#6:4]=,:[#6:5][#6;R1:6]=,:1>>[#8]-[#6]-1-[#6](-[#8])-[#6](-[#8]-[#6](-[#6]-1-[#8])-[#6](-[#8])=O)-[#7;X3:1]=,:1[#6;R1:2]=,:[#6:3][#6:4]=,:[#6:5][#6;R1:6]=,:1",
+                "commonName" : "N-glucuronidation of 3-substituted pyridine",
+                    // "smirks" : "[#6:1]=,:1[#6:6]=,:[#6;R1:5][#7;X2:4]=,:[#6;R1:3][#6:2]=,:1>>[#8]-[#6]-1-[#6](-[#8])-[#6](-[#8]-[#6](-[#6]-1-[#8])-[#6](-[#8])=O)-[#7;X3+:4]=,:1[#6;R1:5]=,:[#6:6][#6:1]=,:[#6:2][#6;R1:3]=,:1",
+                    "smirks" : "[#6:7]-[#6;R1:2]=,:1[#6:1]=,:[#6:6][#6;R1:5]=,:[#7;X2:4][#6;R1:3]=,:1>>[#6:7]-[#6;R1:2]=,:1[#6:1]=,:[#6:6][#6;R1:5]=,:[#7;X3+:4]([#6;R1:3]=,:1)-[#6]-1-[#8]-[#6](-[#6](-[#8])-[#6](-[#8])-[#6]-1-[#8])-[#6](-[#8])=O",
                     "smarts" : [
-                "[#6]=,:1[#6]=,:[#6;R1][#7;H1v4X3]=,:[#6;R1][#6]=,:1"
+                // "[#6]=,:1[#6]=,:[#6;R1][#7;X2]=,:[#6;R1][#6]=,:1"
+                "[#6]-[#6;R1]=,:1[#6]=,:[#6][#6;R1]=,:[#7;X2][#6;R1]=,:1"
             ],
             "negativeSmarts" : [
                 "[H][#7]([#6;A;H2X4][#6](-[#8])=O)-[#6](=O)[#6;A;H1X4]([#6;A;H2X4][#16][#6,#8,#16;A])[#7]([H])-[#6](=O)[#6;A;H2X4][#6;A;H2X4][#6;A;H1X4]([#7])[#6](-[#8])=O",
@@ -1994,9 +1996,9 @@
         },
                                                        "N_ARYLHYDROXYLAMINE_O_SULFONATION" : {
                 "commonName" : "O-sulfonation of N-arylhydroxylamine",
-                    "smirks" : "[H][#8:3]-[#7;R0:2]-[#6;a:1]>>[#6;a:1]-[#7;R0:2]-[#8:3]S([#8])(=O)=O",
+                    "smirks" : "[H][#8;X2:3]-[#7;R0:2]-[#6;a:1]>>[#6;a:1]-[#7;R0:2]-[#8;X2:3]S([#8])(=O)=O",
                     "smarts" : [
-                "[#6;a]-[#7;R0]-[#8;H1]"
+                "[#6;a]-[#7;R0]-[#8;X2H1]"
             ],
             "negativeSmarts" : [
                 "[H][#7]([#6;A;H2X4][#6](-[#8])=O)-[#6](=O)[#6;A;H1X4]([#6;A;H2X4][#16][#6,#8,#16;A])[#7]([H])-[#6](=O)[#6;A;H2X4][#6;A;H2X4][#6;A;H1X4]([#7])[#6](-[#8])=O",
@@ -11199,9 +11201,9 @@
         },
                                                           "TERMINAL_DESATURATION_PATTERN1" : {
                 "commonName" : "Terminal desaturation",
-                    "smirks" : "[H][#6;X4:2](-[#6:1])[C;X4:3]([H:5])([H:4])[H]>>[H:5][#6;X3:3]([H:4])=[#6;X3:2]-[#6:1]",
+                    "smirks" : "[H][#6;X4R0:2](-[#6:1])[C;X4:3]([H])([H:4])[H:5]>>[H:4]\[#6;X3:3]([H:5])=[#6;X3R0:2]\[#6:1]",
                     "smarts" : [
-                "[H][#6;X4](-[#6])[C;X4]([H])([H])[H]"
+                "[H][#6;X4R0](-[#6])[C;X4]([H])([H])[H]"
             ],
             "negativeSmarts" : [],
                     "btmrID" : "BTMR1190"
@@ -11370,7 +11372,150 @@
             ],
             "negativeSmarts" : [],
                     "btmrID" : "BTMR1208"
+        },
+                             "REDUCTION_OF_ALKENE_WITH_ADJACENT_EWG" : {
+                "commonName" : "Assymetric reduction of alkene with adjacent electon withdrawing group",
+                    "smirks" : "[#6;$([CX3](=[OX1])[#1]),$([CX2]#[NX1]),$([CX3](=[OX1])[#6]),$([NX3+1](=[OX1])[OX1-]),$([CX3](=[OX1])[OX2H1,OX1-]),$([CX3](=[OX1])[OX2][#6;!$(C=[O,N,S])]):6]\[#6;X3:2](-[#1,#6,#7:5])=[#6;X3:1](\[#1,#6,#7:3])-[#1,#6,#7:4]>>[H][C;X3:2]([#6;$([CX3](=[OX1])[#1]),$([CX2]#[NX1]),$([CX3](=[OX1])[#6]),$([NX3+1](=[OX1])[OX1-]),$([CX3](=[OX1])[OX2H1,OX1-]),$([CX3](=[OX1])[OX2][#6;!$(C=[O,N,S])]):6])([#1,#6,#7:5])[C;X3:1]([H])([#1,#6,#7:3])[#1,#6,#7:4]",
+                    "smarts" : [
+                "[#6;$([CX3](=[OX1])[#1]),$([CX2]#[NX1]),$([CX3](=[OX1])[#6]),$([NX3+1](=[OX1])[OX1-]),$([CX3](=[OX1])[OX2H1,OX1-]),$([CX3](=[OX1])[OX2][#6;!$(C=[O,N,S])])]\[#6;X3](-[#1,#6,#7])=[#6;X3](\[#1,#6,#7])-[#1,#6,#7]"
+            ],
+            "negativeSmarts" : [],
+                    "btmrID" : "BTMR1209"
+        },
+                             "REDUCTION_OF_NITROBENZE_TO_AMINOBENZENE" : {
+                "commonName" : "[#8;X1R0-:9]-[#7;X3R0+:7](=[O;X1R0:8])-[#6;R1:1]=,:1[#6;R1:2]=,:[#6;R1:3][#6;R1:4]=,:[#6;R1:5][#6;R1:6]=,:1>>[O;X1R0:8]=[O;X1R0:9].[H][#7;X3R0:7]([H])-[#6;R1:1]=,:1[#6;R1:2]=,:[#6;R1:3][#6;R1:4]=,:[#6;R1:5][#6;R1:6]=,:1",
+                    "smirks" : "",
+                    "smarts" : [
+                "[#8;X1R0-]-[#7;X3R0+](=[O;X1R0])-[#6;R1]=,:1[#6;R1]=,:[#6;R1][#6;R1]=,:[#6;R1][#6;R1]=,:1"
+            ],
+            "negativeSmarts" : [],
+                    "btmrID" : "BTMR1210"
+        },
+
+        // Bolleddula, J. et al. (2014); Biotransformation and bioactivation reactions of alicyclic amines in drug molecules, Drug Metabolism Reviews, 46:3, 379-419, 
+        // DOI: 10.3109/03602532.2014.924962
+
+                             "OXIDATION_OF_N_SUBSTITUTED_PYRROLIDINE_IMINIUM" : {
+                "commonName" : "Oxidation of a piperidine or pyrrolifine iminium ion intermediate",
+                    "smirks" : "[H][#6;A;X3:2]1=[#7;X3R1+:1](!@-[#6:6])[#6;A;R1:5][#6;A:4][#6;A:3]1>>[#6:6]!@-[#7;X3R1:1]1[#6;A;R1:5][#6;A:4][#6;A:3][#6;A;X3:2]1=O",
+                    "smarts" : [
+                "[#6]!@-[#7;X3R1+]-1=[#6;A;H1X3][#6]-[#6]-[#6;R1]-1"
+            ],
+            "negativeSmarts" : [],
+                    "btmrID" : "BTMR1211"
+        },
+
+                             "OXIDATION_OF_N_SUBSTITUTED_PIPERIDINE_IMINIUM" : {
+                "commonName" : "Oxidation of a piperidine or pyrrolidine iminium ion intermediate",
+                    "smirks" : "[H][#6;X3:3]1=[#7;X3+:4](-[#6:7])[#6;A:5][#6;A:6][#6;A:1][#6;A:2]1>>[#6:7]-[#7;X3:4]-1[#6;A:5][#6;A:6][#6;A:1][#6;A:2][#6;X3:3]-1=O",
+                    "smarts" : [
+                "[#6]-[#7;X3+]1=[#6;H1X3][#6;A][#6;A][#6;A][#6;A]1"
+            ],
+            "negativeSmarts" : [],
+                    "btmrID" : "BTMR1212"
+        },
+                             "OXIDATION_OF_PYRIMIDINE_PATTERN1" : {
+                "commonName" : "Oxidation of pyrimidines",
+                    "smirks" : "[H:8][#6;X3:4]=,:1[#6:3]=,:[#6:2][#7;X3R1:1][#6;R1:6](=[O:7])[#7;X2R1:5]=,:1>>[H:8][#7;X3R1:5]1[#6;X3:4](=O)[#6:3]=,:[#6:2][#7;X3R1:1][#6;R1:6]1=[O:7]",
+                    // "smirks" : "[H][#6;X3:1]1=,:[#6:6][#6:5]=,:[#7;X2R1:4][#6;R1:3]=,:[#7;X2R1:2]1>>O=[#6;X3:1]1[#6:6][#6:5]=,:[#7;X2R1:4][#6;R1:3]=,:[#7;X2R1:2]1",
+                    "smarts" : [
+                        // "[#6]-1=[#6]-[#7;X2R1]=[#6;R1]-[#7;X2R1]=[#6;H1X3]-1"
+                "O=[#6;R1]1[#7;X3R1][#6]=,:[#6][#6;H1X3]=,:[#7;X2R1]1"
+            ],
+            "negativeSmarts" : [],
+                    "btmrID" : "BTMR1213"
+        }, 
+
+                             "OXIDATION_OF_PYRIMIDINE_PATTERN2" : {
+                "commonName" : "Oxidation of pyrimidines",
+                    "smirks" : "[H:7][#6;X3R1:4]=,:1[#7;X2R1:3]=,:[#6;X3R1:2][#6:1]=,:[#6:6][#7;X2R1:5]=,:1>>[H:7][#7;X3R1:5]1[#6:6]=,:[#6:1][#6;X3R1:2]=,:[#7;X2R1:3][#6;X3R1:4]1=O",
+                    "smarts" : [
+                "[#6]1=,:[#6][#7;X2R1]=,:[#6;H1X3R1][#7;X2R1]=,:[#6;X3R1]1"
+            ],
+            "negativeSmarts" : [],
+                    "btmrID" : "BTMR1214"
+        },
+                             "OXIDATION_OF_PYRIMIDINE_PATTERN3" : {
+                "commonName" : "Oxidation of pyrimidines",
+                    "smirks" : "[H:7][#6;X3R1:4]=,:1[#6:3]=,:[#6:2][#7;X2R1:1]=,:[#6;R1:6][#7;X2R1:5]=,:1>>[H:7][#7;X3R1:5]1[#6;R1:6]=,:[#7;X2R1:1][#6:2]=,:[#6:3][#6;X3R1:4]1=O",
+                    "smarts" : [
+                "[#6]1=,:[#6][#7;X2R1]=,:[#6;R1][#7;X2R1]=,:[#6;H1X3R1]1"
+            ],
+            "negativeSmarts" : [],
+                    "btmrID" : "BTMR1215"
+        },
+
+        
+                                    "OXIDATION_OF_PYRIMIDINE_PHTHALAZINE" : {
+                "commonName" : "Oxidation of phthalazine",
+                    "smirks" : "[H:11][#6;X3R1:8]1=,:[#7;X2R1:7][#7;R1:6]=,:[#6;R1:5][#6;R2:4]2=,:[#6:3][#6:2]=,:[#6:1][#6:10]=,:[#6;R2:9]12>>[H:11][#7;X3R1:7]1[#7;R1:6]=,:[#6;R1:5][#6;R2:4]2=,:[#6:3][#6:2]=,:[#6:1][#6:10]=,:[#6;R2:9]2[#6;X3R1:8]1=O",
+                    "smarts" : [
+                "[#6]1=,:[#6][#6]=,:[#6;R2]2[#6;H1X3R1]=,:[#7;X2R1][#7;R1]=,:[#6;R1][#6;R2]2=,:[#6]1"
+            ],
+            "negativeSmarts" : [],
+                    "btmrID" : "BTMR1216"
+        },
+                                    "SULFOXIDE_REDUCTION_TO_THIOETHER_PATTERN2" : {
+                "commonName" : "Reduction of sulfoxide to thioether",
+                    "smirks" : "[#6:4][S;X3+:2]([#6:1])[#8;X1-:3]>>[H][#8;X2:3][H].[#6:4]-[#16;X2:2]-[#6:1]",
+                    "smarts" : [
+                "[#6][S;X3+]([#6])[#8;X1-]"
+            ],
+            "negativeSmarts" : [],
+                    "btmrID" : "BTMR1217"
+        },
+                             "_2E_REDUCTION_OF_NITROGUANIDINE" : {
+                "commonName" : "2-electron reduction of nitroguanidine",
+                    "smirks" : "[#7:1]\[#6;X3:2](-[#7:3])=[#7:4]!@\[#7;X3+:5](-[#8;X1-:7])=[O;X1:6]>>[H][#8;X2:7][H].[#7:1]\[#6;X3:2](-[#7:3])=[#7:4]!@\[#7;X2:5]=[O;X1:6]",
+                    "smarts" : [
+                "[#7]\[#6;X3](-[#7])=[#7]!@\[#7;X3+](-[#8;X1-])=[O;X1]"
+            ],
+            "negativeSmarts" : [],
+                    "btmrID" : "BTMR1218"
+        },
+                             "_6E_REDUCTION_OF_NITROGUANIDINE" : {
+                "commonName" : "6-electron reduction of nitroguanidine",
+                    "smirks" : "[#7:1]\[#6;X3:2](-[#7:3])=[#7:4]!@\[#7;X3+:5](-[#8;X1-:7])=[O;X1:6]>>[O;X1:7]=[O;X1:6].[H][#7;X3:5]([H])!@\[#7:4]=[#6;X3:2](\[#7:1])-[#7:3]",
+                    "smarts" : [
+                "[#7]\[#6;X3](-[#7])=[#7]!@\[#7;X3+](-[#8;X1-])=[O;X1]"
+            ],
+            "negativeSmarts" : [],
+                    "btmrID" : "BTMR1219"
+        },
+
+                             "_2E_REDUCTION_OF_NITROMETHYLENE" : {
+                "commonName" : "2-electron reduction of nitromethylene",
+                    "smirks" : "[H:6][#6;A;X3:1](=[#6:5])!@-[#7;X3+:2](-[#8;X1-:3])=[O;X1:4]>>[H][#8;X2:3][H].[H:6][#6;A;X3:1](=[#6:5])!@-[#7;X2:2]=[O;X1:4]",
+                    "smarts" : [
+                "[#8;X1-]-[#7;X3+](=[O;X1])!@-[#6;A;H1X3]=[#6]"
+            ],
+            "negativeSmarts" : [],
+                    "btmrID" : "BTMR1220"
         }
+
+        // Aldehyde Oxidase: An Enzyme of Emerging Importance in Drug Discovery
+        // The oxidation of aromatic azaheterocyclic groups to oxoheterocycles is important in the metabolism of drugs, since such substituents are present in many drug molecules. Pyridines, pyrimidines, 
+        // pyrazines, and their fused-ring analogues are all typical targets for oxidation by AO
+        //                      "" : {
+        //         "commonName" : "Aromatic heterocycle oxidation",
+        //             "smirks" : "",
+        //             "smarts" : [
+        //         ""
+        //     ],
+        //     "negativeSmarts" : [],
+        //             "btmrID" : "BTMR1207"
+        // }
+       
+        //                      "OXIDATION_OF_PIPRIDINE_IMINIUM" : {
+        //         "commonName" : "Oxidation of iminium ion intermediates",
+        //             "smirks" : "",
+        //             "smarts" : [
+        //         ""
+        //     ],
+        //     "negativeSmarts" : [],
+        //             "btmrID" : "BTMR1207"
+        // } 
+
         //                      "" : {
         //         "commonName" : "",
         //             "smirks" : "",
@@ -11380,7 +11525,6 @@
         //     "negativeSmarts" : [],
         //             "btmrID" : "BTMR1207"
         // }
-
 
     }
 }

@@ -806,7 +806,7 @@
         },
                             "EC_1_2_3_1" : {
             "acceptedName" : "Aldehyde oxidase",
-             "description" : "",
+             "description" : "Aldehyde oxidase can oxidase a wide range of substrates including aldehydes and N-heterocyclic compounds The reaction involves a nucleophilic attack on an electron-deficient sp2-hybridized carbon atom which may belong to aromatic azaheterocycles containing the –CH=N– moiety (such as phthalazine and purine), aromatic or nonaromatic charged azaheterocycles containing the –CH-N+<, moiety (e.g., N1-methylnicotinamide and N-methylphthalazinium) or aldehydes containing the –CH=O moiety (such as benzaldehyde and vanillin)",
               "biosystems" : {
                 "HUMAN" : {
                            "uniprot_ids" : [
@@ -819,7 +819,44 @@
                     ]
                 }
             },
-              "references" : [],
+              "references" : [
+                      {
+                    "Title" : "Quantitative Study of the Structural Requirements of Phthalazine/Quinazoline Derivatives for Interaction with Human Liver Aldehyde Oxidase",
+                     "PMID" : "11558587",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "",
+                      "URL" : ""
+                },
+                      {
+                    "Title" : "Aldehyde Oxidase: An Enzyme of Emerging Importance in Drug Discovery",
+                     "PMID" : "28095715",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "10.1021/jm100888d",
+                      "URL" : ""
+                },
+                      {
+                    "Title" : "Substrate specificity of rabbit aldehyde oxidase for nitroguanidine and nitromethylene neonicotinoid insecticides",
+                     "PMID" : "16411654",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "10.1021/tx050230x",
+                      "URL" : ""
+                },
+                      {
+                    "Title" : "Identification of aldehyde oxidase as the neonicotinoid nitroreductase",
+                     "PMID" : "15720138",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "10.1021/tx049737i",
+                      "URL" : ""
+                }
+              ],
                 "btenz_id" : "BTE0045"
         },
                             "EC_1_2_3_9" : {
@@ -2116,7 +2153,27 @@
                      "ISSN" : " 0360-2532",
                       "DOI" : "10.3109/03602532.2014.924962",
                       "URL" : "http://dx.doi.org/10.3109/03602532.2014.924962"
-                }
+                },
+                      {
+                    "Title" : "The metabolic N-oxidation of 3-substituted pyridines in various animal species in vivo.",
+                     "PMID" : "7389753",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "",
+                      "URL" : ""
+                }, 
+                      {
+                    "Title" : "1996 ASPET N-Glucuronidation of Xenobiotics Symposium - Species differences in N-glucuronidation",
+                     "PMID" : "",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "",
+                      "URL" : "http://dmd.aspetjournals.org/content/26/9/838.short"
+                } 
+
+
             ],
                 "btenz_id" : "BTE0125"
         },
@@ -4387,7 +4444,27 @@
                     "cellular_locations" : []
                 }
             },
-              "references" : [],
+              "references" : [
+                      {
+                    "Title" : "Enzymatic reduction of nitro compounds to amines with nitroreductases (by  by Jonathan T. Park, PhD thesis)",
+                     "PMID" : "",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "",
+                      "URL" : "https://smartech.gatech.edu/bitstream/handle/1853/52267/PARK-DISSERTATION-2014.pdf"
+                },
+                                      {
+                    "Title" : "New uses for an Old Enzyme – the Old Yellow Enzyme family of flavoenzymes",
+                     "PMID" : "12055282",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "10.1099/00221287-148-6-1607",
+                      "URL" : ""
+                }
+
+              ],
                 "btenz_id" : "BTE0288"
         },
                             "EC_3_1_1_1" : {
@@ -4557,6 +4634,41 @@
             },
               "references" : [],
                 "btenz_id" : "BTE0298"
+        },
+
+                  "NFSA" : {
+            "acceptedName" : "Oxygen-insensitive NADPH nitroreductase",
+             "description" : "Catalyzes the reduction of nitroaromatic compounds using NADPH. Has a broad electron acceptor specificity. Reduces nitrofurazone by a ping-pong bi-bi mechanism possibly to generate a two-electron transfer product. Major oxygen-insensitive nitroreductase in E.coli.",
+              "biosystems" : {
+                "ENVMICRO" : {
+                           "uniprot_ids" : ["P17117"],
+                    "cellular_locations" : ["cytosol"]
+                }
+            },
+              "references" : [
+                      {
+                    "Title" : "Enzymatic reduction of nitro compounds to amines with nitroreductases (by  by Jonathan T. Park, PhD thesis)",
+                     "PMID" : "",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "",
+                      "URL" : "https://smartech.gatech.edu/bitstream/handle/1853/52267/PARK-DISSERTATION-2014.pdf"
+                }
+                //       {
+                //     "Title" : "",
+                //      "PMID" : "",
+                //     "PCMID" : "",
+                //      "ISBN" : "",
+                //      "ISSN" : "",
+                //       "DOI" : "",
+                //       "URL" : ""
+                // }
+
+              ],
+                "btenz_id" : "BTE0299"
         }
+
+
     }
 }
