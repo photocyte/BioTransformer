@@ -1796,7 +1796,36 @@
                     ]
                 }
             },
-              "references" : [],
+              "references" : [
+                                                      {
+                    "Title" : "Lecithin-cholesterol acyltransferase (LCAT) as a plasma glycoprotein: an overview",
+                     "PMID" : "661432",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "",
+                      "URL" : ""
+                },
+                                                      {
+                    "Title" : "Compared with acyl-CoA:cholesterol O-acyltransferase (ACAT) 1 and lecithin:cholesterol acyltransferase, ACAT2 displays the greatest capacity to differentiate cholesterol from sitosterol",
+                     "PMID" : "662168",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "",
+                      "URL" : ""
+                },
+
+                                                      {
+                    "Title" : "The enzyme lecithin-cholesterol acyltransferase esterifies cerebrosterol and limits the toxic effect of this oxysterol on SH-SY5Y cells",
+                     "PMID" : "736674",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "",
+                      "URL" : ""
+                }
+              ],
                 "btenz_id" : "BTE0101"
         },
                            "EC_2_3_1_51" : {
@@ -3550,12 +3579,12 @@
                 "btenz_id" : "BTE0218"
         },
                            "EC_3_2_1_45" : {
-            "acceptedName" : "",
+            "acceptedName" : "Glucosylceramidase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
-                           "uniprot_ids" : [],
-                    "cellular_locations" : []
+                           "uniprot_ids" : ["P04062"],
+                    "cellular_locations" : ["lysosome", "membrane"]
                 }
             },
               "references" : [],
@@ -4402,7 +4431,7 @@
                 "btenz_id" : "BTE0285"
         },
                      "ACETYLTRANSFERASE" : {
-            "acceptedName" : "Acetyltransferase",
+            "acceptedName" : "N-acetyltransferase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -4423,7 +4452,7 @@
             ],
                 "btenz_id" : "BTE0286"
         },
-                  "UNSPECIFIED_GUTMICRO" : {
+                  "UNSPECIFIED_GUT_BACTERIAL_ENZYME" : {
             "acceptedName" : "Unspecified gut bacterial enzyme",
              "description" : "",
               "biosystems" : {
@@ -4491,6 +4520,7 @@
               "references" : [],
                 "btenz_id" : "BTE0290"
         },
+
                          "DECARBOXYLASE" : {
             "acceptedName" : "Unspecified bacterial decarboxylase",
              "description" : "",
@@ -4527,7 +4557,7 @@
               "references" : [],
                 "btenz_id" : "BTE0293"
         },
-                             "LACTONASE" : {
+                             "BACTERIAL_LACTONASE" : {
             "acceptedName" : "Unspecified bacterial lactonase",
              "description" : "",
               "biosystems" : {
@@ -4623,7 +4653,7 @@
             ],
                 "btenz_id" : "BTE0297"
         },
-                  "UNSPECIFIED_ENVMICRO" : {
+                  "UNSPECIFIED_ENVIRONMENTAL_BACTERIAL_ENZYME" : {
             "acceptedName" : "Unspecified environmental bacterial enzyme",
              "description" : "",
               "biosystems" : {
@@ -4667,8 +4697,146 @@
 
               ],
                 "btenz_id" : "BTE0299"
-        }
+        },
+                          "EC_1_6_2_4" : {
+            "acceptedName" : "NADPH—hemoprotein reductase",
+             "description" : "",
+              "biosystems" : {
+                "ENVMICRO" : {
+                           "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+              "references" : [
+                      {
+                    "Title" : "Enzymatic reduction of nitro compounds to amines with nitroreductases (by  by Jonathan T. Park, PhD thesis)",
+                     "PMID" : "",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "",
+                      "URL" : "https://smartech.gatech.edu/bitstream/handle/1853/52267/PARK-DISSERTATION-2014.pdf"
+                },
+                       {
+                    "Title" : "Oxidative DNA damage induced by carcinogenic dinitropyrenes in the presence of P450 reductase",
+                     "PMID" : "15606153",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "10.1021/tx0497550",
+                      "URL" : ""
+                },              
+                       {
+                    "Title" : "Sequence-specific DNA damage induced by carcinogenic danthron and anthraquinone in the presence of Cu(II), cytochrome P450 reductase and NADPH",
+                     "PMID" : "11697035",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "",
+                      "URL" : ""
+                } 
 
+              ],
+                "btenz_id" : "BTE0300"
+        },
+                             "CYPB5_CYPBR5" : {
+            "acceptedName" : "Cytochrome b5 and NADH cytochrome b5 reductase",
+             "description" : "",
+              "biosystems" : {
+                "GUTMICRO" : {
+                           "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+              "references" : [
+                       {
+                    "Title" : "Enzymatic reduction of nitro compounds to amines with nitroreductases (by  by Jonathan T. Park, PhD thesis)",
+                     "PMID" : "",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "",
+                      "URL" : "https://smartech.gatech.edu/bitstream/handle/1853/52267/PARK-DISSERTATION-2014.pdf"
+                },
+                       {
+                    "Title" : "Reductive Detoxication of Arylhydroxylamine Carcinogens by Human NADH Cytochrome b5 Reductase and Cytochrome b5",
+                     "PMID" : "",
+                    "PCMID" : "PMC2516554",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "10.1021/tx060106t",
+                      "URL" : ""
+                },
+                       {
+                    "Title" : "Cytochrome b5 and NADH cytochrome b5 reductase: genotype-phenotype correlations for hydroxylamine reduction",
+                     "PMID" : "",
+                    "PCMID" : "PMC2905818",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "10.1097/FPC.0b013e3283343296",
+                      "URL" : ""
+                } 
+
+              ],
+                "btenz_id" : "BTE0301"
+            },
+                            "EC_2_7_8_X" : {
+            "acceptedName" : "Phosphatidylserine synthase 1 (K08729)",
+             "description" : "",
+              "biosystems" : {
+                "HUMAN" : {
+                           "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+              "references" : [
+                       {
+                    "Title" : "Phosphatidylserine synthase 1",
+                     "PMID" : "",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "",
+                      "URL" : "http://www.genome.jp/dbget-bin/www_bget?hsa:9791"
+                } 
+
+                //        {
+                //     "Title" : "",
+                //      "PMID" : "",
+                //     "PCMID" : "",
+                //      "ISBN" : "",
+                //      "ISSN" : "",
+                //       "DOI" : "",
+                //       "URL" : ""
+                // }
+              ],
+                "btenz_id" : "BTE0302"
+        },
+                           "EC_3_1_1_28" : {
+            "acceptedName" : "Acylcarnitine hydrolase",
+             "description" : "",
+              "biosystems" : {
+                "GUTMICRO" : {
+                           "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+              "references" : [],
+                "btenz_id" : "BTE0303"
+        },
+                           "EC_3_5_1_13" : {
+            "acceptedName" : "Aryl-acylamidase",
+             "description" : "",
+              "biosystems" : {
+                "GUTMICRO" : {
+                           "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+              "references" : [],
+                "btenz_id" : "BTE0303"
+        }
+      }
 
     }
 }
