@@ -156,6 +156,8 @@
 
 			"ABKAR1",
 
+			"UNSPECIFIED_BACTERIAL_ISOFLAVONE_REDUCTASE",
+
 			"UDP_GLUCURONOSYLTRANSFERASE",
 
 			// COMT instead of generic methyltransferase
@@ -185,7 +187,10 @@
 			// Enterococcus faecalis and other lactic acid bacteria
 			"EC_1_1_1_345",
 
-
+			"BACTERIAL_BILE_SALT_3_HYDROXYSTEROID_DEHYDROGENASE",
+			"BACTERIAL_BILE_SALT_7_HYDROXYSTEROID_DEHYDROGENASE",
+			"BACTERIAL_BILE_SALT_12_HYDROXYSTEROID_DEHYDROGENASE",
+			"CHOLOYL_GLYCINE_HYDROLASE",
 
 			// phloretin hydrolase from E. ramulus
 			"EC_3_7_1_4"
@@ -199,7 +204,7 @@
 			// REF: Identification of Enterococcus faecalis enzymes with azoreductases and/or nitroreductase activity (https://doi.org/10.1186/s12866-017-1033-3)
 		],
 
-		"ENVMICRO" : ["UNSPECIFIED_ENVMICRO"]
+		"ENVMICRO" : ["UNSPECIFIED_ENVIRONMENTAL_BACTERIAL_ENZYME"]
 	}
 
 	// Others : "EC_2_8_2_15", 
