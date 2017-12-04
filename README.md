@@ -1,7 +1,7 @@
 # BioTransformer's README
 
 ***************************************************************************************************
-This is version 1.0.2 of BioTransformer. BioTransformer is a software tool that 
+This is version 1.0.3 of BioTransformer. BioTransformer is a software tool that 
 predicts small molecule metabolism in mammals, their gut microbiota, 
 as well as the soil/aquatic microbiota.
 Please make sure to download the folder database and supportfiles, and save them 
@@ -10,7 +10,7 @@ Cite: Djoumbou Feunang, Yannick; Cheminformatics Tools for Enabling Metabolomics
 ***************************************************************************************************
 
 usage:
-java -jar biotransformer-1.0.2 -b <BioTransformer Type> -f <Input format>
+java -jar biotransformer-1.0.3 -b <BioTransformer Type> -f <Input format>
        [-h] -i <Input> [-o <Output>] [-s <Number of steps>]
 
 This is the version 1.0.2 of BioTransformer. BioTransformer is a software
@@ -65,13 +65,13 @@ Examples:
 
 1) To predict the biotransformation of a molecule from an SDF input using the human super transformer (option superbio) and annotate the metabolites with names and database IDs (from PubChem), run
 
-java -jar biotransformer-1-0-2.jar -b superbio -f sdf -i #{input file name} -o #{output folder} -a.
+java -jar biotransformer-1-0-3.jar -b superbio -f sdf -i #{input file name} -o #{output folder} -a.
       
       - For each of the query molecule in the input file, an outputfile will be created with the list of corresponding metabolites.
 
 2) To predict the 2-step biotransformation of Thymol (a monoterpene) using the human super transformer (option allHuman) using the SMILES input, run
 
-java -jar biotransformer-1-0-2.jar -b allHuman -f smiles -i "CC(C)C1=CC=C(C)C=C1O" -o #{replace with output file name} -s 2
+java -jar biotransformer-1-0-3.jar -b allHuman -f smiles -i "CC(C)C1=CC=C(C)C=C1O" -o #{replace with output file name} -s 2
 
 Currently, the outputfile is SDF per default.
 
