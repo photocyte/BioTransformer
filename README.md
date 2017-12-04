@@ -13,7 +13,7 @@ usage:
 java -jar biotransformer-1.0.3 -b <BioTransformer Type> -f <Input format>
        [-h] -i <Input> [-o <Output>] [-s <Number of steps>]
 
-This is the version 1.0.2 of BioTransformer. BioTransformer is a software
+This is the version 1.0.3 of BioTransformer. BioTransformer is a software
 tool that predicts small molecule metabolism in mammals, their gut
 microbiota, as well as the soil/aquatic microbiota.
 
