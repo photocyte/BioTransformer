@@ -16,9 +16,9 @@
 			"EC_1_1_1_100", "EC_1_1_1_101", "EC_1_1_1_213", "EC_1_1_1_145", "EC_1_1_1_146", "EC_1_1_1_149",
 			"EC_1_1_1_159", "EC_1_1_1_170", "EC_1_1_1_184", "EC_1_1_1_239", "EC_1_1_1_330", "EC_1_1_1_357", 
 			"EC_1_1_3_15", "EC_1_2_1_28", "EC_1_2_1_29", "EC_1_2_1_30", "EC_1_2_1_48", 
-			"EC_1_2_1_50", "EC_1_2_3_1", "EC_1_3_1_22", "EC_1_3_1_34", "EC_1_3_1_38", "EC_1_3_1_70", "EC_1_3_1_77", "EC_1_3_1_93", 
-			"EC_1_3_8_1", "EC_1_3_8_7", "EC_1_3_3_6", "EC_1_3_8_8", "EC_1_3_8_9", "EC_1_3_99_6", "EC_1_6_2_4", "EC_1_6_5_2",
-			"EC_1_14_13_70", "EC_1_14_14_14", "EC_1_14_14_16","EC_1_14_14_19", "EC_1_14_14_29", "EC_1_14_14_32","EC_1_14_15_4", "EC_1_14_19_17", 
+			"EC_1_2_1_50", "EC_1_2_3_1", "EC_1_3_1_22", "EC_1_3_1_34", "EC_1_3_1_38", "EC_1_3_1_70", "EC_1_3_1_93", 
+			"EC_1_3_8_1", "EC_1_3_8_7", "EC_1_3_3_6", "EC_1_3_8_8", "EC_1_3_8_9", "EC_1_3_99_6", "EC_1_6_2_4", "EC_1_6_5_2", 
+			"EC_1_14_13_70", "EC_1_14_14_14", "EC_1_14_15_15", "EC_1_14_14_16","EC_1_14_14_19", "EC_1_14_14_29", "EC_1_14_14_32","EC_1_14_15_4", "EC_1_14_19_17", 
 			"EC_1_14_19_20", "EC_2_1_1_6", "EC_2_1_1_17", "EC_2_1_1_42", "EC_2_1_1_67", "EC_2_1_1_71", 
 			"EC_2_1_1_96", "EC_2_1_1_317", "EC_2_3_1_5", "EC_2_3_1_13", "EC_2_3_1_15", "EC_2_3_1_16", "EC_2_3_1_20", "EC_2_3_1_22", "EC_2_3_1_23", 
 			"EC_2_3_1_24", "EC_2_3_1_26",  "EC_2_3_1_42", "EC_2_3_1_43", "EC_2_3_1_51", "EC_2_3_1_65", 
@@ -39,13 +39,15 @@
 			"EC_3_5_1_17", "EC_3_5_1_23", "EC_3_5_1_55", "EC_3_5_1_60", "EC_3_5_1_114", 
 			"EC_3_5_2_X",
 			"EC_3_6_1_6", "EC_3_6_1_7", "EC_3_6_1_9", "EC_3_6_1_15", 
-			"EC_3_6_1_19", "EC_3_6_1_20", "EC_3_7_1_5", "EC_4_1_1_65", "EC_4_2_1_17", "EC_4_2_1_134", "EC_4_3_2_5", "EC_5_3_3_1", "EC_6_2_1_3", "EC_6_2_1_20", 
-			"EC_3_7_1_", "EC_3_3_2_", "EC_5_3_2_",
+			"EC_3_6_1_19", "EC_3_6_1_20", "EC_3_7_1_5", "EC_4_1_1_28", "EC_4_1_1_65", "EC_4_2_1_17", "EC_4_2_1_134", "EC_4_3_2_5", "EC_5_3_3_1", "EC_6_2_1_3", "EC_6_2_1_7", "EC_6_2_1_20", 
+			"EC_3_7_1_", "EC_3_3_2_", "EC_3_8_1_2", "EC_5_3_2_",
 
 			"EC_2_4_1_37", "EC_2_4_1_65", "EC_2_4_1_149", "EC_3_2_1_21", 
 			"EC_3_2_1_18", "EC_3_1_1_64", "EC_2_7_7_41", "EC_2_3_1_42", "EC_1_14_18_5", "EC_3_1_1_26", 
 
 			"EC_3_1_1_X",
+
+			
 
 			// To annotate
 			// Fatty acids omega hydroxylation; check Omega oxidation (https://en.wikipedia.org/wiki/Omega_oxidation)
@@ -92,19 +94,19 @@
 			// To add EC_3_5_1_109 (See MetaCyc); EC 1.5.5.2
 
 			// 
+			
 		],
 
 		"GUTMICRO" : [
 			"UNSPECIFIED_GUT_BACTERIAL_ENZYME",
 
-
 			// Carboxylesterase
 			"EC_3_1_1_1",
+			"EC_3_1_1_2",
 
 			// Tannase or tannin acyl hydrolase
 			// Bacillus subtilis
 			"EC_3_1_1_20",
-
 
 			"EC_3_2_1_X",
 			"EC_3_2_1_20",
@@ -138,11 +140,13 @@
 
 			// Ecoli http://www.uniprot.org/uniprot/P17117
 			// Enzymatic reduction of nitro compounds to amines with nitroreductases
-			// "NFSA"
+			"BACTERIAL_NITROREDUCTASE",
 
 			"FLAVONOID_C_GLYCOSIDASE",
 
 			"DECARBOXYLASE",
+
+			"PHENOLIC_ACID_DECARBOXYLASE",
 
 			"DEMETHYLASE",
 
@@ -190,10 +194,10 @@
 			"BACTERIAL_BILE_SALT_3_HYDROXYSTEROID_DEHYDROGENASE",
 			"BACTERIAL_BILE_SALT_7_HYDROXYSTEROID_DEHYDROGENASE",
 			"BACTERIAL_BILE_SALT_12_HYDROXYSTEROID_DEHYDROGENASE",
-			"CHOLOYL_GLYCINE_HYDROLASE",
+			"EC_3_5_1_24",
 
 			// phloretin hydrolase from E. ramulus
-			"EC_3_7_1_4"
+			"EC_3_7_1_4",
 
 			// The Reciprocal Interactions between Polyphenols and Gut Microbiota and Effects on Bioaccessibility; doi:  10.3390/nu8020078
 			// Advance on the Flavonoid C-glycosides and Health Benefits; DOI: 10.1080/10408398.2015.1067595
@@ -202,6 +206,37 @@
 
 			// NITROREDUCTASE, AZOREDUCTASES
 			// REF: Identification of Enterococcus faecalis enzymes with azoreductases and/or nitroreductase activity (https://doi.org/10.1186/s12866-017-1033-3)
+		
+
+			// ------
+
+			"EC_1_6_2_4",
+			"EC_1_7_1_6",
+			"EC_3_1_6_1",
+			"EC_3_1_1_2",
+			
+			"EC_1_8_99_3",
+			"EC_4_2_1_84",
+			"EC_3_5_5_1",
+			"EC_3_5_5_7",
+
+			// Hydrolysis
+			"EC_3_6_1_7",
+			"EC_3_1_1_73",
+			"EC_3_1_1_45",
+			"EC_3_8_1_2",
+			"EC_3_8_1_5",
+			"EC_3_5_2_2",
+			
+			// conjugation
+			"EC_2_1_1_67",
+			"EC_2_3_1_5",
+			// "EC_2_5_1_18",
+
+			// others
+			"EC_2_3_1_16",
+			"UNSPECIFIED_BACTERIAL_SULFOXIDE_REDUCTASE"
+
 		],
 
 		"ENVMICRO" : ["UNSPECIFIED_ENVIRONMENTAL_BACTERIAL_ENZYME"]

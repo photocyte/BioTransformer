@@ -79,6 +79,55 @@
 			}
 		},
 
+		"BILE_ACID_METABOLISM" : {
+			"HUMAN" : {
+
+				"enzymes": [
+					"EC_1_1_1_1",
+					// "EC_1_1_1_159"
+					"EC_2_3_1_65",
+					"EC_2_4_1_17",
+					"EC_2_4_1_173",
+					"EC_2_8_2_2",
+					"EC_6_2_1_7"
+				],
+
+				"references" : [
+
+					              {
+                "Title" : "",
+                "PMID" : "",
+                "PCMID" : "",
+                "DOI" : "",
+                "URL" : ""
+              }
+				]
+			},
+
+			"GUTMICRO" : {
+
+				"enzymes": [
+					"BACTERIAL_BILE_SALT_3_HYDROXYSTEROID_DEHYDROGENASE",
+					"BACTERIAL_BILE_SALT_7_HYDROXYSTEROID_DEHYDROGENASE",
+					"BACTERIAL_BILE_SALT_12_HYDROXYSTEROID_DEHYDROGENASE",
+					"EC_3_5_1_24", "DEHYDROXYLASE",
+					"EC_1_1_1_159"
+				],
+
+				"references" : [
+
+					              {
+                "Title" : "",
+                "PMID" : "",
+                "PCMID" : "",
+                "DOI" : "",
+                "URL" : ""
+              }
+				]
+			}
+		},
+
+
 
 		"SECONDARY_BILE_ACID_BIOSYNTHESIS" : {
 			"HUMAN" : {
@@ -205,8 +254,6 @@
 					"EC_2_4_1_228",
 					"EC_2_3_1_24"
 
-
-
 					// Glycosphingolipid biosynthesis - ADD these
 					// "EC_1_1_1_102",
 					// "EC_2_4_1_37", "EC_2_4_1_38", "EC_2_4_1_40", "EC_2_4_1_69", 
@@ -321,12 +368,44 @@
               }
 				]
 			}
-		}
-
+		},
 
 		// ADD CUSTOM PATHWAY:
 
-		
+		"MICROBIAL_POLYPHENOL_METABOLISM" : {
+			"GUTMICRO" : {
+
+				"enzymes": [
+					"UNSPECIFIED_GUT_BACTERIAL_ENZYME",
+
+					"EC_3_1_1_1", "EC_3_1_1_2", "EC_3_1_1_20",
+					"EC_3_2_1_X", "EC_3_2_1_20", "EC_3_2_1_21", 
+					// "EC_3_2_1_22",
+					// ** e.g. Lactobacillus acidophilus
+					"EC_3_2_1_23",
+					// "EC_3_2_1_24",
+					"EC_3_2_1_31", "EC_3_2_1_40", "EC_3_2_1_147", "EC_1_6_99_1",
+					"FLAVONOID_C_GLYCOSIDASE", "DECARBOXYLASE", "PHENOLIC_ACID_DECARBOXYLASE", "DEMETHYLASE", "DEHYDROXYLASE",
+					"BACTERIAL_LACTONASE", "HYDROXYCINNAMATE_DECARBOXYLASE", "VINYL_PHENOL_REDUCTASE",
+					"ABKAR1", "UNSPECIFIED_BACTERIAL_ISOFLAVONE_REDUCTASE", "UDP_GLUCURONOSYLTRANSFERASE",
+					"EC_2_1_1_6",
+					"SULFOTRANSFERASE",
+					"EC_1_1_1_159", "EC_2_3_1_18", "EC_3_1_6_1", "EC_1_1_1_345", "EC_3_7_1_4"
+				],
+
+				"references" : [
+
+					              {
+                "Title" : "",
+                "PMID" : "",
+                "PCMID" : "",
+                "DOI" : "",
+                "URL" : ""
+              }
+				]
+			}
+		}
+
 		// alpha and beta oxidation should probably be already incporporated into the fatty acyld degradation pathway
 
 		//PEROXISOMAL_BETA_OXIDATION
