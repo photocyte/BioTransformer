@@ -10,7 +10,7 @@ Cite: Djoumbou Feunang, Yannick; Cheminformatics Tools for Enabling Metabolomics
 ***************************************************************************************************
 
 usage:
-java -jar biotransformer-1.0.3 -b <BioTransformer Type> -f <Input format>
+java -jar biotransformer-1.0.4 -b <BioTransformer Type> -f <Input format>
        [-h] -i <Input> [-o <Output>] [-s <Number of steps>]
 
 This is the version 1.0.3 of BioTransformer. BioTransformer is a software
