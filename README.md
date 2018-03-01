@@ -2,8 +2,7 @@
 
 ***************************************************************************************************
 This is version 1.0.4 of BioTransformer. BioTransformer is a software tool that predicts small molecule metabolism in mammals, their gut microbiota, 
-as well as the soil/aquatic microbiota.
-Please make sure to download the folder database and supportfiles, and save them in the same folder as the .jar file.
+as well as the soil/aquatic microbiota. BioTransformer also assists scientists in metabolite identification, based on the metabolism prediction. Please make sure to download the folder database and supportfiles, and save them in the same folder as the .jar file.
 
 BioTransformer is offered to the public as a freely acessible software package. Beside the prediction software, a manually curated database called BioTransformerDB is also available. Use and re-distribution of the these resources, in whole or in part, for commercial purposes requires explicit permission of the authors and explicit acknowledgment of the source material (BioTransformer) and the original publication (see citation). We ask that all users of the BioTransformer software tool or BioTransformerDB to cite the BioTransformer reference in any resulting publications.
 
@@ -16,7 +15,7 @@ java -jar biotransformer-1.0.4 -b <BioTransformer Type> -f <Input format>
 
 This is the version 1.0.4 of BioTransformer. BioTransformer is a software
 tool that predicts small molecule metabolism in mammals, their gut
-microbiota, as well as the soil/aquatic microbiota.
+microbiota, as well as the soil/aquatic microbiota. BioTransformer also assists scientists in metabolite identification, based on the metabolism prediction.
 
  -a,--annotate                       Search PuChem for each product, and
                                      annotate with CID and synonyms
