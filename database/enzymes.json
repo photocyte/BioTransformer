@@ -21,7 +21,7 @@
                         			"organelle membrane"
                     ]
                 }
-            },
+              },
               "references" : [
                       {
                     "Title" : "Cytochrome P450: Structure, Mechanism, and Biochemistry, fourth edition",
@@ -33,7 +33,7 @@
                       "URL" : ""
                 }
               ],
-                "btenz_id" : "BTE0001"
+              "btenz_id" : "BTE0001"
         },
                                 "CYP1A2" : {
             "acceptedName" : "Cytochrome P450 1A2",
@@ -159,7 +159,7 @@
                 "btenz_id" : "BTE0005"
         },
                                 "CYP2B1" : {
-            "acceptedName" : "",
+            "acceptedName" : "Cytochrome P450 2B1",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -1104,7 +1104,7 @@
                 "btenz_id" : "BTE0046"
         },
                            "EC_1_2_99_7" : {
-            "acceptedName" : "",
+            "acceptedName" : "Aldehyde dehydrogenase (FAD-independent)",
              "description" : "",
               "biosystems" : {},
               "references" : [],
@@ -3903,7 +3903,7 @@
         },
                           "EC_3_2_1_147" : {
             "acceptedName" : "Unspecified bacterial thioglucosidase",
-             "description" : "",
+             "description" : "This class includes myrosinases.",
               "biosystems" : {
                    "HUMAN" : {
                            "uniprot_ids" : [],
@@ -4319,7 +4319,7 @@
 
 
               ],
-                "btenz_id" : "BTE0255"
+                "btenz_id" : "BTE0325"
         },
 
                            "EC_6_2_1_20" : {
@@ -4640,7 +4640,7 @@
                 "btenz_id" : "BTE0280"
         },
                         "EC_1_14_13_205" : {
-            "acceptedName" : "",
+            "acceptedName" : "Long-chain fatty acid omega-monooxygenase",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -5595,7 +5595,7 @@
                 "btenz_id" : "BTE0319"
           },
                           "EC_1_1_1_151" : {
-            "acceptedName" : "",
+            "acceptedName" : "21-hydroxysteroid dehydrogenase (NADP+)",
              "description" : "",
               "biosystems" : {
                 "HUMAN" : {
@@ -5685,7 +5685,7 @@
         },
                           "EC_1_14_15_15" : {
             "acceptedName" : "Cholestanetriol 26-monooxygenase",
-             "description" : "",
+            "description" : "",
               "biosystems" : {
                 "HUMAN" : {
                            "uniprot_ids" : [
@@ -5695,11 +5695,44 @@
                     ]
                 }
             },
-              "references" : [],
-                "btenz_id" : "BTE0324"
+            "references" : [],
+            "btenz_id" : "BTE0324"
+        },       
+
+                           "EC_1_3_1_31" : {
+            "acceptedName" : "2-enoate reductase",
+             "description" : "",
+              "biosystems" : {
+                "GUTMICRO" : {
+                           "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+              "references" : [
+                      {
+                    "Title" : "Enzymatic reduction of nitro compounds to amines with nitroreductases (by  by Jonathan T. Park, PhD thesis)",
+                     "PMID" : "",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "",
+                      "URL" : "https://smartech.gatech.edu/bitstream/handle/1853/52267/PARK-DISSERTATION-2014.pdf"
+                },
+                                      {
+                    "Title" : "New uses for an Old Enzyme – the Old Yellow Enzyme family of flavoenzymes",
+                     "PMID" : "12055282",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "10.1099/00221287-148-6-1607",
+                      "URL" : ""
+                }
+
+              ],
+                "btenz_id" : "BTE0325"
         }
 
-        
-      }
-    }
+
+
+  }
 }

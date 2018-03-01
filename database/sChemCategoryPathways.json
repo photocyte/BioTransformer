@@ -1,8 +1,7 @@
 {
 	"table" : "sChemCategoryPathways",
 
-	"description" : "this table provides a mapping of structure based chemical classes to metabolic pathways. This list is not biosystems specific, but will
-	be filtered when the metabolic pathways are created.",
+	"description" : "This table provides a mapping of structure based chemical classes to metabolic pathways. This list is not biosystems specific, but will be filtered when the metabolic pathways are created.",
 
 	"pathways" : {
 		"HUMAN" : {
