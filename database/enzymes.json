@@ -4297,32 +4297,7 @@
               "references" : [],
                 "btenz_id" : "BTE0255"
         },
-                            "EC_6_2_1_7" : {
-            "acceptedName" : "cholate—CoA ligase",
-             "description" : "",
-              "biosystems" : {
-                "HUMAN" : {
-                           "uniprot_ids" : ["Q9Y2P5"],
-                    "cellular_locations" : []
-                }
-            },
-              "references" : [
-                      {
-                    "Title" : "Glycine and taurine conjugation of bile acids by a single enzyme. Molecular cloning and expression of human liver bile acid CoA:amino acid N-acyltransferase",
-                     "PMID" : "8034703",
-                    "PCMID" : "",
-                     "ISBN" : "",
-                     "ISSN" : "",
-                      "DOI" : "",
-                      "URL" : ""
-                }
-
-
-              ],
-                "btenz_id" : "BTE0325"
-        },
-
-                           "EC_6_2_1_20" : {
+                            "EC_6_2_1_20" : {
             "acceptedName" : "Long-chain-fatty-acid—[acyl-carrier-protein] ligase",
              "description" : "",
               "biosystems" : {
@@ -5698,6 +5673,31 @@
             "references" : [],
             "btenz_id" : "BTE0324"
         },       
+                           "EC_6_2_1_7" : {
+            "acceptedName" : "cholate—CoA ligase",
+             "description" : "",
+              "biosystems" : {
+                "HUMAN" : {
+                           "uniprot_ids" : ["Q9Y2P5"],
+                    "cellular_locations" : []
+                }
+            },
+              "references" : [
+                      {
+                    "Title" : "Glycine and taurine conjugation of bile acids by a single enzyme. Molecular cloning and expression of human liver bile acid CoA:amino acid N-acyltransferase",
+                     "PMID" : "8034703",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "",
+                      "URL" : ""
+                }
+
+
+              ],
+                "btenz_id" : "BTE0325"
+        },
+
 
                            "EC_1_3_1_31" : {
             "acceptedName" : "2-enoate reductase",
@@ -5729,7 +5729,7 @@
                 }
 
               ],
-                "btenz_id" : "BTE0325"
+                "btenz_id" : "BTE0326"
         }
 
 
