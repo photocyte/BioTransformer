@@ -1,3 +1,9 @@
+// *************************************************************************************************** 
+// Author: Djoumbou Feunang, Yannick
+// Cite: Djoumbou Feunang, Yannick; Cheminformatics Tools for Enabling Metabolomics; 2017; PhD Thesis
+// ***************************************************************************************************
+
+
 {
           "table" : "metabolicReactions",
     "description" : "This table provides the list of reactions, their smirks, smarts, and negative smarts. It is part of BioTransformer's Reaction Knowledgebase.",

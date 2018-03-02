@@ -1,10 +1,11 @@
-//  
-// Author: Djoumbou Feunang, Yannick (2016)
-//
-//
+// *************************************************************************************************** 
+// Author: Djoumbou Feunang, Yannick
+// Cite: Djoumbou Feunang, Yannick; Cheminformatics Tools for Enabling Metabolomics; 2017; PhD Thesis
+// ***************************************************************************************************
+
 {
           "table" : "enzymes",
-    "description" : "this table provides the list of enzymes, their names, , description, and references",
+    "description" : "this table provides the list of enzymes, their names, , description, and references. It is part of BioTransformer's Reaction Knowledgebase.",
         "enzymes" : {
                                 "CYP1A1" : {
             "acceptedName" : "Cytochrome P450 1A1",

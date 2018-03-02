@@ -64,8 +64,7 @@ etc.), the 'allHuman' option predicts all possible metabolites from any
 applicable reaction(Oxidation, reduction, (de-)conjugation) at each step.
 
 
-(** ) For the environmental microbial biodegradation, all reactions (aerobic and anaerobic) 
-are reported, and not only the aerobic biotransformations (as per default in the EAWAG BBD/PPS system).
+(** ) For the environmental microbial biodegradation, all reactions (aerobic and anaerobic) are reported, and not only the aerobic biotransformations (as per default in the EAWAG BBD/PPS system).
 
 
 *********

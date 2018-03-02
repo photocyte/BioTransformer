@@ -1,22 +1,23 @@
+// *************************************************************************************************** 
+// Author: Djoumbou Feunang, Yannick
+// Cite: Djoumbou Feunang, Yannick; Cheminformatics Tools for Enabling Metabolomics; 2017; PhD Thesis
+// ***************************************************************************************************
+
 {
-	"table" : "references"
+  "table" : "references"
 
-	"description" : "this table provides the list of sources and scientific resources"
+  "description" : "this table provides the list of sources and scientific resources. It is part of BioTransformer's Reaction Knowledgebase."
 
-	"referenceList" : {
-		{
-			"id" : 1,
-			"title" : "The Esterase and Depsidase Activities of Tannase",			
-			"authors" : "Haslam, E.; Stangroom, J.E.",
-			"source" : "Biochem J.; 99(1):28-31",
-			"doi" : "5965343",
-			"pmid" : 00000,
-			"pcmid" : 00000,
-			"year" : 1966
-		}
-
-
-
-
-	}
+  "referenceList" : {
+    {
+      "id" : 1,
+      "title" : "The Esterase and Depsidase Activities of Tannase",     
+      "authors" : "Haslam, E.; Stangroom, J.E.",
+      "source" : "Biochem J.; 99(1):28-31",
+      "doi" : "5965343",
+      "pmid" : 00000,
+      "pcmid" : 00000,
+      "year" : 1966
+    }
+  }
 }

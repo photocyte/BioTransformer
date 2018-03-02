@@ -1,32 +1,32 @@
+// *************************************************************************************************** 
+// Author: Djoumbou Feunang, Yannick
+// Cite: Djoumbou Feunang, Yannick; Cheminformatics Tools for Enabling Metabolomics; 2017; PhD Thesis
+// ***************************************************************************************************
+
 {
-	"table" : "sChemCategoryCellularLocation",
+  "table" : "sChemCategoryCellularLocation",
 
-	"description" : "this table provides a mapping of structure based chemical classes to their cellular locations. ",
+  "description" : "this table provides a mapping of structure based chemical classes to their cellular locations. It is part of BioTransformer's Reaction Knowledgebase.",
 
-	"cellularLocations" : {
-		{
-			"FATTY_ACID" : {
-				"cellular_location" : {
-					"HUMAN" : []
-				}
-			},
+  "cellularLocations" : {
+    {
+      "FATTY_ACID" : {
+        "cellular_location" : {
+          "HUMAN" : []
+        }
+      },
 
-			"GLYCEROLIPID" : {
-				"cellular_location" : {
-					"HUMAN" : []
-				}
-			},
+      "GLYCEROLIPID" : {
+        "cellular_location" : {
+          "HUMAN" : []
+        }
+      },
 
-			"BILE_ACID" : {
-				"cellular_location" : {
-					"HUMAN" : []
-				}			
-			}
-
-		}
-
-
-
-
-	}
+      "BILE_ACID" : {
+        "cellular_location" : {
+          "HUMAN" : []
+        }     
+      }
+    }
+  }
 }
