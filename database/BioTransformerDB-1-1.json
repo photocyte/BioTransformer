@@ -7675,7 +7675,7 @@
                       "HMDB_ID" : "NULL"
               }
           ],
-                                   "References" : "(R1) Rendic, S. et al. 2012; Contributions of Human Enzymes in Carcinogen Metabolism Slobodan Rendic1,* and F. Peter Guengerich; Chem Res Toxicol. 2012 July 16; 25(7): 1316–1383. doi:10.1021/tx300132k || (R2) Walters DG et al. (2004); Carcinogenesis vol.25 no.9 pp.1659-1669; doi:10.1093/carcin/bgh164"
+                                   "References" : "(R1) Rendic, S. et al. 2012; Contributions of Human Enzymes in Carcinogen Metabolism; Slobodan Rendic, and F. Peter Guengerich; Chem Res Toxicol. 2012 July 16; 25(7): 1316–1383. doi:10.1021/tx300132k || (R2) Walters DG et al. (2004); Carcinogenesis vol.25 no.9 pp.1659-1669; doi:10.1093/carcin/bgh164"
       },
       "BIOTID0275" : {
                                     "Substrate" : {
@@ -9031,7 +9031,7 @@
                   "HMDB_ID" : "NULL"
           },
                                     "Enzyme(s)" : "Azobenzene reductase",
-                                "Reaction Type" : "REDUCTION_OF_AZOBENZENE",
+                                "Reaction Type" : "Reduction of Azobenzene",
           "BioTransformer Reaction ID (BTMRID)" : "BTMR1254",
                        "Biotransformation type" : "Human Gut Microbial",
                                     "Biosystem" : "Human",
@@ -9050,7 +9050,7 @@
       },
       "BIOTID0324" : {
                                     "Substrate" : {
-                     "Name" : "NItrazepam",
+                     "Name" : "Nitrazepam",
                    "SMILES" : "[O-][N+](=O)C1=CC=C2NC(=O)CN=C(C3=CC=CC=C3)C2=C1",
                  "InChIKey" : "KJONHKAYOJNZEC-UHFFFAOYSA-N",
                  "BTMDB_ID" : "BTM0566",

@@ -5731,6 +5731,39 @@
 
               ],
                 "btenz_id" : "BTE0326"
+        },
+
+                           "EC_4_3_99_4" : {
+            "acceptedName" : "Choline trimethylamine-lyase",
+             "description" : "",
+              "biosystems" : {
+                "GUTMICRO" : {
+                           "uniprot_ids" : [],
+                    "cellular_locations" : []
+                }
+            },
+              "references" : [
+                      {
+                    "Title" : "Microbial conversion of choline to trimethylamine requires a glycyl radical enzyme",
+                     "PMID" : "23151509",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "",
+                      "URL" : ""
+                },
+                                      {
+                    "Title" : "Characterization of Choline Trimethylamine-Lyase Expands the Chemistry of Glycyl Radical Enzymes",
+                     "PMID" : "24854437",
+                    "PCMID" : "",
+                     "ISBN" : "",
+                     "ISSN" : "",
+                      "DOI" : "10.1021/cb500113p",
+                      "URL" : ""
+                }
+
+              ],
+                "btenz_id" : "BTE0327"
         }
 
 
