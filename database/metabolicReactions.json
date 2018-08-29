@@ -743,11 +743,7 @@
         },
                                                           "GLUCURONIDATION_OF_AMINE_OXIDE" : {
                 "commonName" : "O-glucuronidation N-oxide",
-<<<<<<< HEAD
                     "smirks" : "[#7+:1]-[#8;X1-:2]>>[#7+:1]-[#8;X2:2]-[#6]-1-[#8]-[#6](-[#6](-[#8])-[#6](-[#8])-[#6]-1-[#8])-[#6](-[#8])=O",
-=======
-                    "smirks" : "[#7+:1]-[#8;X1-:2]>>[#7+:1]-[#8;X2:2]-[#6]-1-[#8]-[#6](-[#6]-[#6](-[#8])-[#6]-1-[#8])-[#6](-[#8])=O",
->>>>>>> 2c636f9fd1f46a0e0cb5244771f3fe76a88032a4
                     "smarts" : [
                 "[$([#6][N;X4+]([#6])([#6])[#8;X1-]),$([#6][#7;X3+](=,:[#6])-[#8;X1-])]"
             ],
@@ -7205,11 +7201,7 @@
                     "btmrID" : "BTMR1054"
         },
                                     "HYDROXYLATION_OF_CARBON_ALPHA_TO_CONJUGATED_CARBONYL" : {
-<<<<<<< HEAD
                 "commonName" : "Hydroxylation of carbon alpha to conjugated carbonyl",
-=======
-                "commonName" : "Hydroxylation of carbon alpha to conkjugated carbonyl",
->>>>>>> 2c636f9fd1f46a0e0cb5244771f3fe76a88032a4
                     "smirks" : "[#8,#7,#6,#16,#1,#17,#9,#35,#53:1]-,:[#6;X3:2](=[O;X1:3])[#6:4]([H:5])=,:[#6:6]([*,#1:7])[*,#1:8]>>[#8,#7,#6,#16,#1,#17,#9,#35,#53:1]-,:[#6;X3:2](=[O;X1:3])[#6:4](-[#8][H:5])=,:[#6:6]([*,#1:7])[*,#1:8]",
                     "smarts" : [
                 "[#8,#7,#6,#16,#1,#17,#9,#35,#53]-,:[#6;X3](=[O;X1])[#6]([H])=,:[#6]([*,#1])[*,#1]"
@@ -7218,11 +7210,7 @@
                     "btmrID" : "BTMR1055"
         },
                                     "HYDROXYLATION_OF_CARBON_GAMMA_TO_CONJUGATED_CARBONYL" : {
-<<<<<<< HEAD
                 "commonName" : "Hydroxylation of carbon gamma to conjugated carbonyl",
-=======
-                "commonName" : "Hydroxylation of carbon gamma to conkjugated carbonyl",
->>>>>>> 2c636f9fd1f46a0e0cb5244771f3fe76a88032a4
                     "smirks" : "[H][#6;X4:3]-[#6:2](-[*,#1:1])=[#6:4]([H:5])-[#6;X3:6]([#8,#7,#6,#16,#1,#17,#9,#35,#53;A:7])=[O;X1:8]>>[H][#8]-[#6;X4:3]-[#6:2](-[*,#1:1])=[#6:4]([H:5])-[#6;X3:6]([#8,#7,#6,#16,#1,#17,#9,#35,#53;A:7])=[O;X1:8]",
                     "smarts" : [
                 "[H][#6;X4]-[#6](-[*,#1])=[#6]([H])-[#6;X3]([#8,#7,#6,#16,#1,#17,#9,#35,#53;A])=[O;X1]"

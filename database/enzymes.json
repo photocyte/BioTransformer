@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 //
-=======
-//  
->>>>>>> 2c636f9fd1f46a0e0cb5244771f3fe76a88032a4
 // Author: Djoumbou Feunang, Yannick (2016)
 //
 //
@@ -225,11 +221,7 @@
                      "ISSN" : "",
                       "DOI" : "10.1081/DMR-100101942",
                       "URL" : ""
-<<<<<<< HEAD
                 },
-=======
-                },               
->>>>>>> 2c636f9fd1f46a0e0cb5244771f3fe76a88032a4
                       {
                     "Title" : "The functional role of CYP2B6 in human drug metabolism: substrates and inhibitors in vitro, in vivo and in silico",
                      "PMID" : "17073575",
@@ -238,11 +230,7 @@
                      "ISSN" : "",
                       "DOI" : "",
                       "URL" : ""
-<<<<<<< HEAD
                 }
-=======
-                } 
->>>>>>> 2c636f9fd1f46a0e0cb5244771f3fe76a88032a4
               ],
                 "btenz_id" : "BTE0007"
         },
@@ -2460,11 +2448,7 @@
                      "ISSN" : "",
                       "DOI" : "",
                       "URL" : ""
-<<<<<<< HEAD
                 },
-=======
-                }, 
->>>>>>> 2c636f9fd1f46a0e0cb5244771f3fe76a88032a4
                       {
                     "Title" : "1996 ASPET N-Glucuronidation of Xenobiotics Symposium - Species differences in N-glucuronidation",
                      "PMID" : "",
@@ -2473,11 +2457,7 @@
                      "ISSN" : "",
                       "DOI" : "",
                       "URL" : "http://dmd.aspetjournals.org/content/26/9/838.short"
-<<<<<<< HEAD
                 }
-=======
-                } 
->>>>>>> 2c636f9fd1f46a0e0cb5244771f3fe76a88032a4
 
 
             ],
@@ -5026,11 +5006,7 @@
                       "DOI" : "10.1074/jbc.M113.547117",
                       "URL" : ""
                 }
-<<<<<<< HEAD
 
-=======
-                
->>>>>>> 2c636f9fd1f46a0e0cb5244771f3fe76a88032a4
 
               ],
                 "btenz_id" : "BTE0299"
@@ -5062,11 +5038,7 @@
                      "ISSN" : "",
                       "DOI" : "10.1021/tx0497550",
                       "URL" : ""
-<<<<<<< HEAD
                 },
-=======
-                },              
->>>>>>> 2c636f9fd1f46a0e0cb5244771f3fe76a88032a4
                        {
                     "Title" : "Sequence-specific DNA damage induced by carcinogenic danthron and anthraquinone in the presence of Cu(II), cytochrome P450 reductase and NADPH",
                      "PMID" : "11697035",
@@ -5075,11 +5047,7 @@
                      "ISSN" : "",
                       "DOI" : "",
                       "URL" : ""
-<<<<<<< HEAD
                 }
-=======
-                } 
->>>>>>> 2c636f9fd1f46a0e0cb5244771f3fe76a88032a4
 
               ],
                 "btenz_id" : "BTE0300"
@@ -5120,11 +5088,7 @@
                      "ISSN" : "",
                       "DOI" : "10.1097/FPC.0b013e3283343296",
                       "URL" : ""
-<<<<<<< HEAD
                 }
-=======
-                } 
->>>>>>> 2c636f9fd1f46a0e0cb5244771f3fe76a88032a4
 
               ],
                 "btenz_id" : "BTE0301"
@@ -5147,11 +5111,7 @@
                      "ISSN" : "",
                       "DOI" : "",
                       "URL" : "http://www.genome.jp/dbget-bin/www_bget?hsa:9791"
-<<<<<<< HEAD
                 }
-=======
-                } 
->>>>>>> 2c636f9fd1f46a0e0cb5244771f3fe76a88032a4
 
                 //        {
                 //     "Title" : "",
@@ -5217,11 +5177,7 @@
                      "ISSN" : "",
                       "DOI" : "10.3390/pathogens3010014",
                       "URL" : ""
-<<<<<<< HEAD
                 }
-=======
-                }                
->>>>>>> 2c636f9fd1f46a0e0cb5244771f3fe76a88032a4
 
               ],
                 "btenz_id" : "BTE0305"
@@ -5621,11 +5577,7 @@
                            "uniprot_ids" : [
                     ],
                     "cellular_locations" : [
-<<<<<<< HEAD
 
-=======
-                              
->>>>>>> 2c636f9fd1f46a0e0cb5244771f3fe76a88032a4
                     ]
                 }
             },
@@ -5640,11 +5592,7 @@
                            "uniprot_ids" : [
                     ],
                     "cellular_locations" : [
-<<<<<<< HEAD
 
-=======
-                              
->>>>>>> 2c636f9fd1f46a0e0cb5244771f3fe76a88032a4
                     ]
                 }
             },
@@ -5660,11 +5608,7 @@
                             "O07006"
                     ],
                     "cellular_locations" : [
-<<<<<<< HEAD
 
-=======
-                              
->>>>>>> 2c636f9fd1f46a0e0cb5244771f3fe76a88032a4
                     ]
                 }
             },
@@ -5707,11 +5651,7 @@
                            "uniprot_ids" : [
                     ],
                     "cellular_locations" : [
-<<<<<<< HEAD
 
-=======
-                              
->>>>>>> 2c636f9fd1f46a0e0cb5244771f3fe76a88032a4
                     ]
                 }
             },
@@ -5726,21 +5666,13 @@
                            "uniprot_ids" : [
                     ],
                     "cellular_locations" : [
-<<<<<<< HEAD
 
-=======
-                              
->>>>>>> 2c636f9fd1f46a0e0cb5244771f3fe76a88032a4
                     ]
                 }
             },
             "references" : [],
             "btenz_id" : "BTE0324"
-<<<<<<< HEAD
         },
-=======
-        },       
->>>>>>> 2c636f9fd1f46a0e0cb5244771f3fe76a88032a4
                            "EC_6_2_1_7" : {
             "acceptedName" : "cholate—CoA ligase",
              "description" : "",
@@ -5798,7 +5730,6 @@
 
               ],
                 "btenz_id" : "BTE0326"
-<<<<<<< HEAD
         },
 
 
@@ -5838,11 +5769,5 @@
         }
 
 
-=======
-        }
-
-
-
->>>>>>> 2c636f9fd1f46a0e0cb5244771f3fe76a88032a4
   }
 }
