@@ -1,7 +1,9 @@
-//
-// Author: Djoumbou Feunang, Yannick (2016)
-//
-//
+// ***************************************************************************************************
+// Author: Djoumbou Feunang, Yannick
+// Cite: Djoumbou Feunang Y, Fiamoncini J, de la Fuente AG, Manach C, Greiner R, and Wishart DS;
+// BioTransformer: A Comprehensive Computational Tool for Small Molecule Metabolism Prediction
+// and Metabolite Identification; Journal of Cheminformatics; 2018; Submitted
+// ***************************************************************************************************
 
 {
 	"table" : "BioSystemToEnzymes",
