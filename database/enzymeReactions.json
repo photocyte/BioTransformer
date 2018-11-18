@@ -1,8 +1,6 @@
 // ***************************************************************************************************
 // Author: Djoumbou Feunang, Yannick
-// Cite: Djoumbou Feunang Y, Fiamoncini J, de la Fuente AG, Manach C, Greiner R, and Wishart DS;
-// BioTransformer: A Comprehensive Computational Tool for Small Molecule Metabolism Prediction
-// and Metabolite Identification; Journal of Cheminformatics; 2018; Submitted
+// Cite: Djoumbou Feunang, Yannick; Cheminformatics Tools for Enabling Metabolomics; 2017; PhD Thesis
 // ***************************************************************************************************
 
 
@@ -2159,7 +2157,8 @@
       "PHOSPHATIDYLSERINE_DECARBOXYLATION"
     ],
     "EC_4_2_1_17" : [
-      "_3S_3_HYDROXYACYL_COA_DEHYDRATION"
+      "_3S_3_HYDROXYACYL_COA_DEHYDRATION",
+      "_2_3_ENOYL_COA_HYDRATION"
     ],
 
     "EC_4_2_1_84" : [
