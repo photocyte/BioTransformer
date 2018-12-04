@@ -1237,9 +1237,10 @@
       "REDUCTION_OF_AZOBENZENE"
     ],
 
-    "EC_1_8_99_3" : [
-      "SULFITE_REDUCTION"
-    ],
+    // Deleted from EC
+    // "EC_1_8_99_3" : [
+    //   "SULFITE_REDUCTION"
+    // ],
 
     "EC_1_14_13_70" : [
       "STEROL_14_ALPHA_DEMETHYLATION"
